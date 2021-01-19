@@ -1,0 +1,16 @@
+---
+authors:
+- Cecil
+category: books
+cover: 2518081732.jpg
+date: 2018-09-03 19:10:37-07:00
+end_date: 2018-09-07 05:49:42-07:00
+format: paperback
+ids:
+  goodreads: '2518081732'
+  isbn_10: '1594650454'
+  isbn_13: '9781594650451'
+link: https://www.goodreads.com/book/show/10842226-the-bombyce-network
+status: read
+title: The Bombyce Network
+---

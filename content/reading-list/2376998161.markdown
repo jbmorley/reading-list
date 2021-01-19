@@ -1,0 +1,16 @@
+---
+authors:
+- Ben Russell
+category: books
+cover: 2376998161.jpg
+date: 2018-04-29 18:10:32-07:00
+end_date: 2018-04-29 18:10:42-07:00
+format: hardcover
+ids:
+  goodreads: '2376998161'
+  isbn_10: '1785510681'
+  isbn_13: '9781785510687'
+link: https://www.goodreads.com/book/show/32446414-robots
+status: read
+title: 'Robots: The 500-Year Quest to Make Machines Human'
+---

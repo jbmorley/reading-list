@@ -1,0 +1,12 @@
+---
+authors:
+- Andy Weir
+category: books
+cover: 2906497976.jpg
+format: ebook
+ids:
+  goodreads: '2906497976'
+link: https://www.goodreads.com/book/show/17563539-the-egg
+status: read
+title: The Egg
+---

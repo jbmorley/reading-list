@@ -1,0 +1,11 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 2701505732.jpg
+ids:
+  goodreads: '2701505732'
+link: https://www.goodreads.com/book/show/36219459-the-wild-storm-8
+status: read
+title: 'The Wild Storm #8'
+---

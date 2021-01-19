@@ -1,0 +1,16 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 1833604824.jpg
+date: 2017-01-12 00:00:00-08:00
+end_date: 2017-01-16 15:24:33-08:00
+format: paperback
+ids:
+  goodreads: '1833604824'
+  isbn_10: '1840239247'
+  isbn_13: '9781840239249'
+link: https://www.goodreads.com/book/show/43731.Ministry_of_Space
+status: read
+title: Ministry of Space
+---

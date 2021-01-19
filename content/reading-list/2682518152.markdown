@@ -1,0 +1,16 @@
+---
+authors:
+- Hana Ros
+category: books
+cover: 2682518152.jpg
+date: 2019-01-20 16:36:38-08:00
+end_date: 2019-01-20 16:36:42-08:00
+format: hardcover
+ids:
+  goodreads: '2682518152'
+  isbn_10: '1907704701'
+  isbn_13: '9781907704703'
+link: https://www.goodreads.com/book/show/17675119-neurocomic
+status: read
+title: Neurocomic
+---

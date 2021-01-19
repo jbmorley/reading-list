@@ -1,0 +1,16 @@
+---
+authors:
+- Neil Gaiman
+category: books
+cover: 1826491052.jpg
+date: 2016-06-24 00:00:00-07:00
+end_date: 2016-08-01 00:00:00-07:00
+format: paperback
+ids:
+  goodreads: '1826491052'
+  isbn_10: 156389016X
+  isbn_13: '9781563890161'
+link: https://www.goodreads.com/book/show/298290.Dream_Country
+status: read
+title: Dream Country
+---

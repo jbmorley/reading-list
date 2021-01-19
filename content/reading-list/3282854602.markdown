@@ -1,0 +1,12 @@
+---
+authors:
+- Philip K. Dick
+category: books
+cover: 3282854602.jpg
+format: kindle-edition
+ids:
+  goodreads: '3282854602'
+link: https://www.goodreads.com/book/show/38650847-philip-k-dick-s-electric-dreams
+status: to-read
+title: Philip K. Dick's Electric Dreams
+---

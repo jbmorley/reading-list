@@ -1,0 +1,16 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 1823115172.jpg
+date: 2016-11-21 00:00:00-08:00
+end_date: 2016-11-27 10:54:18-08:00
+format: paperback
+ids:
+  goodreads: '1823115172'
+  isbn_10: '1563897644'
+  isbn_13: '9781563897641'
+link: https://www.goodreads.com/book/show/209968.Planetary_Volume_2
+status: read
+title: 'Planetary, Volume 2: The Fourth Man'
+---

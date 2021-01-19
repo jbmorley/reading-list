@@ -1,0 +1,14 @@
+---
+authors:
+- Terry Pratchett
+category: books
+cover: 1823650523.jpg
+format: paperback
+ids:
+  goodreads: '1823650523'
+  isbn_10: '0552134627'
+  isbn_13: '9780552134620'
+link: https://www.goodreads.com/book/show/233679.Guards_Guards_
+status: read
+title: Guards! Guards!
+---

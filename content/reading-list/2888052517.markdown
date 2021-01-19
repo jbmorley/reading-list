@@ -1,0 +1,13 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 2888052517.jpg
+date: 2019-07-05 00:00:00-07:00
+end_date: 2019-07-12 07:54:09-07:00
+ids:
+  goodreads: '2888052517'
+link: https://www.goodreads.com/book/show/25421770-normal
+status: read
+title: Normal
+---

@@ -1,0 +1,16 @@
+---
+authors:
+- G. Willow Wilson
+category: books
+cover: 3191846764.jpg
+date: 2020-02-15 12:11:04-08:00
+end_date: 2020-02-16 13:15:14-08:00
+format: paperback
+ids:
+  goodreads: '3191846764'
+  isbn_10: 078519021X
+  isbn_13: '9780785190219'
+link: https://www.goodreads.com/book/show/20898019-ms-marvel-vol-1
+status: read
+title: 'Ms. Marvel, Vol. 1: No Normal'
+---

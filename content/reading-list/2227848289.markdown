@@ -1,0 +1,14 @@
+---
+authors:
+- Haruki Murakami
+category: books
+cover: 2227848289.jpg
+format: paperback
+ids:
+  goodreads: '2227848289'
+  isbn_10: 0099461099
+  isbn_13: '9780099461098'
+link: https://www.goodreads.com/book/show/17801.Underground
+status: read
+title: 'Underground: The Tokyo Gas Attack and the Japanese Psyche'
+---

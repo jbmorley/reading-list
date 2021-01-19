@@ -1,0 +1,12 @@
+---
+authors:
+- Douglas Adams
+category: books
+cover: 2043922700.jpg
+format: paperback
+ids:
+  goodreads: '2043922700'
+link: https://www.goodreads.com/book/show/8695.The_Restaurant_at_the_End_of_the_Universe
+status: read
+title: The Restaurant at the End of the Universe
+---

@@ -1,0 +1,12 @@
+---
+authors:
+- Jacqueline Carey
+category: books
+cover: 2637373925.jpg
+date: 2019-01-09 21:43:06-08:00
+ids:
+  goodreads: '2637373925'
+link: https://www.goodreads.com/book/show/12155371-kushiel-s-dart
+status: currently-reading
+title: Kushiel's Dart
+---

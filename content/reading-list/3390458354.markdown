@@ -1,0 +1,14 @@
+---
+authors:
+- Kenichi Sonoda
+category: books
+cover: 3390458354.jpg
+format: paperback
+ids:
+  goodreads: '3390458354'
+  isbn_10: '1569717451'
+  isbn_13: '9781569717455'
+link: https://www.goodreads.com/book/show/390108.Cannon_God_Exaxxion_Stage_1
+status: to-read
+title: Cannon God Exaxxion Stage 1
+---

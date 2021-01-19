@@ -1,0 +1,16 @@
+---
+authors:
+- Robison Wells
+category: books
+cover: 1823609475.jpg
+date: 2016-05-04 00:00:00-07:00
+end_date: 2016-05-11 00:00:00-07:00
+format: ebook
+ids:
+  goodreads: '1823609475'
+  isbn_10: '0062275046'
+  isbn_13: '9780062275042'
+link: https://www.goodreads.com/book/show/20452184-dead-zone
+status: read
+title: Dead Zone
+---

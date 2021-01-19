@@ -1,0 +1,16 @@
+---
+authors:
+- Leonard Koren
+category: books
+cover: 2383600234.jpg
+date: 2018-05-06 09:23:03-07:00
+end_date: 2018-12-28 19:27:05-08:00
+format: paperback
+ids:
+  goodreads: '2383600234'
+  isbn_10: 0981484654
+  isbn_13: '9780981484655'
+link: https://www.goodreads.com/book/show/21535451-wabi-sabi
+status: read
+title: 'Wabi-Sabi: Further Thoughts'
+---

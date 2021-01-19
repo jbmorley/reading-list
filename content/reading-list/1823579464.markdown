@@ -1,0 +1,14 @@
+---
+authors:
+- Brian Eddy
+category: books
+cover: 1823579464.jpg
+format: paperback
+ids:
+  goodreads: '1823579464'
+  isbn_10: 0747810427
+  isbn_13: '9780747810421'
+link: https://www.goodreads.com/book/show/13136100-classic-video-games
+status: read
+title: 'Classic Video Games: The Golden Age 1971–1984'
+---

@@ -1,0 +1,14 @@
+---
+authors:
+- Neil Gaiman
+category: books
+cover: 1823216832.jpg
+format: paperback
+ids:
+  goodreads: '1823216832'
+  isbn_10: 0062080237
+  isbn_13: '9780062080233'
+link: https://www.goodreads.com/book/show/30166675-american-gods
+status: read
+title: American Gods
+---

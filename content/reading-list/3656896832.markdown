@@ -1,0 +1,16 @@
+---
+authors:
+- Marjorie M. Liu
+category: books
+cover: 3656896832.jpg
+date: 2020-11-21 18:06:29-08:00
+end_date: 2020-11-22 21:49:09-08:00
+format: paperback
+ids:
+  goodreads: '3656896832'
+  isbn_10: '1534316612'
+  isbn_13: '9781534316614'
+link: https://www.goodreads.com/book/show/52637764-monstress-vol-5
+status: read
+title: 'Monstress, Vol. 5: Warchild'
+---

@@ -1,0 +1,13 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 2076779294.jpg
+date: 2017-07-27 00:00:00-07:00
+end_date: 2017-07-30 12:54:06-07:00
+ids:
+  goodreads: '2076779294'
+link: https://www.goodreads.com/book/show/20170322-transmetropolitan-vol-8
+status: read
+title: 'Transmetropolitan, Vol. 8: Dirge'
+---

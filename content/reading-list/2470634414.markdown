@@ -1,0 +1,13 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 2470634414.jpg
+date: 2018-07-24 00:00:00-07:00
+end_date: 2018-07-25 21:19:45-07:00
+ids:
+  goodreads: '2470634414'
+link: https://www.goodreads.com/book/show/36206785-ignition-city-1
+status: read
+title: 'Ignition City #1'
+---

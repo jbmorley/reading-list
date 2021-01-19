@@ -1,0 +1,16 @@
+---
+authors:
+- Ben Aaronovitch
+category: books
+cover: 3467217018.jpg
+date: 2020-07-28 17:05:07-07:00
+end_date: 2020-09-05 18:11:29-07:00
+format: hardcover
+ids:
+  goodreads: '3467217018'
+  isbn_10: 0575097647
+  isbn_13: '9780575097643'
+link: https://www.goodreads.com/book/show/10814687-whispers-under-ground
+status: read
+title: Whispers Under Ground
+---

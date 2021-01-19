@@ -1,0 +1,16 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 1826485363.jpg
+date: 2016-05-27 00:00:00-07:00
+end_date: 2016-05-28 00:00:00-07:00
+format: paperback
+ids:
+  goodreads: '1826485363'
+  isbn_10: 163215479X
+  isbn_13: '9781632154798'
+link: https://www.goodreads.com/book/show/25787656-injection-vol-1
+status: read
+title: Injection, Vol. 1
+---

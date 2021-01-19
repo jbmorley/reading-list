@@ -1,0 +1,14 @@
+---
+authors:
+- Ambrose Bierce
+category: books
+cover: 2043924393.jpg
+format: paperback
+ids:
+  goodreads: '2043924393'
+  isbn_10: 0820324019
+  isbn_13: '9780820324012'
+link: https://www.goodreads.com/book/show/49256.The_Unabridged_Devil_s_Dictionary
+status: read
+title: The Unabridged Devil's Dictionary
+---

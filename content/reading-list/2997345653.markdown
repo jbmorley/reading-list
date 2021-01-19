@@ -1,0 +1,16 @@
+---
+authors:
+- Chihiro Ishizuka
+category: books
+cover: 2997345653.jpg
+date: 2019-10-01 00:00:00-07:00
+end_date: 2019-10-13 07:52:19-07:00
+format: paperback
+ids:
+  goodreads: '2997345653'
+  isbn_10: '1945054670'
+  isbn_13: '9781945054679'
+link: https://www.goodreads.com/book/show/36213831-flying-witch-vol-5
+status: read
+title: Flying Witch, Vol. 5
+---

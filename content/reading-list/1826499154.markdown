@@ -1,0 +1,12 @@
+---
+authors:
+- George Orwell
+category: books
+cover: 1826499154.jpg
+format: paperback
+ids:
+  goodreads: '1826499154'
+link: https://www.goodreads.com/book/show/185900.Nineteen_Eighty_Four
+status: read
+title: Nineteen Eighty-Four
+---

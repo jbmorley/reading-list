@@ -1,0 +1,16 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 1823572717.jpg
+date: 2016-11-27 00:00:00-08:00
+end_date: 2016-11-28 00:00:00-08:00
+format: paperback
+ids:
+  goodreads: '1823572717'
+  isbn_10: '1401202942'
+  isbn_13: '9781401202941'
+link: https://www.goodreads.com/book/show/43743.Planetary_Volume_3
+status: read
+title: 'Planetary, Volume 3: Leaving the 20th Century'
+---

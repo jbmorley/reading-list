@@ -1,0 +1,16 @@
+---
+authors:
+- Philip Pullman
+category: books
+cover: 2192898193.jpg
+date: 2017-11-23 09:49:48-08:00
+end_date: 2017-12-01 08:48:21-08:00
+format: hardcover
+ids:
+  goodreads: '2192898193'
+  isbn_10: 0375815309
+  isbn_13: '9780375815300'
+link: https://www.goodreads.com/book/show/34128219-la-belle-sauvage
+status: read
+title: La Belle Sauvage
+---

@@ -1,0 +1,16 @@
+---
+authors:
+- Anthony Horowitz
+category: books
+cover: 2562493513.jpg
+date: 2018-10-09 00:00:00-07:00
+end_date: 2018-10-18 17:59:45-07:00
+format: hardcover
+ids:
+  goodreads: '2562493513'
+  isbn_10: 0062377183
+  isbn_13: '9780062377180'
+link: https://www.goodreads.com/book/show/22535533-moriarty
+status: read
+title: Moriarty
+---

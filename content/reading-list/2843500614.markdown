@@ -1,0 +1,15 @@
+---
+authors:
+- Tracy J. Butler
+category: books
+cover: 2843500614.jpg
+date: 2019-06-01 00:00:00-07:00
+format: paperback
+ids:
+  goodreads: '2843500614'
+  isbn_10: 0981959903
+  isbn_13: '9780981959900'
+link: https://www.goodreads.com/book/show/7362781-lackadaisy
+status: abandoned
+title: 'Lackadaisy: Volume #1'
+---

@@ -1,0 +1,14 @@
+---
+authors:
+- Alan Moore
+category: books
+cover: 2047679824.jpg
+format: hardcover
+ids:
+  goodreads: '2047679824'
+  isbn_10: 086166230X
+  isbn_13: '9780861662302'
+link: https://www.goodreads.com/book/show/17618631-nemo
+status: read
+title: 'Nemo: The Roses of Berlin'
+---

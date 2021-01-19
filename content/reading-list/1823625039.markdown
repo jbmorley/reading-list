@@ -1,0 +1,14 @@
+---
+authors:
+- Scott Adams
+category: books
+cover: 1823625039.jpg
+format: paperback
+ids:
+  goodreads: '1823625039'
+  isbn_10: 0836278445
+  isbn_13: '9780836278446'
+link: https://www.goodreads.com/book/show/85597.Don_t_Step_in_the_Leadership
+status: read
+title: Don't Step in the Leadership
+---

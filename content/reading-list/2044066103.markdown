@@ -1,0 +1,14 @@
+---
+authors:
+- Haruki Murakami
+category: books
+cover: 2044066103.jpg
+format: paperback
+ids:
+  goodreads: '2044066103'
+  isbn_10: '4061860127'
+  isbn_13: '9784061860124'
+link: https://www.goodreads.com/book/show/591978.Pinball_1973
+status: read
+title: Pinball, 1973
+---

@@ -1,0 +1,16 @@
+---
+authors:
+- Philip Pullman
+category: books
+cover: 3051206778.jpg
+date: 2019-11-17 22:07:05-08:00
+end_date: 2020-01-12 22:36:31-08:00
+format: paperback
+ids:
+  goodreads: '3051206778'
+  isbn_10: 0439977797
+  isbn_13: '9780439977791'
+link: https://www.goodreads.com/book/show/87273.The_Tin_Princess
+status: read
+title: The Tin Princess
+---

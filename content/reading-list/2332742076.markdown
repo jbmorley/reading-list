@@ -1,0 +1,16 @@
+---
+authors:
+- Neal Stephenson
+category: books
+cover: 2332742076.jpg
+date: 2018-03-18 00:00:00-07:00
+end_date: 2018-04-03 00:00:00-07:00
+format: paperback
+ids:
+  goodreads: '2332742076'
+  isbn_10: 0553380966
+  isbn_13: '9780553380965'
+link: https://www.goodreads.com/book/show/827.The_Diamond_Age
+status: read
+title: 'The Diamond Age: Or, a Young Lady''s Illustrated Primer'
+---

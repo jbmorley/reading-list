@@ -1,0 +1,15 @@
+---
+authors:
+- Neil Gaiman
+category: books
+cover: 3390919435.jpg
+date: 2020-06-13 22:36:25-07:00
+format: hardcover
+ids:
+  goodreads: '3390919435'
+  isbn_10: '1563892049'
+  isbn_13: '9781563892042'
+link: https://www.goodreads.com/book/show/71252.The_Kindly_Ones
+status: currently-reading
+title: The Kindly Ones
+---

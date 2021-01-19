@@ -1,0 +1,14 @@
+---
+authors:
+- Douglas Adams
+category: books
+cover: 2043922929.jpg
+format: hardcover
+ids:
+  goodreads: '2043922929'
+  isbn_10: 0671625829
+  isbn_13: '9780671625825'
+link: https://www.goodreads.com/book/show/358.Dirk_Gently_s_Holistic_Detective_Agency
+status: read
+title: Dirk Gently's Holistic Detective Agency
+---

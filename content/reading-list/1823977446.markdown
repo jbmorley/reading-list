@@ -1,0 +1,14 @@
+---
+authors:
+- Bill Bryson
+category: books
+cover: 1823977446.jpg
+format: hardcover
+ids:
+  goodreads: '1823977446'
+  isbn_10: 076791936X
+  isbn_13: '9780767919364'
+link: https://www.goodreads.com/book/show/10538.The_Life_and_Times_of_the_Thunderbolt_Kid
+status: read
+title: The Life and Times of the Thunderbolt Kid
+---

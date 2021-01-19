@@ -1,0 +1,14 @@
+---
+authors:
+- Lee Pfeiffer
+category: books
+cover: 2107421327.jpg
+format: hardcover
+ids:
+  goodreads: '2107421327'
+  isbn_10: 0752224778
+  isbn_13: '9780752224770'
+link: https://www.goodreads.com/book/show/2341481.The_Essential_Bond
+status: read
+title: 'The Essential Bond: The Authorized Guide to the World of 007'
+---

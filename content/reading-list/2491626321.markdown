@@ -1,0 +1,16 @@
+---
+authors:
+- Agatha Christie
+category: books
+cover: 2491626321.jpg
+date: 2018-08-12 14:08:59-07:00
+end_date: 2018-08-16 18:36:27-07:00
+format: paperback
+ids:
+  goodreads: '2491626321'
+  isbn_10: 0312981627
+  isbn_13: '9780312981624'
+link: https://www.goodreads.com/book/show/909932.Ordeal_by_Innocence
+status: read
+title: Ordeal by Innocence
+---

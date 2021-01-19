@@ -1,0 +1,12 @@
+---
+authors:
+- Arthur Conan Doyle
+category: books
+cover: 2043939125.jpg
+format: mass-market-paperback
+ids:
+  goodreads: '2043939125'
+link: https://www.goodreads.com/book/show/8921.The_Hound_of_the_Baskervilles
+status: read
+title: The Hound of the Baskervilles
+---

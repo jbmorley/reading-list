@@ -1,0 +1,14 @@
+---
+authors:
+- Ernest Cline
+category: books
+cover: 1823983297.jpg
+format: paperback
+ids:
+  goodreads: '1823983297'
+  isbn_10: 0307887448
+  isbn_13: '9780307887443'
+link: https://www.goodreads.com/book/show/12600138-ready-player-one
+status: read
+title: Ready Player One
+---

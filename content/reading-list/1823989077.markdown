@@ -1,0 +1,14 @@
+---
+authors:
+- J.K. Rowling
+category: books
+cover: 1823989077.jpg
+format: hardcover
+ids:
+  goodreads: '1823989077'
+  isbn_10: 074754624X
+  isbn_13: '9780747546245'
+link: https://www.goodreads.com/book/show/43509.Harry_Potter_and_the_Goblet_of_Fire
+status: read
+title: Harry Potter and the Goblet of Fire
+---

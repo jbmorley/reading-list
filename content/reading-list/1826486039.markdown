@@ -1,0 +1,16 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 1826486039.jpg
+date: 2016-08-29 00:00:00-07:00
+end_date: 2016-08-31 00:00:00-07:00
+format: paperback
+ids:
+  goodreads: '1826486039'
+  isbn_10: '1632157209'
+  isbn_13: '9781632157201'
+link: https://www.goodreads.com/book/show/29584610-injection-vol-2
+status: read
+title: Injection, Vol. 2
+---

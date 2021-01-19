@@ -1,0 +1,16 @@
+---
+authors:
+- Kenichi Sonoda
+category: books
+cover: 2368356436.jpg
+date: 2018-04-17 00:00:00-07:00
+end_date: 2018-05-05 16:56:11-07:00
+format: paperback
+ids:
+  goodreads: '2368356436'
+  isbn_10: '1593077483'
+  isbn_13: '9781593077488'
+link: https://www.goodreads.com/book/show/816192.Gunsmith_Cats
+status: read
+title: 'Gunsmith Cats: Volume 1'
+---

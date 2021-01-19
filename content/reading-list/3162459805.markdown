@@ -1,0 +1,16 @@
+---
+authors:
+- Terry Pratchett
+category: books
+cover: 3162459805.jpg
+date: 2020-01-26 20:43:05-08:00
+end_date: 2020-01-26 20:44:54-08:00
+format: paperback
+ids:
+  goodreads: '3162459805'
+  isbn_10: '0552133256'
+  isbn_13: '9780552133258'
+link: https://www.goodreads.com/book/show/34493.Strata
+status: read
+title: Strata
+---

@@ -1,0 +1,15 @@
+---
+authors:
+- Franklin Veaux
+category: books
+cover: 2799649615.jpg
+date: 2019-04-26 06:44:42-07:00
+format: paperback
+ids:
+  goodreads: '2799649615'
+  isbn_10: 0991399706
+  isbn_13: '9780991399703'
+link: https://www.goodreads.com/book/show/21955937-more-than-two
+status: abandoned
+title: 'More Than Two: A Practical Guide to Ethical Polyamory'
+---

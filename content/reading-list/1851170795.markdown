@@ -1,0 +1,14 @@
+---
+authors:
+- Jun'ichirō Tanizaki
+category: books
+cover: 1851170795.jpg
+format: paperback
+ids:
+  goodreads: '1851170795'
+  isbn_10: 0918172020
+  isbn_13: '9780918172020'
+link: https://www.goodreads.com/book/show/34473.In_Praise_of_Shadows
+status: read
+title: In Praise of Shadows
+---

@@ -1,0 +1,13 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 2178004855.jpg
+date: 2017-11-08 06:47:13-08:00
+end_date: 2017-11-08 06:56:57-08:00
+ids:
+  goodreads: '2178004855'
+link: https://www.goodreads.com/book/show/35009138-injection-15
+status: read
+title: 'Injection #15'
+---

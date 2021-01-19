@@ -1,0 +1,13 @@
+---
+authors:
+- H.G. Wells
+category: books
+cover: 2779489002.jpg
+ids:
+  goodreads: '2779489002'
+  isbn_10: '1600964249'
+  isbn_13: '9781600964244'
+link: https://www.goodreads.com/book/show/275779.The_Door_in_the_Wall
+status: read
+title: The Door in the Wall
+---

@@ -1,0 +1,14 @@
+---
+authors:
+- Isaac Asimov
+category: books
+cover: 1823629259.jpg
+format: paperback
+ids:
+  goodreads: '1823629259'
+  isbn_10: 0007933568
+  isbn_13: '9780007933563'
+link: https://www.goodreads.com/book/show/18106369-foundation-and-empire
+status: read
+title: Foundation and Empire
+---

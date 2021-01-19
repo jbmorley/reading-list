@@ -1,0 +1,14 @@
+---
+authors:
+- Scott Adams
+category: books
+cover: 1826527391.jpg
+format: paperback
+ids:
+  goodreads: '1826527391'
+  isbn_10: 0740705318
+  isbn_13: '9780740705311'
+link: https://www.goodreads.com/book/show/53892.A_Treasury_of_Sunday_Strips
+status: read
+title: A Treasury of Sunday Strips
+---

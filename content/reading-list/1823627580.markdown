@@ -1,0 +1,14 @@
+---
+authors:
+- Paulo Coelho
+category: books
+cover: 1823627580.jpg
+format: paperback
+ids:
+  goodreads: '1823627580'
+  isbn_10: 0060589280
+  isbn_13: '9780060589288'
+link: https://www.goodreads.com/book/show/1430.Eleven_Minutes
+status: read
+title: Eleven Minutes
+---

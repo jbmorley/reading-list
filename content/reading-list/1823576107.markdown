@@ -1,0 +1,14 @@
+---
+authors:
+- Aldous Huxley
+category: books
+cover: 1823576107.jpg
+format: paperback
+ids:
+  goodreads: '1823576107'
+  isbn_10: 0099477467
+  isbn_13: '9780099477464'
+link: https://www.goodreads.com/book/show/855038.Brave_New_World
+status: read
+title: Brave New World
+---

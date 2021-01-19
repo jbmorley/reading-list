@@ -1,0 +1,15 @@
+---
+authors:
+- Art Spiegelman
+category: books
+cover: 2828884900.jpg
+date: 2019-05-21 08:12:04-07:00
+format: paperback
+ids:
+  goodreads: '2828884900'
+  isbn_10: 0394747232
+  isbn_13: '9780394747231'
+link: https://www.goodreads.com/book/show/64229.Maus
+status: abandoned
+title: 'Maus: A Survivor''s Tale: My Father Bleeds History'
+---

@@ -1,0 +1,16 @@
+---
+authors:
+- Alan Moore
+category: books
+cover: 3618591055.jpg
+date: 2020-10-28 21:51:16-07:00
+end_date: 2020-11-13 17:07:58-08:00
+format: paperback
+ids:
+  goodreads: '3618591055'
+  isbn_10: '1592910157'
+  isbn_13: '9781592910151'
+link: https://www.goodreads.com/book/show/59708.Alan_Moore_s_The_Courtyard
+status: read
+title: Alan Moore's The Courtyard
+---

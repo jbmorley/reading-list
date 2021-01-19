@@ -1,0 +1,14 @@
+---
+authors:
+- Brian Jacques
+category: books
+cover: 2107271357.jpg
+format: paperback
+ids:
+  goodreads: '2107271357'
+  isbn_10: 0099433311
+  isbn_13: '9780099433316'
+link: https://www.goodreads.com/book/show/815254.The_Bellmaker
+status: read
+title: The Bellmaker
+---

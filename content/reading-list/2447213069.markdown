@@ -1,0 +1,13 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 2447213069.jpg
+date: 2018-07-06 01:23:43-07:00
+end_date: 2018-07-06 01:25:25-07:00
+ids:
+  goodreads: '2447213069'
+link: https://www.goodreads.com/book/show/39918495-anna-mercury-4
+status: read
+title: 'Anna Mercury #4'
+---

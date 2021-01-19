@@ -1,0 +1,16 @@
+---
+authors:
+- Neil Gaiman
+category: books
+cover: 3030035955.jpg
+date: 2019-10-29 18:57:35-07:00
+end_date: 2019-10-29 18:58:00-07:00
+format: hardcover
+ids:
+  goodreads: '3030035955'
+  isbn_10: '1563891379'
+  isbn_13: '9781563891373'
+link: https://www.goodreads.com/book/show/25105.Brief_Lives
+status: read
+title: Brief Lives
+---

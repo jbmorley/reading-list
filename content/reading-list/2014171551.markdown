@@ -1,0 +1,16 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 2014171551.jpg
+date: 2017-05-29 21:11:53-07:00
+end_date: 2017-05-29 22:45:02-07:00
+format: paperback
+ids:
+  goodreads: '2014171551'
+  isbn_10: '1592911331'
+  isbn_13: '9781592911332'
+link: https://www.goodreads.com/book/show/10807515-freakangels-volume-6
+status: read
+title: FreakAngels, Volume 6
+---

@@ -1,0 +1,14 @@
+---
+authors:
+- Philip Pullman
+category: books
+cover: 1823975078.jpg
+format: paperback
+ids:
+  goodreads: '1823975078'
+  isbn_10: 0590112899
+  isbn_13: '9780590112895'
+link: https://www.goodreads.com/book/show/70948.The_Subtle_Knife
+status: read
+title: The Subtle Knife
+---

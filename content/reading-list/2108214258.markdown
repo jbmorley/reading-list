@@ -1,0 +1,14 @@
+---
+authors:
+- Nina Bawden
+category: books
+cover: 2108214258.jpg
+format: paperback
+ids:
+  goodreads: '2108214258'
+  isbn_10: 0140309446
+  isbn_13: '9780140309447'
+link: https://www.goodreads.com/book/show/885350.The_Peppermint_Pig
+status: read
+title: The Peppermint Pig
+---

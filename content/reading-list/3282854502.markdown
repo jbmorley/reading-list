@@ -1,0 +1,14 @@
+---
+authors:
+- Philip K. Dick
+category: books
+cover: 3282854502.jpg
+format: paperback
+ids:
+  goodreads: '3282854502'
+  isbn_10: '0345404475'
+  isbn_13: '9780345404473'
+link: https://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_
+status: to-read
+title: Do Androids Dream of Electric Sheep?
+---

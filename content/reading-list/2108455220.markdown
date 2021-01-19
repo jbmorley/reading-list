@@ -1,0 +1,14 @@
+---
+authors:
+- Jenny Tyler
+category: books
+cover: 2108455220.jpg
+format: paperback
+ids:
+  goodreads: '2108455220'
+  isbn_10: 0860209504
+  isbn_13: '9780860209508'
+link: https://www.goodreads.com/book/show/3027473-escape-from-the-blood-castle
+status: read
+title: Escape from the Blood Castle
+---

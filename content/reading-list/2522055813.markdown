@@ -1,0 +1,16 @@
+---
+authors:
+- Éric Corbeyran
+category: books
+cover: 2522055813.jpg
+date: 2018-09-07 05:55:41-07:00
+end_date: 2018-09-15 06:28:50-07:00
+format: hardcover
+ids:
+  goodreads: '2522055813'
+  isbn_10: '2731614609'
+  isbn_13: '9782731614602'
+link: https://www.goodreads.com/book/show/2782796-monsieur-lune
+status: read
+title: Monsieur Lune
+---

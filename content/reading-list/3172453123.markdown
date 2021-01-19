@@ -1,0 +1,16 @@
+---
+authors:
+- Greg Rucka
+category: books
+cover: 3172453123.jpg
+date: 2020-02-02 07:04:10-08:00
+end_date: 2020-02-02 07:04:32-08:00
+format: paperback
+ids:
+  goodreads: '3172453123'
+  isbn_10: '1401298907'
+  isbn_13: '9781401298906'
+link: https://www.goodreads.com/book/show/45143765-birds-of-prey
+status: read
+title: 'Birds of Prey: Huntress'
+---

@@ -1,0 +1,13 @@
+---
+authors:
+- Brian K. Vaughan
+category: books
+cover: 2145397174.jpg
+date: 2017-10-05 00:00:00-07:00
+end_date: 2017-10-06 09:05:54-07:00
+ids:
+  goodreads: '2145397174'
+link: https://www.goodreads.com/book/show/35681015-saga-47
+status: read
+title: 'Saga #47'
+---

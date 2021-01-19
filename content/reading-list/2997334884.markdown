@@ -1,0 +1,16 @@
+---
+authors:
+- Chihiro Ishizuka
+category: books
+cover: 2997334884.jpg
+date: 2019-09-21 00:00:00-07:00
+end_date: 2019-09-21 00:00:00-07:00
+format: paperback
+ids:
+  goodreads: '2997334884'
+  isbn_10: '1945054123'
+  isbn_13: '9781945054129'
+link: https://www.goodreads.com/book/show/34775143-flying-witch-vol-4
+status: read
+title: Flying Witch, Vol. 4
+---

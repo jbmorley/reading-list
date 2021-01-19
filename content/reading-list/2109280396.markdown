@@ -1,0 +1,14 @@
+---
+authors:
+- C.S. Lewis
+category: books
+cover: 2109280396.jpg
+format: paperback
+ids:
+  goodreads: '2109280396'
+  isbn_10: 0006716679
+  isbn_13: '9780006716679'
+link: https://www.goodreads.com/book/show/177112.The_Magician_s_Nephew
+status: read
+title: The Magician's Nephew
+---

@@ -1,0 +1,13 @@
+---
+authors:
+- Brandon Montclare
+category: books
+cover: 2460222298.jpg
+date: 2018-07-17 08:32:55-07:00
+end_date: 2018-07-17 08:33:21-07:00
+ids:
+  goodreads: '2460222298'
+link: https://www.goodreads.com/book/show/20966805-rocket-girl-2
+status: read
+title: 'Rocket Girl #2'
+---

@@ -1,0 +1,14 @@
+---
+authors:
+- Dan Brown
+category: books
+cover: 1823976910.jpg
+format: paperback
+ids:
+  goodreads: '1823976910'
+  isbn_10: 0552149527
+  isbn_13: '9780552149525'
+link: https://www.goodreads.com/book/show/7947003-the-lost-symbol
+status: read
+title: The Lost Symbol
+---

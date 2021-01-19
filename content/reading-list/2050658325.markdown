@@ -1,0 +1,16 @@
+---
+authors:
+- Neil Gaiman
+category: books
+cover: 2050658325.jpg
+date: 2017-07-05 19:11:29-07:00
+end_date: 2017-07-10 20:40:17-07:00
+format: mass-market-paperback
+ids:
+  goodreads: '2050658325'
+  isbn_10: 0060515198
+  isbn_13: '9780060515195'
+link: https://www.goodreads.com/book/show/2744.Anansi_Boys
+status: read
+title: Anansi Boys
+---

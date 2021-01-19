@@ -1,0 +1,16 @@
+---
+authors:
+- Brian K. Vaughan
+category: books
+cover: 3150883186.jpg
+date: 2020-01-19 18:43:32-08:00
+end_date: 2020-01-19 18:43:58-08:00
+format: paperback
+ids:
+  goodreads: '3150883186'
+  isbn_10: '1534302239'
+  isbn_13: '9781534302235'
+link: https://www.goodreads.com/book/show/34504722-paper-girls-vol-3
+status: read
+title: Paper Girls, Vol. 3
+---

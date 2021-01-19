@@ -1,0 +1,14 @@
+---
+authors:
+- Neal Stephenson
+category: books
+cover: 1823608979.jpg
+format: paperback
+ids:
+  goodreads: '1823608979'
+  isbn_10: 0380788624
+  isbn_13: '9780380788620'
+link: https://www.goodreads.com/book/show/118053.Cryptonomicon
+status: read
+title: Cryptonomicon
+---

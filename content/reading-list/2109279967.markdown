@@ -1,0 +1,14 @@
+---
+authors:
+- C.S. Lewis
+category: books
+cover: 2109279967.jpg
+format: paperback
+ids:
+  goodreads: '2109279967'
+  isbn_10: '0006716644'
+  isbn_13: '9780006716648'
+link: https://www.goodreads.com/book/show/140222.Prince_Caspian
+status: read
+title: 'Prince Caspian: The Return to Narnia'
+---

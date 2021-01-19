@@ -1,0 +1,14 @@
+---
+authors:
+- Martin Oliver
+category: books
+cover: 2108454939.jpg
+format: paperback
+ids:
+  goodreads: '2108454939'
+  isbn_10: 0746001479
+  isbn_13: '9780746001479'
+link: https://www.goodreads.com/book/show/820362.Agent_Arthur_s_Puzzle_Adventures
+status: read
+title: Agent Arthur's Puzzle Adventures
+---

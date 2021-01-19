@@ -1,0 +1,15 @@
+---
+authors:
+- Osamu Tezuka
+category: books
+cover: 3230473667.jpg
+date: 2020-03-27 00:00:00-07:00
+format: hardcover
+ids:
+  goodreads: '3230473667'
+  isbn_10: '1934287512'
+  isbn_13: '9781934287514'
+link: https://www.goodreads.com/book/show/7631912-ayako
+status: currently-reading
+title: Ayako
+---

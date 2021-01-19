@@ -1,0 +1,12 @@
+---
+authors:
+- Arthur Conan Doyle
+category: books
+cover: 2044048098.jpg
+format: paperback
+ids:
+  goodreads: '2044048098'
+link: https://www.goodreads.com/book/show/3590.The_Adventures_of_Sherlock_Holmes
+status: read
+title: The Adventures of Sherlock Holmes
+---

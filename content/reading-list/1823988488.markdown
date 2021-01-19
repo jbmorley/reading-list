@@ -1,0 +1,14 @@
+---
+authors:
+- J.K. Rowling
+category: books
+cover: 1823988488.jpg
+format: hardcover
+ids:
+  goodreads: '1823988488'
+  isbn_10: 0747538492
+  isbn_13: '9780747538493'
+link: https://www.goodreads.com/book/show/822147.Harry_Potter_and_the_Chamber_of_Secrets
+status: read
+title: Harry Potter and the Chamber of Secrets
+---

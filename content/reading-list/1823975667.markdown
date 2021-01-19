@@ -1,0 +1,14 @@
+---
+authors:
+- Agatha Christie
+category: books
+cover: 1823975667.jpg
+format: mass-market-paperback
+ids:
+  goodreads: '1823975667'
+  isbn_10: 0312981716
+  isbn_13: '9780312981716'
+link: https://www.goodreads.com/book/show/95382.The_Pale_Horse
+status: read
+title: The Pale Horse
+---

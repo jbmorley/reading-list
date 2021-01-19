@@ -1,0 +1,11 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 2701502077.jpg
+ids:
+  goodreads: '2701502077'
+link: https://www.goodreads.com/book/show/34937884-the-wild-storm-6
+status: read
+title: 'The Wild Storm #6'
+---

@@ -1,0 +1,13 @@
+---
+authors:
+- C.S. Lewis
+category: books
+cover: 2109280239.jpg
+format: paperback
+ids:
+  goodreads: '2109280239'
+  isbn_13: '9780006716662'
+link: https://www.goodreads.com/book/show/5947130-the-horse-and-his-boy
+status: read
+title: The Horse and His Boy
+---

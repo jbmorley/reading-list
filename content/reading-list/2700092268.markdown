@@ -1,0 +1,13 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 2700092268.jpg
+date: 2019-02-02 15:31:38-08:00
+end_date: 2019-02-02 20:40:06-08:00
+ids:
+  goodreads: '2700092268'
+link: https://www.goodreads.com/book/show/34325161-the-wild-storm-2
+status: read
+title: 'The Wild Storm #2'
+---

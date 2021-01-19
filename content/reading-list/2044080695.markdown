@@ -1,0 +1,13 @@
+---
+authors:
+- Isaac Asimov
+category: books
+format: ebook
+ids:
+  goodreads: '2044080695'
+  isbn_10: '1590625323'
+  isbn_13: '9781590625323'
+link: https://www.goodreads.com/book/show/17782261-isaac-asimov
+status: read
+title: 'Isaac Asimov: Short Stories, Volume 1'
+---

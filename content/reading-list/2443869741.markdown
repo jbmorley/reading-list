@@ -1,0 +1,13 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 2443869741.jpg
+date: 2018-07-03 00:36:49-07:00
+end_date: 2018-07-03 04:09:01-07:00
+ids:
+  goodreads: '2443869741'
+link: https://www.goodreads.com/book/show/36507658-anna-mercury-1
+status: read
+title: 'Anna Mercury #1'
+---

@@ -1,0 +1,14 @@
+---
+authors:
+- C.S. Lewis
+category: books
+cover: 2109279570.jpg
+format: paperback
+ids:
+  goodreads: '2109279570'
+  isbn_10: 0006716695
+  isbn_13: '9780006716693'
+link: https://www.goodreads.com/book/show/1073232.The_Last_Battle
+status: read
+title: The Last Battle
+---
