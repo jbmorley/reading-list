@@ -1,0 +1,19 @@
+name: Trigger site update
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  run:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: Trigger jbmorley.co.uk update
+      uses: peter-evans/repository-dispatch@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        repository: inseven/incontext-site
+        event-type: update-content
