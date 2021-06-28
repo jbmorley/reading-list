@@ -1,0 +1,13 @@
+---
+authors:
+- Lewis Engel
+category: books
+cover: 3572396922.jpg
+ids:
+  goodreads: '3572396922'
+  isbn_10: 0671737139
+  isbn_13: '9780671737139'
+link: https://www.goodreads.com/book/show/4658498-hidden-guilt
+status: to-read
+title: Hidden Guilt
+---

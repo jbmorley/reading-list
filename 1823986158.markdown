@@ -1,0 +1,14 @@
+---
+authors:
+- Banana Yoshimoto
+category: books
+cover: 1823986158.jpg
+format: paperback
+ids:
+  goodreads: '1823986158'
+  isbn_10: '0571171044'
+  isbn_13: '9780571171040'
+link: https://www.goodreads.com/book/show/50155.Kitchen
+status: read
+title: Kitchen
+---

@@ -1,0 +1,14 @@
+---
+authors:
+- Philip Pullman
+category: books
+cover: 1826499536.jpg
+format: hardcover
+ids:
+  goodreads: '1826499536'
+  isbn_10: 0375845100
+  isbn_13: '9780375845109'
+link: https://www.goodreads.com/book/show/2225238.Once_Upon_a_Time_in_the_North
+status: read
+title: Once Upon a Time in the North
+---

@@ -1,0 +1,16 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 2362779415.jpg
+date: 2018-04-06 00:00:00-07:00
+end_date: 2018-04-15 20:07:20-07:00
+format: paperback
+ids:
+  goodreads: '2362779415'
+  isbn_10: '1592910483'
+  isbn_13: '9781592910489'
+link: https://www.goodreads.com/book/show/4837760-aetheric-mechanics
+status: read
+title: Aetheric Mechanics
+---

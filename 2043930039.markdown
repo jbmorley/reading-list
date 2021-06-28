@@ -1,0 +1,14 @@
+---
+authors:
+- Haruki Murakami
+category: books
+cover: 2043930039.jpg
+format: paperback
+ids:
+  goodreads: '2043930039'
+  isbn_10: '4061860267'
+  isbn_13: '9784061860261'
+link: https://www.goodreads.com/book/show/226973.Hear_the_Wind_Sing
+status: read
+title: Hear the Wind Sing
+---

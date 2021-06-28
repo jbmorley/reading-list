@@ -1,0 +1,14 @@
+---
+authors:
+- William Gibson
+category: books
+cover: 1826503603.jpg
+format: mass-market-paperback
+ids:
+  goodreads: '1826503603'
+  isbn_10: 0425198685
+  isbn_13: '9780425198681'
+link: https://www.goodreads.com/book/show/22320.Pattern_Recognition
+status: read
+title: Pattern Recognition
+---

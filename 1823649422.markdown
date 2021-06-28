@@ -1,0 +1,14 @@
+---
+authors:
+- Richard Castle
+category: books
+cover: 1823649422.jpg
+format: hardcover
+ids:
+  goodreads: '1823649422'
+  isbn_10: '1401324444'
+  isbn_13: '9781401324445'
+link: https://www.goodreads.com/book/show/13482355-frozen-heat
+status: read
+title: Frozen Heat
+---

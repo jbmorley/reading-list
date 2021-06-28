@@ -1,0 +1,14 @@
+---
+authors:
+- Alan Moore
+category: books
+cover: 1826502071.jpg
+format: paperback
+ids:
+  goodreads: '1826502071'
+  isbn_10: '1401206204'
+  isbn_13: '9781401206208'
+link: https://www.goodreads.com/book/show/325751.Promethea_Vol_5
+status: read
+title: Promethea, Vol. 5
+---

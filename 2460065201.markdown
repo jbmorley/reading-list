@@ -1,0 +1,13 @@
+---
+authors:
+- Brandon Montclare
+category: books
+cover: 2460065201.jpg
+date: 2018-07-17 06:01:00-07:00
+end_date: 2018-07-17 06:01:22-07:00
+ids:
+  goodreads: '2460065201'
+link: https://www.goodreads.com/book/show/20931644-rocket-girl-1
+status: read
+title: 'Rocket Girl #1'
+---

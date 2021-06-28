@@ -1,0 +1,14 @@
+---
+authors:
+- Ian Fleming
+category: books
+cover: 1823628592.jpg
+format: paperback
+ids:
+  goodreads: '1823628592'
+  isbn_10: 0142002038
+  isbn_13: '9780142002032'
+link: https://www.goodreads.com/book/show/3757.Doctor_No
+status: read
+title: Doctor No
+---

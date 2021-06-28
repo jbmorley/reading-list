@@ -1,0 +1,13 @@
+---
+authors:
+- Tara Westover
+category: books
+cover: 2732634461.jpg
+date: 2019-03-04 00:00:00-08:00
+format: hardcover
+ids:
+  goodreads: '2732634461'
+link: https://www.goodreads.com/book/show/35133922-educated
+status: abandoned
+title: Educated
+---

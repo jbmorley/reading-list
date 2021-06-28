@@ -1,0 +1,16 @@
+---
+authors:
+- Anthony Horowitz
+category: books
+cover: 2566452021.jpg
+date: 2018-10-18 18:00:52-07:00
+end_date: 2018-10-18 18:59:45-07:00
+format: ebook
+ids:
+  goodreads: '2566452021'
+  isbn_10: 0062387847
+  isbn_13: '9780062387844'
+link: https://www.goodreads.com/book/show/22864497-the-three-monarchs
+status: read
+title: The Three Monarchs
+---

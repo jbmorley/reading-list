@@ -1,0 +1,14 @@
+---
+authors:
+- Ian Fleming
+category: books
+cover: 1823616533.jpg
+format: paperback
+ids:
+  goodreads: '1823616533'
+  isbn_10: '0142002054'
+  isbn_13: '9780142002056'
+link: https://www.goodreads.com/book/show/3760.Diamonds_Are_Forever
+status: read
+title: Diamonds Are Forever
+---

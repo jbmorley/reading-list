@@ -1,0 +1,14 @@
+---
+authors:
+- Sid Meier
+category: books
+cover: 3545416369.jpg
+format: hardcover
+ids:
+  goodreads: '3545416369'
+  isbn_10: '1324005874'
+  isbn_13: '9781324005872'
+link: https://www.goodreads.com/book/show/50489373-sid-meier-s-memoir
+status: to-read
+title: 'Sid Meier''s Memoir!: A Life in Computer Games'
+---

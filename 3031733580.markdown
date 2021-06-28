@@ -1,0 +1,14 @@
+---
+authors:
+- Neil Gaiman
+category: books
+cover: 3031733580.jpg
+date: 2019-10-31 08:19:21-07:00
+ids:
+  goodreads: '3031733580'
+  isbn_10: 0061186422
+  isbn_13: '9780061186424'
+link: https://www.goodreads.com/book/show/47699.M_Is_for_Magic
+status: abandoned
+title: M Is for Magic
+---

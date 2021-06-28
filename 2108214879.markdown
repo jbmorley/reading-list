@@ -1,0 +1,14 @@
+---
+authors:
+- Willard Price
+category: books
+cover: 2108214879.jpg
+format: paperback
+ids:
+  goodreads: '2108214879'
+  isbn_10: 0099183315
+  isbn_13: '9780099183310'
+link: https://www.goodreads.com/book/show/3215149-elephant-adventure
+status: read
+title: Elephant Adventure
+---

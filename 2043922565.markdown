@@ -1,0 +1,12 @@
+---
+authors:
+- Douglas Adams
+category: books
+cover: 2043922565.jpg
+format: paperback
+ids:
+  goodreads: '2043922565'
+link: https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy
+status: read
+title: The Hitchhiker's Guide to the Galaxy
+---

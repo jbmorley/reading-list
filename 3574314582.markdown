@@ -1,0 +1,16 @@
+---
+authors:
+- Ben Aaronovitch
+category: books
+cover: 3574314582.jpg
+date: 2020-09-30 14:26:34-07:00
+end_date: 2020-10-13 21:23:59-07:00
+format: hardcover
+ids:
+  goodreads: '3574314582'
+  isbn_10: '0575132507'
+  isbn_13: '9780575132504'
+link: https://www.goodreads.com/book/show/20499240-foxglove-summer
+status: read
+title: Foxglove Summer
+---

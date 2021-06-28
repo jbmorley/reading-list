@@ -1,0 +1,13 @@
+---
+authors:
+- Richmal Crompton
+category: books
+cover: 2108214039.jpg
+ids:
+  goodreads: '2108214039'
+  isbn_10: 0333389085
+  isbn_13: '9780333389089'
+link: https://www.goodreads.com/book/show/1655286.William_The_Rebel
+status: read
+title: William The Rebel
+---

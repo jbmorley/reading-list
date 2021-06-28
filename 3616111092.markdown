@@ -1,0 +1,12 @@
+---
+authors:
+- Betty C. Parkin
+category: books
+ids:
+  goodreads: '3616111092'
+  isbn_10: '0745113753'
+  isbn_13: '9780745113753'
+link: https://www.goodreads.com/book/show/10961707-desert-nurse
+status: to-read
+title: Desert Nurse
+---

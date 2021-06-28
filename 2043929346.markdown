@@ -1,0 +1,14 @@
+---
+authors:
+- Haruki Murakami
+category: books
+cover: 2043929346.jpg
+format: paperback
+ids:
+  goodreads: '2043929346'
+  isbn_10: 0099448769
+  isbn_13: '9780099448761'
+link: https://www.goodreads.com/book/show/17800.Dance_Dance_Dance
+status: read
+title: Dance Dance Dance
+---

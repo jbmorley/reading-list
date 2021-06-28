@@ -1,0 +1,16 @@
+---
+authors:
+- Neil Gaiman
+category: books
+cover: 2061567670.jpg
+date: 2017-07-15 19:36:17-07:00
+end_date: 2017-07-23 21:07:29-07:00
+format: paperback
+ids:
+  goodreads: '2061567670'
+  isbn_10: '1401230431'
+  isbn_13: '9781401230432'
+link: https://www.goodreads.com/book/show/8941959-a-game-of-you
+status: read
+title: A Game of You
+---

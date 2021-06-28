@@ -1,0 +1,11 @@
+---
+authors:
+- Margaret Atwood
+category: books
+cover: 3600171932.jpg
+ids:
+  goodreads: '3600171932'
+link: https://www.goodreads.com/book/show/50832682-the-penelopiad
+status: to-read
+title: The Penelopiad
+---

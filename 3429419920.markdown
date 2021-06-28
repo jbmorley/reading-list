@@ -1,0 +1,16 @@
+---
+authors:
+- Ben Aaronovitch
+category: books
+cover: 3429419920.jpg
+date: 2020-07-06 16:11:37-07:00
+end_date: 2020-07-12 16:03:32-07:00
+format: hardcover
+ids:
+  goodreads: '3429419920'
+  isbn_10: 0575097566
+  isbn_13: '9780575097568'
+link: https://www.goodreads.com/book/show/9317452-rivers-of-london
+status: read
+title: Rivers of London
+---

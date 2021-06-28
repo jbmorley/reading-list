@@ -1,0 +1,16 @@
+---
+authors:
+- Haruka Takachiho
+category: books
+cover: 3260766660.jpg
+date: 2020-04-03 04:58:51-07:00
+end_date: 2020-04-12 18:37:13-07:00
+format: paperback
+ids:
+  goodreads: '3260766660'
+  isbn_10: '1642757535'
+  isbn_13: '9781642757538'
+link: https://www.goodreads.com/book/show/45186625-dirty-pair-omnibus
+status: read
+title: Dirty Pair Omnibus
+---

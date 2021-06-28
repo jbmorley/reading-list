@@ -1,0 +1,14 @@
+---
+authors:
+- J.K. Rowling
+category: books
+cover: 1823990294.jpg
+format: hardcover
+ids:
+  goodreads: '1823990294'
+  isbn_10: 0747532699
+  isbn_13: '9780747532699'
+link: https://www.goodreads.com/book/show/848654.Harry_Potter_and_the_Philosopher_s_Stone
+status: read
+title: Harry Potter and the Philosopher's Stone
+---

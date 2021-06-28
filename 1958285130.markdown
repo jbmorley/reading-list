@@ -1,0 +1,13 @@
+---
+authors:
+- Neil Gaiman
+category: books
+cover: 1958285130.jpg
+date: 2017-03-31 14:42:27-07:00
+end_date: 2017-04-12 08:51:58-07:00
+ids:
+  goodreads: '1958285130'
+link: https://www.goodreads.com/book/show/30831912-norse-mythology
+status: read
+title: Norse Mythology
+---

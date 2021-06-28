@@ -1,0 +1,15 @@
+---
+authors:
+- Kieron Gillen
+category: books
+cover: 3559695786.jpg
+date: 2020-09-20 00:00:00-07:00
+format: paperback
+ids:
+  goodreads: '3559695786'
+  isbn_10: '1632153270'
+  isbn_13: '9781632153272'
+link: https://www.goodreads.com/book/show/24666002-the-wicked-the-divine-vol-2
+status: currently-reading
+title: 'The Wicked + The Divine, Vol. 2: Fandemonium'
+---

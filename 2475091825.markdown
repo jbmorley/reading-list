@@ -1,0 +1,16 @@
+---
+authors:
+- Charles Stross
+category: books
+cover: 2475091825.jpg
+date: 2018-07-29 18:52:08-07:00
+end_date: 2018-08-04 20:10:21-07:00
+format: paperback
+ids:
+  goodreads: '2475091825'
+  isbn_10: 0356500985
+  isbn_13: '9780356500980'
+link: https://www.goodreads.com/book/show/13604490-the-apocalypse-codex
+status: read
+title: The Apocalypse Codex
+---

@@ -1,0 +1,14 @@
+---
+authors:
+- Brian Jacques
+category: books
+cover: 2106745125.jpg
+format: paperback
+ids:
+  goodreads: '2106745125'
+  isbn_10: 0099281716
+  isbn_13: '9780099281719'
+link: https://www.goodreads.com/book/show/1119335.Martin_the_Warrior
+status: read
+title: Martin the Warrior
+---

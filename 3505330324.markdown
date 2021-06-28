@@ -1,0 +1,15 @@
+---
+authors:
+- Trina Paulus
+category: books
+cover: 3505330324.jpg
+date: 2020-08-15 00:00:00-07:00
+end_date: 2020-08-15 00:00:00-07:00
+ids:
+  goodreads: '3505330324'
+  isbn_10: 0809182491
+  isbn_13: '9780809182497'
+link: https://www.goodreads.com/book/show/96629.Hope_for_the_Flowers
+status: read
+title: Hope for the Flowers
+---

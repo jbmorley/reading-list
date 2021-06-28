@@ -1,0 +1,16 @@
+---
+authors:
+- Brian K. Vaughan
+category: books
+cover: 3152926505.jpg
+date: 2020-01-20 22:44:57-08:00
+end_date: 2020-01-20 22:45:00-08:00
+format: paperback
+ids:
+  goodreads: '3152926505'
+  isbn_10: '1534308679'
+  isbn_13: '9781534308671'
+link: https://www.goodreads.com/book/show/38812893-paper-girls-vol-5
+status: read
+title: Paper Girls, Vol. 5
+---

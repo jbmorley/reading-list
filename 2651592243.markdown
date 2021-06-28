@@ -1,0 +1,12 @@
+---
+authors:
+- Shaun Inman
+category: books
+cover: 2651592243.jpg
+format: ebook
+ids:
+  goodreads: '2651592243'
+link: https://www.goodreads.com/book/show/13510647-lift-off
+status: read
+title: 'Lift Off: The Last Rocket Development Diary'
+---

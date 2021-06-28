@@ -1,0 +1,14 @@
+---
+authors:
+- Elecia White
+category: books
+cover: 3649764661.jpg
+format: paperback
+ids:
+  goodreads: '3649764661'
+  isbn_10: '1449302149'
+  isbn_13: '9781449302146'
+link: https://www.goodreads.com/book/show/12533344-making-embedded-systems
+status: to-read
+title: 'Making Embedded Systems: Design Patterns for Great Software'
+---

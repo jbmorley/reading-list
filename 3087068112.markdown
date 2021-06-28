@@ -1,0 +1,13 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 3087068112.jpg
+date: 2019-12-16 01:56:31-08:00
+end_date: 2019-12-16 02:04:54-08:00
+ids:
+  goodreads: '3087068112'
+link: https://www.goodreads.com/book/show/49205019-trees
+status: read
+title: 'Trees: Three Fates #4'
+---

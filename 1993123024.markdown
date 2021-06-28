@@ -1,0 +1,14 @@
+---
+authors:
+- Graham Greene
+category: books
+cover: 1993123024.jpg
+date: 2017-05-06 00:00:00-07:00
+end_date: 2017-05-15 00:00:00-07:00
+format: audible-audio
+ids:
+  goodreads: '1993123024'
+link: https://www.goodreads.com/book/show/13641539-the-end-of-the-affair
+status: read
+title: The End of the Affair
+---

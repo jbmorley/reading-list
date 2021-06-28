@@ -1,0 +1,15 @@
+---
+authors:
+- Christopher McDougall
+category: books
+cover: 1823575204.jpg
+format: paperback
+ids:
+  goodreads: '1823575204'
+  isbn_10: '1861978774'
+  isbn_13: '9781861978776'
+link: https://www.goodreads.com/book/show/7986569-born-to-run
+status: read
+title: 'Born to Run: A Hidden Tribe, The Ultra-runners, and the Greatest Race the
+  World Has Never Seen'
+---

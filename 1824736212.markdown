@@ -1,0 +1,16 @@
+---
+authors:
+- Brian K. Vaughan
+category: books
+cover: 1824736212.jpg
+date: 2016-11-28 00:00:00-08:00
+end_date: 2016-12-01 00:00:00-08:00
+format: paperback
+ids:
+  goodreads: '1824736212'
+  isbn_10: '1607066920'
+  isbn_13: '9781607066927'
+link: https://www.goodreads.com/book/show/17131869-saga-vol-2
+status: read
+title: Saga, Vol. 2
+---

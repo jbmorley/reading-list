@@ -1,0 +1,15 @@
+---
+authors:
+- Brian K. Vaughan
+category: books
+cover: 3145893166.jpg
+end_date: 2020-01-16 00:00:00-08:00
+format: paperback
+ids:
+  goodreads: '3145893166'
+  isbn_10: '1632156741'
+  isbn_13: '9781632156747'
+link: https://www.goodreads.com/book/show/28204534-paper-girls-vol-1
+status: read
+title: Paper Girls, Vol. 1
+---

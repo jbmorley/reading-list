@@ -1,0 +1,16 @@
+---
+authors:
+- Stephen Fry
+category: books
+cover: 2324568313.jpg
+date: 2018-03-11 19:35:45-07:00
+end_date: 2019-01-13 19:26:07-08:00
+format: hardcover
+ids:
+  goodreads: '2324568313'
+  isbn_10: 0718188721
+  isbn_13: '9780718188726'
+link: https://www.goodreads.com/book/show/35074096-mythos
+status: read
+title: 'Mythos: The Greek Myths Retold'
+---

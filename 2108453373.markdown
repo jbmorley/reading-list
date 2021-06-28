@@ -1,0 +1,14 @@
+---
+authors:
+- Martin Oliver
+category: books
+cover: 2108453373.jpg
+format: paperback
+ids:
+  goodreads: '2108453373'
+  isbn_10: '0746001517'
+  isbn_13: '9780746001516'
+link: https://www.goodreads.com/book/show/1547525.The_Intergalactic_Bus_Trip
+status: read
+title: The Intergalactic Bus Trip
+---

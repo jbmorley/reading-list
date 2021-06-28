@@ -1,0 +1,14 @@
+---
+authors:
+- Jeffrey Eugenides
+category: books
+cover: 2043905153.jpg
+format: paperback
+ids:
+  goodreads: '2043905153'
+  isbn_10: '0312422156'
+  isbn_13: '9780312422158'
+link: https://www.goodreads.com/book/show/2187.Middlesex
+status: read
+title: Middlesex
+---

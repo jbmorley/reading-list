@@ -1,0 +1,12 @@
+---
+authors:
+- Ian Serraillier
+category: books
+cover: 2108214397.jpg
+format: paperback
+ids:
+  goodreads: '2108214397'
+link: https://www.goodreads.com/book/show/756607.The_Silver_Sword
+status: read
+title: The Silver Sword
+---

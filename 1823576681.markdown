@@ -1,0 +1,16 @@
+---
+authors:
+- William Gibson
+category: books
+cover: 1823576681.jpg
+date: 2016-06-13 00:00:00-07:00
+end_date: 2016-07-02 00:00:00-07:00
+format: paperback
+ids:
+  goodreads: '1823576681'
+  isbn_10: 0060539828
+  isbn_13: '9780060539825'
+link: https://www.goodreads.com/book/show/22323.Burning_Chrome
+status: read
+title: Burning Chrome
+---

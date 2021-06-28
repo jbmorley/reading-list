@@ -1,0 +1,16 @@
+---
+authors:
+- Neil Gaiman
+category: books
+cover: 3315058846.jpg
+date: 2020-05-02 20:08:47-07:00
+end_date: 2020-05-02 20:08:58-07:00
+format: hardcover
+ids:
+  goodreads: '3315058846'
+  isbn_10: 0061960306
+  isbn_13: '9780061960307'
+link: https://www.goodreads.com/book/show/7023148-instructions
+status: read
+title: Instructions
+---

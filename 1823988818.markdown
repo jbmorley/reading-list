@@ -1,0 +1,14 @@
+---
+authors:
+- J.K. Rowling
+category: books
+cover: 1823988818.jpg
+format: hardcover
+ids:
+  goodreads: '1823988818'
+  isbn_10: 0747591059
+  isbn_13: '9780747591054'
+link: https://www.goodreads.com/book/show/820343.Harry_Potter_and_the_Deathly_Hallows
+status: read
+title: Harry Potter and the Deathly Hallows
+---

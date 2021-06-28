@@ -1,0 +1,13 @@
+---
+authors:
+- Brian K. Vaughan
+category: books
+cover: 2407597893.jpg
+date: 2018-05-30 07:31:01-07:00
+end_date: 2018-05-30 07:49:27-07:00
+ids:
+  goodreads: '2407597893'
+link: https://www.goodreads.com/book/show/39151953-saga-52
+status: read
+title: 'Saga #52'
+---

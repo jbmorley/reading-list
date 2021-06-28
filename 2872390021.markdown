@@ -1,0 +1,16 @@
+---
+authors:
+- Neil Gaiman
+category: books
+cover: 2872390021.jpg
+date: 2019-06-26 00:21:00-07:00
+end_date: 2019-06-26 23:26:51-07:00
+format: hardcover
+ids:
+  goodreads: '2872390021'
+  isbn_10: '1408859645'
+  isbn_13: '9781408859643'
+link: https://www.goodreads.com/book/show/23301545-the-sleeper-and-the-spindle
+status: read
+title: The Sleeper and the Spindle
+---

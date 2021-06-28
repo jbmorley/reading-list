@@ -1,0 +1,14 @@
+---
+authors:
+- Paulo Coelho
+category: books
+cover: 2043922060.jpg
+format: ebook
+ids:
+  goodreads: '2043922060'
+  isbn_10: '0557010071'
+  isbn_13: '9780557010073'
+link: https://www.goodreads.com/book/show/6333213-the-way-of-the-bow
+status: read
+title: The Way of the Bow
+---

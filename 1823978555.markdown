@@ -1,0 +1,14 @@
+---
+authors:
+- Alan Moore
+category: books
+cover: 1823978555.jpg
+format: paperback
+ids:
+  goodreads: '1823978555'
+  isbn_10: 0861661621
+  isbn_13: '9780861661626'
+link: https://www.goodreads.com/book/show/10474309-the-league-of-extraordinary-gentlemen
+status: read
+title: 'The League of Extraordinary Gentlemen: Century 1969'
+---

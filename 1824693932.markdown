@@ -1,0 +1,16 @@
+---
+authors:
+- Brian K. Vaughan
+category: books
+cover: 1824693932.jpg
+date: 2016-11-28 22:04:16-08:00
+end_date: 2016-11-28 23:25:48-08:00
+format: paperback
+ids:
+  goodreads: '1824693932'
+  isbn_10: '1607066017'
+  isbn_13: '9781607066019'
+link: https://www.goodreads.com/book/show/15704307-saga-vol-1
+status: read
+title: Saga, Vol. 1
+---

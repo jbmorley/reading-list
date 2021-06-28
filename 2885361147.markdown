@@ -1,0 +1,13 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 2885361147.jpg
+date: 2019-07-06 10:21:37-07:00
+end_date: 2019-07-06 10:28:52-07:00
+ids:
+  goodreads: '2885361147'
+link: https://www.goodreads.com/book/show/51008979-the-wild-storm-2017--24
+status: read
+title: 'The Wild Storm (2017-) #24'
+---

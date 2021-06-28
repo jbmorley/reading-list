@@ -1,0 +1,14 @@
+---
+authors:
+- Alan Moore
+category: books
+cover: 1823978685.jpg
+format: paperback
+ids:
+  goodreads: '1823978685'
+  isbn_10: '1603090002'
+  isbn_13: '9781603090001'
+link: https://www.goodreads.com/book/show/6086315-the-league-of-extraordinary-gentlemen
+status: read
+title: 'The League of Extraordinary Gentlemen: Century 1910'
+---

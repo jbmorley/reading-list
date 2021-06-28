@@ -1,0 +1,14 @@
+---
+authors:
+- Douglas Adams
+category: books
+cover: 1826487414.jpg
+format: hardcover
+ids:
+  goodreads: '1826487414'
+  isbn_10: 0434003484
+  isbn_13: '9780434003488'
+link: https://www.goodreads.com/book/show/372299.The_Hitch_Hiker_s_Guide_to_the_Galaxy
+status: read
+title: 'The Hitch Hiker''s Guide to the Galaxy: A Trilogy in Five Parts'
+---

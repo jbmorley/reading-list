@@ -1,0 +1,16 @@
+---
+authors:
+- Neil Gaiman
+category: books
+cover: 2403675027.jpg
+date: 2018-05-26 14:03:31-07:00
+end_date: 2018-05-29 20:33:38-07:00
+format: paperback
+ids:
+  goodreads: '2403675027'
+  isbn_10: '0061142026'
+  isbn_13: '9780061142024'
+link: https://www.goodreads.com/book/show/16793.Stardust
+status: read
+title: Stardust
+---

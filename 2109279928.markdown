@@ -1,0 +1,14 @@
+---
+authors:
+- C.S. Lewis
+category: books
+cover: 2109279928.jpg
+format: paperback
+ids:
+  goodreads: '2109279928'
+  isbn_10: '0006716652'
+  isbn_13: '9780006716655'
+link: https://www.goodreads.com/book/show/386343.The_Voyage_of_the_Dawn_Treader
+status: read
+title: The Voyage of the Dawn Treader
+---

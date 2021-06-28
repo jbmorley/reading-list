@@ -1,0 +1,16 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 1952563108.jpg
+date: 2017-03-25 21:53:59-07:00
+end_date: 2017-03-26 15:35:23-07:00
+format: paperback
+ids:
+  goodreads: '1952563108'
+  isbn_10: '1592910718'
+  isbn_13: '9781592910717'
+link: https://www.goodreads.com/book/show/6347495-freakangels-volume-2
+status: read
+title: FreakAngels, Volume 2
+---

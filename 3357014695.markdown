@@ -1,0 +1,14 @@
+---
+authors:
+- G. Willow Wilson
+category: books
+cover: 3357014695.jpg
+format: paperback
+ids:
+  goodreads: '3357014695'
+  isbn_10: 0785190228
+  isbn_13: '9780785190226'
+link: https://www.goodreads.com/book/show/23017947-ms-marvel-vol-2
+status: to-read
+title: 'Ms. Marvel, Vol. 2: Generation Why'
+---

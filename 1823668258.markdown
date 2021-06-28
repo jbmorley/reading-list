@@ -1,0 +1,16 @@
+---
+authors:
+- Philip K. Dick
+category: books
+cover: 1823668258.jpg
+date: 2016-10-29 00:00:00-07:00
+end_date: 2016-11-05 00:00:00-07:00
+format: paperback
+ids:
+  goodreads: '1823668258'
+  isbn_10: 0547572298
+  isbn_13: '9780547572291'
+link: https://www.goodreads.com/book/show/12346742-ubik
+status: read
+title: Ubik
+---

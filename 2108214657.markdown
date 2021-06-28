@@ -1,0 +1,14 @@
+---
+authors:
+- Willard Price
+category: books
+cover: 2108214657.jpg
+format: paperback
+ids:
+  goodreads: '2108214657'
+  isbn_10: 0099184818
+  isbn_13: '9780099184812'
+link: https://www.goodreads.com/book/show/3215132-cannibal-adventure
+status: read
+title: Cannibal Adventure
+---

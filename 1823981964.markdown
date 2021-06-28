@@ -1,0 +1,14 @@
+---
+authors:
+- Isaac Asimov
+category: books
+cover: 1823981964.jpg
+format: paperback
+ids:
+  goodreads: '1823981964'
+  isbn_10: 0586017135
+  isbn_13: '9780586017135'
+link: https://www.goodreads.com/book/show/651640.Second_Foundation
+status: read
+title: Second Foundation
+---

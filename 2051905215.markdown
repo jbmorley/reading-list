@@ -1,0 +1,14 @@
+---
+authors:
+- Brian Michael Bendis
+category: books
+cover: 2051905215.jpg
+format: hardcover
+ids:
+  goodreads: '2051905215'
+  isbn_10: 0785164820
+  isbn_13: '9780785164821'
+link: https://www.goodreads.com/book/show/14885899-storm-season
+status: read
+title: Storm Season
+---

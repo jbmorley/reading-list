@@ -1,0 +1,13 @@
+---
+authors:
+- Alan Moore
+category: books
+cover: 3614234066.jpg
+date: 2020-10-26 12:18:21-07:00
+end_date: 2020-10-26 17:43:08-07:00
+ids:
+  goodreads: '3614234066'
+link: https://www.goodreads.com/book/show/35792895-neonomicon-2
+status: read
+title: 'Neonomicon #2'
+---

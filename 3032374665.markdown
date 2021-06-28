@@ -1,0 +1,12 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 3032374665.jpg
+date: 2019-10-31 22:32:18-07:00
+ids:
+  goodreads: '3032374665'
+link: https://www.goodreads.com/book/show/35712132-scars
+status: abandoned
+title: Scars
+---

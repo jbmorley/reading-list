@@ -1,0 +1,16 @@
+---
+authors:
+- Neil Gaiman
+category: books
+cover: 1826489475.jpg
+date: 2016-05-20 00:00:00-07:00
+end_date: 2016-05-22 00:00:00-07:00
+format: paperback
+ids:
+  goodreads: '1826489475'
+  isbn_10: '1401227996'
+  isbn_13: '9781401227999'
+link: https://www.goodreads.com/book/show/7247463-the-doll-s-house
+status: read
+title: The Doll's House
+---

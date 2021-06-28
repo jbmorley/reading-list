@@ -1,0 +1,12 @@
+---
+authors:
+- Harper Lee
+category: books
+cover: 2441545135.jpg
+format: paperback
+ids:
+  goodreads: '2441545135'
+link: https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird
+status: read
+title: To Kill a Mockingbird
+---

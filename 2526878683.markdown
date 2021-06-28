@@ -1,0 +1,16 @@
+---
+authors:
+- Agatha Christie
+category: books
+cover: 2526878683.jpg
+date: 2018-09-11 11:40:01-07:00
+end_date: 2018-09-12 17:49:34-07:00
+format: paperback
+ids:
+  goodreads: '2526878683'
+  isbn_10: '0007151675'
+  isbn_13: '9780007151677'
+link: https://www.goodreads.com/book/show/16366.Endless_Night
+status: read
+title: Endless Night
+---

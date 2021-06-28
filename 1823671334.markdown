@@ -1,0 +1,13 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 1823671334.jpg
+format: paperback
+ids:
+  goodreads: '1823671334'
+  isbn_10: '1632152703'
+link: https://www.goodreads.com/book/show/24421255-trees-volume-1
+status: read
+title: Trees Volume 1
+---

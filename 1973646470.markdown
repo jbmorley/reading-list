@@ -1,0 +1,16 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 1973646470.jpg
+date: 2017-04-16 19:03:49-07:00
+end_date: 2017-04-17 03:25:30-07:00
+format: paperback
+ids:
+  goodreads: '1973646470'
+  isbn_10: '1592910947'
+  isbn_13: '9781592910946'
+link: https://www.goodreads.com/book/show/8323661-freakangels-volume-4
+status: read
+title: FreakAngels, Volume 4
+---

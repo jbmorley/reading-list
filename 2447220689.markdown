@@ -1,0 +1,13 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 2447220689.jpg
+date: 2018-07-06 01:42:26-07:00
+end_date: 2018-07-06 01:42:51-07:00
+ids:
+  goodreads: '2447220689'
+link: https://www.goodreads.com/book/show/39927771-anna-mercury-5
+status: read
+title: 'Anna Mercury #5'
+---

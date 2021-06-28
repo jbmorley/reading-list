@@ -1,0 +1,16 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 1823129798.jpg
+date: 2016-11-06 00:00:00-07:00
+end_date: 2016-11-10 00:00:00-08:00
+format: paperback
+ids:
+  goodreads: '1823129798'
+  isbn_10: '1563896486'
+  isbn_13: '9781563896484'
+link: https://www.goodreads.com/book/show/434254.Planetary_Vol_1
+status: read
+title: 'Planetary, Vol. 1: All Over the World and Other Stories'
+---

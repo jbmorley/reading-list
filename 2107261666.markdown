@@ -1,0 +1,14 @@
+---
+authors:
+- Frederick P. Brooks Jr.
+category: books
+cover: 2107261666.jpg
+format: paperback
+ids:
+  goodreads: '2107261666'
+  isbn_10: 0201835959
+  isbn_13: '9780201835953'
+link: https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month
+status: read
+title: 'The Mythical Man-Month: Essays on Software Engineering'
+---

@@ -1,0 +1,13 @@
+---
+authors:
+- Russell Stannard
+category: books
+cover: 2108213843.jpg
+ids:
+  goodreads: '2108213843'
+  isbn_10: 0571142826
+  isbn_13: '9780571142828'
+link: https://www.goodreads.com/book/show/1885578.The_Time_and_Space_of_Uncle_Albert
+status: read
+title: The Time and Space of Uncle Albert
+---

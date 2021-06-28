@@ -1,0 +1,14 @@
+---
+authors:
+- Sara Benson
+category: books
+cover: 2651567004.jpg
+format: paperback
+ids:
+  goodreads: '2651567004'
+  isbn_10: 174179806X
+  isbn_13: '9781741798067'
+link: https://www.goodreads.com/book/show/12044414-hawaii
+status: read
+title: Hawaii
+---

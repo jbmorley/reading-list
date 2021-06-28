@@ -1,0 +1,14 @@
+---
+authors:
+- Leonard Koren
+category: books
+cover: 2644680130.jpg
+format: paperback
+ids:
+  goodreads: '2644680130'
+  isbn_10: '1880656124'
+  isbn_13: '9781880656129'
+link: https://www.goodreads.com/book/show/42190.Wabi_Sabi
+status: read
+title: 'Wabi-Sabi: For Artists, Designers, Poets & Philosophers'
+---

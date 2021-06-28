@@ -1,0 +1,14 @@
+---
+authors:
+- Sue Townsend
+category: books
+cover: 2106722323.jpg
+format: hardcover
+ids:
+  goodreads: '2106722323'
+  isbn_10: '0413657507'
+  isbn_13: '9780413657503'
+link: https://www.goodreads.com/book/show/51076.Adrian_Mole
+status: read
+title: 'Adrian Mole: From Minor to Major'
+---

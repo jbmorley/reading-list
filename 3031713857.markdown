@@ -1,0 +1,15 @@
+---
+authors:
+- Emma
+category: books
+cover: 3031713857.jpg
+date: 2019-10-31 08:52:26-07:00
+format: paperback
+ids:
+  goodreads: '3031713857'
+  isbn_10: '1609809181'
+  isbn_13: '9781609809188'
+link: https://www.goodreads.com/book/show/39196352-the-mental-load
+status: abandoned
+title: 'The Mental Load: A Feminist Comic'
+---

@@ -1,0 +1,13 @@
+---
+authors:
+- Brandon Montclare
+category: books
+cover: 2509747855.jpg
+date: 2018-08-27 17:32:18-07:00
+end_date: 2018-08-27 17:32:31-07:00
+ids:
+  goodreads: '2509747855'
+link: https://www.goodreads.com/book/show/34297340-rocket-girl-7
+status: read
+title: 'Rocket Girl #7'
+---

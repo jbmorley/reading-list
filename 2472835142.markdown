@@ -1,0 +1,16 @@
+---
+authors:
+- Charles Stross
+category: books
+cover: 2472835142.jpg
+date: 2018-07-26 00:00:00-07:00
+end_date: 2018-07-29 18:30:48-07:00
+format: hardcover
+ids:
+  goodreads: '2472835142'
+  isbn_10: 044101867X
+  isbn_13: '9780441018673'
+link: https://www.goodreads.com/book/show/7149287-the-fuller-memorandum
+status: read
+title: The Fuller Memorandum
+---

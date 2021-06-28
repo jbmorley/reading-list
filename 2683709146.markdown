@@ -1,0 +1,16 @@
+---
+authors:
+- Neil Gaiman
+category: books
+cover: 2683709146.jpg
+date: 2019-01-20 00:00:00-08:00
+end_date: 2019-02-25 07:34:28-08:00
+format: paperback
+ids:
+  goodreads: '2683709146'
+  isbn_10: 0747595380
+  isbn_13: '9780747595380'
+link: https://www.goodreads.com/book/show/2108198.Odd_and_the_Frost_Giants
+status: read
+title: Odd and the Frost Giants
+---

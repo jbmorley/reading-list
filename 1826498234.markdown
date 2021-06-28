@@ -1,0 +1,14 @@
+---
+authors:
+- Neil Gaiman
+category: books
+cover: 1826498234.jpg
+format: paperback
+ids:
+  goodreads: '1826498234'
+  isbn_10: '1472234502'
+  isbn_13: '9781472234506'
+link: https://www.goodreads.com/book/show/18721778-neverwhere
+status: read
+title: Neverwhere
+---

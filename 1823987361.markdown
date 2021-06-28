@@ -1,0 +1,14 @@
+---
+authors:
+- Richard Castle
+category: books
+cover: 1823987361.jpg
+format: mass-market-paperback
+ids:
+  goodreads: '1823987361'
+  isbn_10: 0786891424
+  isbn_13: '9780786891429'
+link: https://www.goodreads.com/book/show/12497441-heat-rises
+status: read
+title: Heat Rises
+---

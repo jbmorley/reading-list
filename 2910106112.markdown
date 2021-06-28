@@ -1,0 +1,16 @@
+---
+authors:
+- Marjorie M. Liu
+category: books
+cover: 2910106112.jpg
+date: 2019-07-24 21:45:13-07:00
+end_date: 2019-10-24 03:42:01-07:00
+format: paperback
+ids:
+  goodreads: '2910106112'
+  isbn_10: '1534306919'
+  isbn_13: '9781534306912'
+link: https://www.goodreads.com/book/show/37491890-monstress-vol-3
+status: read
+title: 'Monstress, Vol. 3: Haven'
+---

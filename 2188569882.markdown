@@ -1,0 +1,16 @@
+---
+authors:
+- Andy Weir
+category: books
+cover: 2188569882.jpg
+date: 2017-11-18 21:31:40-08:00
+end_date: 2017-11-21 19:47:13-08:00
+format: hardcover
+ids:
+  goodreads: '2188569882'
+  isbn_10: 0553448129
+  isbn_13: '9780553448122'
+link: https://www.goodreads.com/book/show/34928122-artemis
+status: read
+title: Artemis
+---

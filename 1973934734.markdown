@@ -1,0 +1,16 @@
+---
+authors:
+- Warren Ellis
+category: books
+cover: 1973934734.jpg
+date: 2017-04-17 04:17:42-07:00
+end_date: 2017-04-17 05:42:52-07:00
+format: paperback
+ids:
+  goodreads: '1973934734'
+  isbn_10: '1592911153'
+  isbn_13: '9781592911158'
+link: https://www.goodreads.com/book/show/9721812-freakangels-volume-5
+status: read
+title: FreakAngels, Volume 5
+---

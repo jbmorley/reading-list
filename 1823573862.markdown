@@ -1,0 +1,15 @@
+---
+authors:
+- Jeph Loeb
+category: books
+cover: 1823573862.jpg
+end_date: 2016-01-30 00:00:00-08:00
+format: paperback
+ids:
+  goodreads: '1823573862'
+  isbn_10: '1401232590'
+  isbn_13: '9781401232597'
+link: https://www.goodreads.com/book/show/10862724-batman
+status: read
+title: 'Batman: The Long Halloween'
+---

@@ -1,0 +1,14 @@
+---
+authors:
+- Philip Pullman
+category: books
+cover: 1823980229.jpg
+format: paperback
+ids:
+  goodreads: '1823980229'
+  isbn_10: 043999358X
+  isbn_13: '9780439993586'
+link: https://www.goodreads.com/book/show/70949.The_Amber_Spyglass
+status: read
+title: The Amber Spyglass
+---

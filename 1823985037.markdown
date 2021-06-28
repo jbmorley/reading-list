@@ -1,0 +1,11 @@
+---
+authors:
+- Richard Castle
+category: books
+cover: 1823985037.jpg
+ids:
+  goodreads: '1823985037'
+link: https://www.goodreads.com/book/show/9422540-naked-heat
+status: read
+title: Naked Heat
+---
