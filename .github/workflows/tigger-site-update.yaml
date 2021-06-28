@@ -15,5 +15,5 @@ jobs:
       uses: peter-evans/repository-dispatch@v1
       with:
         token: ${{ secrets.TOKEN }}
-        repository: inseven/incontext-site
+        repository: jbmorley/jbmorley.co.uk
         event-type: update-content
