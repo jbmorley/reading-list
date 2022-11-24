@@ -3,8 +3,8 @@ authors:
 - Tillie Walden
 category: books
 cover: are-you-listening-tillie-walden.jpg
-date: '2022-11-24T08:56:07.372008+00:00'
-end_date: '2022-11-24T09:21:20.170910+00:00'
+date: 2022-11-23
+end_date: 2022-11-23
 ids:
   google_books: TxKkDwAAQBAJ
   isbn_10: '1250754445'
