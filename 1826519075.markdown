@@ -4,6 +4,7 @@ authors:
 category: books
 cover: 1826519075.jpg
 date: 2016-04-24 00:00:00-07:00
+end_date: 2016-04-24 00:00:00-07:00
 format: mass-market-paperback
 ids:
   goodreads: '1826519075'

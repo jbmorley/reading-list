@@ -4,6 +4,7 @@ authors:
 category: books
 cover: 1826526419.jpg
 date: 2016-04-10 00:00:00-07:00
+end_date: 2016-04-10 00:00:00-07:00
 format: paperback
 ids:
   goodreads: '1826526419'

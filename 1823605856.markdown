@@ -4,6 +4,7 @@ authors:
 category: books
 cover: 1823605856.jpg
 date: 2016-04-16 00:00:00-07:00
+end_date: 2016-04-16 00:00:00-07:00
 ids:
   goodreads: '1823605856'
 link: https://www.goodreads.com/book/show/25693787-cunning-plans
