@@ -1,14 +1,15 @@
 ---
-authors:
-- Richard Noble
 category: books
-cover: 2107421069.jpg
-format: unknown-binding
-ids:
-  goodreads: '2107421069'
-  isbn_10: '1852252685'
-  isbn_13: '9781852252687'
-link: https://www.goodreads.com/book/show/3090009-thrust-through-the-sound-barrier
-status: read
+metadata:
+  authors:
+  - Richard Noble
+  cover: 2107421069.jpg
+  format: unknown-binding
+  ids:
+    goodreads: '2107421069'
+    isbn_10: '1852252685'
+    isbn_13: '9781852252687'
+  link: https://www.goodreads.com/book/show/3090009-thrust-through-the-sound-barrier
+  status: read
 title: Thrust Through The Sound Barrier
 ---

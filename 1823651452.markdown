@@ -1,14 +1,15 @@
 ---
-authors:
-- Peter Carey
 category: books
-cover: 1823651452.jpg
-format: hardcover
-ids:
-  goodreads: '1823651452'
-  isbn_10: '0571224075'
-  isbn_13: '9780571224074'
-link: https://www.goodreads.com/book/show/2220280.Wrong_About_Japan
-status: read
+metadata:
+  authors:
+  - Peter Carey
+  cover: 1823651452.jpg
+  format: hardcover
+  ids:
+    goodreads: '1823651452'
+    isbn_10: '0571224075'
+    isbn_13: '9780571224074'
+  link: https://www.goodreads.com/book/show/2220280.Wrong_About_Japan
+  status: read
 title: Wrong About Japan
 ---

@@ -1,16 +1,17 @@
 ---
-authors:
-- Neil Gaiman
 category: books
-cover: 2876455938.jpg
 date: 2019-06-29 11:41:19-07:00
-end_date: 2019-07-05 09:03:50-07:00
-format: hardcover
-ids:
-  goodreads: '2876455938'
-  isbn_10: '0062224077'
-  isbn_13: '9780062224071'
-link: https://www.goodreads.com/book/show/17349203-fortunately-the-milk
-status: read
+metadata:
+  authors:
+  - Neil Gaiman
+  cover: 2876455938.jpg
+  end_date: 2019-07-05 09:03:50-07:00
+  format: hardcover
+  ids:
+    goodreads: '2876455938'
+    isbn_10: '0062224077'
+    isbn_13: '9780062224071'
+  link: https://www.goodreads.com/book/show/17349203-fortunately-the-milk
+  status: read
 title: Fortunately, the Milk
 ---

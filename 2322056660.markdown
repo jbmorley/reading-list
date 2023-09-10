@@ -1,14 +1,15 @@
 ---
-authors:
-- Brian K. Vaughan
 category: books
-cover: 2322056660.jpg
 date: 2018-03-09 11:55:27-08:00
-end_date: 2018-03-09 12:09:32-08:00
-format: paperback
-ids:
-  goodreads: '2322056660'
-link: https://www.goodreads.com/book/show/36690709-saga-49
-status: read
+metadata:
+  authors:
+  - Brian K. Vaughan
+  cover: 2322056660.jpg
+  end_date: 2018-03-09 12:09:32-08:00
+  format: paperback
+  ids:
+    goodreads: '2322056660'
+  link: https://www.goodreads.com/book/show/36690709-saga-49
+  status: read
 title: 'Saga #49'
 ---

@@ -1,16 +1,17 @@
 ---
-authors:
-- Charles Stross
 category: books
-cover: 2464621314.jpg
 date: 2018-07-20 21:43:42-07:00
-end_date: 2018-07-25 20:41:34-07:00
-format: hardcover
-ids:
-  goodreads: '2464621314'
-  isbn_10: '1930846452'
-  isbn_13: '9781930846456'
-link: https://www.goodreads.com/book/show/14150.The_Jennifer_Morgue
-status: read
+metadata:
+  authors:
+  - Charles Stross
+  cover: 2464621314.jpg
+  end_date: 2018-07-25 20:41:34-07:00
+  format: hardcover
+  ids:
+    goodreads: '2464621314'
+    isbn_10: '1930846452'
+    isbn_13: '9781930846456'
+  link: https://www.goodreads.com/book/show/14150.The_Jennifer_Morgue
+  status: read
 title: The Jennifer Morgue
 ---

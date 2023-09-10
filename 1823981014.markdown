@@ -1,14 +1,15 @@
 ---
-authors:
-- Haruki Murakami
 category: books
-cover: 1823981014.jpg
-format: paperback
-ids:
-  goodreads: '1823981014'
-  isbn_10: 0099448475
-  isbn_13: '9780099448471'
-link: https://www.goodreads.com/book/show/9557.Sputnik_Sweetheart
-status: read
+metadata:
+  authors:
+  - Haruki Murakami
+  cover: 1823981014.jpg
+  format: paperback
+  ids:
+    goodreads: '1823981014'
+    isbn_10: 0099448475
+    isbn_13: '9780099448471'
+  link: https://www.goodreads.com/book/show/9557.Sputnik_Sweetheart
+  status: read
 title: Sputnik Sweetheart
 ---

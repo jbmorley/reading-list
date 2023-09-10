@@ -1,14 +1,15 @@
 ---
-authors:
-- Sam Humphries
 category: books
-cover: 3188036268.jpg
-format: paperback
-ids:
-  goodreads: '3188036268'
-  isbn_10: '1534312595'
-  isbn_13: '9781534312593'
-link: https://www.goodreads.com/book/show/42835878-blackbird-vol-1
-status: read
+metadata:
+  authors:
+  - Sam Humphries
+  cover: 3188036268.jpg
+  format: paperback
+  ids:
+    goodreads: '3188036268'
+    isbn_10: '1534312595'
+    isbn_13: '9781534312593'
+  link: https://www.goodreads.com/book/show/42835878-blackbird-vol-1
+  status: read
 title: Blackbird, Vol. 1
 ---

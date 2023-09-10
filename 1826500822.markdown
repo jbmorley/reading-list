@@ -1,14 +1,15 @@
 ---
-authors:
-- Alan Moore
 category: books
-cover: 1826500822.jpg
-format: paperback
-ids:
-  goodreads: '1826500822'
-  isbn_10: '1563896672'
-  isbn_13: '9781563896675'
-link: https://www.goodreads.com/book/show/821800.Promethea_Vol_1
-status: read
+metadata:
+  authors:
+  - Alan Moore
+  cover: 1826500822.jpg
+  format: paperback
+  ids:
+    goodreads: '1826500822'
+    isbn_10: '1563896672'
+    isbn_13: '9781563896675'
+  link: https://www.goodreads.com/book/show/821800.Promethea_Vol_1
+  status: read
 title: Promethea, Vol. 1
 ---

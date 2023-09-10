@@ -1,12 +1,13 @@
 ---
-authors:
-- Lauren Myracle
 category: books
-cover: 2758184780.jpg
-format: paperback
-ids:
-  goodreads: '2758184780'
-link: https://www.goodreads.com/book/show/38452822-under-the-moon
-status: abandoned
+metadata:
+  authors:
+  - Lauren Myracle
+  cover: 2758184780.jpg
+  format: paperback
+  ids:
+    goodreads: '2758184780'
+  link: https://www.goodreads.com/book/show/38452822-under-the-moon
+  status: abandoned
 title: 'Under The Moon: A Catwoman Tale'
 ---

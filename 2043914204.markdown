@@ -1,14 +1,15 @@
 ---
-authors:
-- John Wyndham
 category: books
-cover: 2043914204.jpg
-format: mass-market-paperback
-ids:
-  goodreads: '2043914204'
-  isbn_10: 0140031219
-  isbn_13: '9780140031218'
-link: https://www.goodreads.com/book/show/161849.Chocky
-status: read
+metadata:
+  authors:
+  - John Wyndham
+  cover: 2043914204.jpg
+  format: mass-market-paperback
+  ids:
+    goodreads: '2043914204'
+    isbn_10: 0140031219
+    isbn_13: '9780140031218'
+  link: https://www.goodreads.com/book/show/161849.Chocky
+  status: read
 title: Chocky
 ---

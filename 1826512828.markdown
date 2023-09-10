@@ -1,14 +1,15 @@
 ---
-authors:
-- Philip Pullman
 category: books
-cover: 1826512828.jpg
 date: 2016-05-12 00:00:00-07:00
-end_date: 2016-05-17 00:00:00-07:00
-ids:
-  goodreads: '1826512828'
-  isbn_10: '1407154206'
-link: https://www.goodreads.com/book/show/25901310-the-shadow-in-the-north
-status: read
+metadata:
+  authors:
+  - Philip Pullman
+  cover: 1826512828.jpg
+  end_date: 2016-05-17 00:00:00-07:00
+  ids:
+    goodreads: '1826512828'
+    isbn_10: '1407154206'
+  link: https://www.goodreads.com/book/show/25901310-the-shadow-in-the-north
+  status: read
 title: The Shadow in the North
 ---

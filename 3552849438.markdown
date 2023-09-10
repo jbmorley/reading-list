@@ -1,16 +1,17 @@
 ---
-authors:
-- Kieron Gillen
 category: books
-cover: 3552849438.jpg
 date: 2020-09-16 23:42:51-07:00
-end_date: 2020-09-20 12:47:44-07:00
-format: paperback
-ids:
-  goodreads: '3552849438'
-  isbn_10: '1632150190'
-  isbn_13: '9781632150196'
-link: https://www.goodreads.com/book/show/23093359-the-wicked-the-divine-vol-1
-status: read
+metadata:
+  authors:
+  - Kieron Gillen
+  cover: 3552849438.jpg
+  end_date: 2020-09-20 12:47:44-07:00
+  format: paperback
+  ids:
+    goodreads: '3552849438'
+    isbn_10: '1632150190'
+    isbn_13: '9781632150196'
+  link: https://www.goodreads.com/book/show/23093359-the-wicked-the-divine-vol-1
+  status: read
 title: 'The Wicked + The Divine, Vol. 1: The Faust Act'
 ---

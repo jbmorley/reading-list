@@ -1,14 +1,15 @@
 ---
-authors:
-- Randy Pausch
 category: books
-cover: 2043907756.jpg
-format: hardcover
-ids:
-  goodreads: '2043907756'
-  isbn_10: '1401323251'
-  isbn_13: '9781401323257'
-link: https://www.goodreads.com/book/show/2318271.The_Last_Lecture
-status: read
+metadata:
+  authors:
+  - Randy Pausch
+  cover: 2043907756.jpg
+  format: hardcover
+  ids:
+    goodreads: '2043907756'
+    isbn_10: '1401323251'
+    isbn_13: '9781401323257'
+  link: https://www.goodreads.com/book/show/2318271.The_Last_Lecture
+  status: read
 title: The Last Lecture
 ---

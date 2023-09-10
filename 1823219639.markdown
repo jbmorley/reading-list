@@ -1,16 +1,17 @@
 ---
-authors:
-- Osamu Tezuka
 category: books
-cover: 1823219639.jpg
 date: 2016-01-30 00:00:00-08:00
-end_date: 2016-02-15 00:00:00-08:00
-format: paperback
-ids:
-  goodreads: '1823219639'
-  isbn_10: '1616558601'
-  isbn_13: '9781616558604'
-link: https://www.goodreads.com/book/show/25578781-astro-boy-omnibus-volume-1
-status: read
+metadata:
+  authors:
+  - Osamu Tezuka
+  cover: 1823219639.jpg
+  end_date: 2016-02-15 00:00:00-08:00
+  format: paperback
+  ids:
+    goodreads: '1823219639'
+    isbn_10: '1616558601'
+    isbn_13: '9781616558604'
+  link: https://www.goodreads.com/book/show/25578781-astro-boy-omnibus-volume-1
+  status: read
 title: Astro Boy Omnibus Volume 1
 ---

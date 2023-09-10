@@ -1,14 +1,15 @@
 ---
-authors:
-- William Gibson
 category: books
-cover: 1823650954.jpg
-format: hardcover
-ids:
-  goodreads: '1823650954'
-  isbn_10: 0399156828
-  isbn_13: '9780399156823'
-link: https://www.goodreads.com/book/show/7745031-zero-history
-status: read
+metadata:
+  authors:
+  - William Gibson
+  cover: 1823650954.jpg
+  format: hardcover
+  ids:
+    goodreads: '1823650954'
+    isbn_10: 0399156828
+    isbn_13: '9780399156823'
+  link: https://www.goodreads.com/book/show/7745031-zero-history
+  status: read
 title: Zero History
 ---

@@ -1,16 +1,17 @@
 ---
-authors:
-- Charles Stross
 category: books
-cover: 2482530159.jpg
 date: 2018-08-04 20:11:54-07:00
-end_date: 2018-08-11 22:11:02-07:00
-format: hardcover
-ids:
-  goodreads: '2482530159'
-  isbn_10: 0356502538
-  isbn_13: '9780356502533'
-link: https://www.goodreads.com/book/show/18211295-the-rhesus-chart
-status: read
+metadata:
+  authors:
+  - Charles Stross
+  cover: 2482530159.jpg
+  end_date: 2018-08-11 22:11:02-07:00
+  format: hardcover
+  ids:
+    goodreads: '2482530159'
+    isbn_10: 0356502538
+    isbn_13: '9780356502533'
+  link: https://www.goodreads.com/book/show/18211295-the-rhesus-chart
+  status: read
 title: The Rhesus Chart
 ---

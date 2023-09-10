@@ -1,14 +1,15 @@
 ---
-authors:
-- Jane Austen
 category: books
-cover: 2043908953.jpg
-format: paperback
-ids:
-  goodreads: '2043908953'
-  isbn_10: 0141439513
-  isbn_13: '9780141439518'
-link: https://www.goodreads.com/book/show/1886.Pride_and_Prejudice
-status: read
+metadata:
+  authors:
+  - Jane Austen
+  cover: 2043908953.jpg
+  format: paperback
+  ids:
+    goodreads: '2043908953'
+    isbn_10: 0141439513
+    isbn_13: '9780141439518'
+  link: https://www.goodreads.com/book/show/1886.Pride_and_Prejudice
+  status: read
 title: Pride and Prejudice
 ---

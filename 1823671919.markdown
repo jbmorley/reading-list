@@ -1,16 +1,17 @@
 ---
-authors:
-- Warren Ellis
 category: books
-cover: 1823671919.jpg
 date: 2016-10-17 00:00:00-07:00
-end_date: 2016-10-29 00:00:00-07:00
-format: paperback
-ids:
-  goodreads: '1823671919'
-  isbn_10: '1632155222'
-  isbn_13: '9781632155221'
-link: https://www.goodreads.com/book/show/25592452-trees-vol-2
-status: read
+metadata:
+  authors:
+  - Warren Ellis
+  cover: 1823671919.jpg
+  end_date: 2016-10-29 00:00:00-07:00
+  format: paperback
+  ids:
+    goodreads: '1823671919'
+    isbn_10: '1632155222'
+    isbn_13: '9781632155221'
+  link: https://www.goodreads.com/book/show/25592452-trees-vol-2
+  status: read
 title: 'Trees, Vol. 2: Two Forests'
 ---

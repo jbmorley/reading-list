@@ -1,16 +1,17 @@
 ---
-authors:
-- Philip Pullman
 category: books
-cover: 1826510343.jpg
 date: 2016-04-28 00:00:00-07:00
-end_date: 2016-05-04 00:00:00-07:00
-format: paperback
-ids:
-  goodreads: '1826510343'
-  isbn_10: '1407154192'
-  isbn_13: '9781407154190'
-link: https://www.goodreads.com/book/show/24746504-the-ruby-in-the-smoke
-status: read
+metadata:
+  authors:
+  - Philip Pullman
+  cover: 1826510343.jpg
+  end_date: 2016-05-04 00:00:00-07:00
+  format: paperback
+  ids:
+    goodreads: '1826510343'
+    isbn_10: '1407154192'
+    isbn_13: '9781407154190'
+  link: https://www.goodreads.com/book/show/24746504-the-ruby-in-the-smoke
+  status: read
 title: The Ruby in the Smoke
 ---

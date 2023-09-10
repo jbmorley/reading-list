@@ -1,14 +1,15 @@
 ---
-authors:
-- Sue Townsend
 category: books
-cover: 2106721860.jpg
-format: hardcover
-ids:
-  goodreads: '2106721860'
-  isbn_10: '0413650103'
-  isbn_13: '9780413650108'
-link: https://www.goodreads.com/book/show/392786.Adrian_Mole
-status: read
+metadata:
+  authors:
+  - Sue Townsend
+  cover: 2106721860.jpg
+  format: hardcover
+  ids:
+    goodreads: '2106721860'
+    isbn_10: '0413650103'
+    isbn_13: '9780413650108'
+  link: https://www.goodreads.com/book/show/392786.Adrian_Mole
+  status: read
 title: 'Adrian Mole: The Wilderness Years'
 ---

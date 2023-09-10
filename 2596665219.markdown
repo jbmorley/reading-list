@@ -1,12 +1,13 @@
 ---
-authors:
-- Charles Stross
 category: books
-cover: 2596665219.jpg
-format: kindle-edition
-ids:
-  goodreads: '2596665219'
-link: https://www.goodreads.com/book/show/36053406-the-labyrinth-index
-status: read
+metadata:
+  authors:
+  - Charles Stross
+  cover: 2596665219.jpg
+  format: kindle-edition
+  ids:
+    goodreads: '2596665219'
+  link: https://www.goodreads.com/book/show/36053406-the-labyrinth-index
+  status: read
 title: The Labyrinth Index
 ---

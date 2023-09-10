@@ -1,14 +1,15 @@
 ---
-authors:
-- Paolo Bacigalupi
 category: books
-cover: 3504853009.jpg
-format: hardcover
-ids:
-  goodreads: '3504853009'
-  isbn_10: 0385352875
-  isbn_13: '9780385352871'
-link: https://www.goodreads.com/book/show/23209924-the-water-knife
-status: to-read
+metadata:
+  authors:
+  - Paolo Bacigalupi
+  cover: 3504853009.jpg
+  format: hardcover
+  ids:
+    goodreads: '3504853009'
+    isbn_10: 0385352875
+    isbn_13: '9780385352871'
+  link: https://www.goodreads.com/book/show/23209924-the-water-knife
+  status: to-read
 title: The Water Knife
 ---

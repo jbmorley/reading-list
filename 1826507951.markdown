@@ -1,16 +1,17 @@
 ---
-authors:
-- William Gibson
 category: books
-cover: 1826507951.jpg
 date: 2016-04-17 00:00:00-07:00
-end_date: 2016-04-23 00:00:00-07:00
-format: mass-market-paperback
-ids:
-  goodreads: '1826507951'
-  isbn_10: 0553281747
-  isbn_13: '9780553281743'
-link: https://www.goodreads.com/book/show/154091.Mona_Lisa_Overdrive
-status: read
+metadata:
+  authors:
+  - William Gibson
+  cover: 1826507951.jpg
+  end_date: 2016-04-23 00:00:00-07:00
+  format: mass-market-paperback
+  ids:
+    goodreads: '1826507951'
+    isbn_10: 0553281747
+    isbn_13: '9780553281743'
+  link: https://www.goodreads.com/book/show/154091.Mona_Lisa_Overdrive
+  status: read
 title: Mona Lisa Overdrive
 ---

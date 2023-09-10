@@ -1,16 +1,17 @@
 ---
-authors:
-- Philip Pullman
 category: books
-cover: 1826526419.jpg
 date: 2016-04-10 00:00:00-07:00
-end_date: 2016-04-10 00:00:00-07:00
-format: paperback
-ids:
-  goodreads: '1826526419'
-  isbn_10: '0141442220'
-  isbn_13: '9780141442228'
-link: https://www.goodreads.com/book/show/16126208-grimm-tales-for-young-and-old
-status: read
+metadata:
+  authors:
+  - Philip Pullman
+  cover: 1826526419.jpg
+  end_date: 2016-04-10 00:00:00-07:00
+  format: paperback
+  ids:
+    goodreads: '1826526419'
+    isbn_10: '0141442220'
+    isbn_13: '9780141442228'
+  link: https://www.goodreads.com/book/show/16126208-grimm-tales-for-young-and-old
+  status: read
 title: Grimm Tales for Young and Old
 ---

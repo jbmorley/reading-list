@@ -1,16 +1,17 @@
 ---
-authors:
-- Marjorie M. Liu
 category: books
-cover: 3023557166.jpg
 date: 2019-10-24 03:53:40-07:00
-end_date: 2019-10-25 22:33:14-07:00
-format: paperback
-ids:
-  goodreads: '3023557166'
-  isbn_10: '1534313362'
-  isbn_13: '9781534313361'
-link: https://www.goodreads.com/book/show/45899240-monstress-vol-4
-status: read
+metadata:
+  authors:
+  - Marjorie M. Liu
+  cover: 3023557166.jpg
+  end_date: 2019-10-25 22:33:14-07:00
+  format: paperback
+  ids:
+    goodreads: '3023557166'
+    isbn_10: '1534313362'
+    isbn_13: '9781534313361'
+  link: https://www.goodreads.com/book/show/45899240-monstress-vol-4
+  status: read
 title: 'Monstress, Vol. 4: The Chosen'
 ---

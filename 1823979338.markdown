@@ -1,12 +1,13 @@
 ---
-authors:
-- F. Scott Fitzgerald
 category: books
-cover: 1823979338.jpg
-format: paperback
-ids:
-  goodreads: '1823979338'
-link: https://www.goodreads.com/book/show/396094.The_Great_Gatsby
-status: read
+metadata:
+  authors:
+  - F. Scott Fitzgerald
+  cover: 1823979338.jpg
+  format: paperback
+  ids:
+    goodreads: '1823979338'
+  link: https://www.goodreads.com/book/show/396094.The_Great_Gatsby
+  status: read
 title: The Great Gatsby
 ---

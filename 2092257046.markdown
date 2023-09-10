@@ -1,14 +1,15 @@
 ---
-authors:
-- Neil Gaiman
 category: books
-cover: 2092257046.jpg
 date: 2017-08-13 00:00:00-07:00
-end_date: 2018-10-08 22:53:56-07:00
-format: ebook
-ids:
-  goodreads: '2092257046'
-link: https://www.goodreads.com/book/show/30337802-the-sandman-vol-6
-status: read
+metadata:
+  authors:
+  - Neil Gaiman
+  cover: 2092257046.jpg
+  end_date: 2018-10-08 22:53:56-07:00
+  format: ebook
+  ids:
+    goodreads: '2092257046'
+  link: https://www.goodreads.com/book/show/30337802-the-sandman-vol-6
+  status: read
 title: 'The Sandman, Vol. 6: Fables and Reflections'
 ---

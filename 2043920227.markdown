@@ -1,11 +1,12 @@
 ---
-authors:
-- Jeffery Deaver
 category: books
-cover: 2043920227.jpg
-ids:
-  goodreads: '2043920227'
-link: https://www.goodreads.com/book/show/10483475-carte-blanche
-status: read
+metadata:
+  authors:
+  - Jeffery Deaver
+  cover: 2043920227.jpg
+  ids:
+    goodreads: '2043920227'
+  link: https://www.goodreads.com/book/show/10483475-carte-blanche
+  status: read
 title: Carte Blanche
 ---

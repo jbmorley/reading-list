@@ -1,14 +1,15 @@
 ---
-authors:
-- J.K. Rowling
 category: books
-cover: 1823990657.jpg
-format: hardcover
-ids:
-  goodreads: '1823990657'
-  isbn_10: '0747542155'
-  isbn_13: '9780747542155'
-link: https://www.goodreads.com/book/show/819073.Harry_Potter_and_the_Prisoner_of_Azkaban
-status: read
+metadata:
+  authors:
+  - J.K. Rowling
+  cover: 1823990657.jpg
+  format: hardcover
+  ids:
+    goodreads: '1823990657'
+    isbn_10: '0747542155'
+    isbn_13: '9780747542155'
+  link: https://www.goodreads.com/book/show/819073.Harry_Potter_and_the_Prisoner_of_Azkaban
+  status: read
 title: Harry Potter and the Prisoner of Azkaban
 ---

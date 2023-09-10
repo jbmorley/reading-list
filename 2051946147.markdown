@@ -1,13 +1,14 @@
 ---
-authors:
-- Warren Ellis
 category: books
-cover: 2051946147.jpg
 date: 2017-07-06 22:45:03-07:00
-end_date: 2017-07-08 20:30:17-07:00
-ids:
-  goodreads: '2051946147'
-link: https://www.goodreads.com/book/show/19115865-transmetropolitan-vol-4
-status: read
+metadata:
+  authors:
+  - Warren Ellis
+  cover: 2051946147.jpg
+  end_date: 2017-07-08 20:30:17-07:00
+  ids:
+    goodreads: '2051946147'
+  link: https://www.goodreads.com/book/show/19115865-transmetropolitan-vol-4
+  status: read
 title: 'Transmetropolitan, Vol. 4: The New Scum'
 ---

@@ -1,15 +1,16 @@
 ---
-authors:
-- Karen Dolby
 category: books
-cover: 2108455556.jpg
-format: paperback
-ids:
-  goodreads: '2108455556'
-  isbn_10: '0746003102'
-  isbn_13: '9780746003107'
-link: https://www.goodreads.com/book/show/996272.Puzzle_Adventures_II
-status: read
+metadata:
+  authors:
+  - Karen Dolby
+  cover: 2108455556.jpg
+  format: paperback
+  ids:
+    goodreads: '2108455556'
+    isbn_10: '0746003102'
+    isbn_13: '9780746003107'
+  link: https://www.goodreads.com/book/show/996272.Puzzle_Adventures_II
+  status: read
 title: 'Puzzle Adventures II: three adventure stories with puzzles to solve (The second
   Usborne book of Puzzle Adventures): No. 2'
 ---

@@ -1,13 +1,14 @@
 ---
-authors:
-- Craig Kyle
 category: books
-cover: 2051931115.jpg
 date: 2017-07-06 22:22:11-07:00
-end_date: 2017-07-06 22:30:24-07:00
-ids:
-  goodreads: '2051931115'
-link: https://www.goodreads.com/book/show/26824741-x-23
-status: read
+metadata:
+  authors:
+  - Craig Kyle
+  cover: 2051931115.jpg
+  end_date: 2017-07-06 22:30:24-07:00
+  ids:
+    goodreads: '2051931115'
+  link: https://www.goodreads.com/book/show/26824741-x-23
+  status: read
 title: 'X-23: Target X #4'
 ---

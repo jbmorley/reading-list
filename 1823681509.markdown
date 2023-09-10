@@ -1,16 +1,17 @@
 ---
-authors:
-- Warren Ellis
 category: books
-cover: 1823681509.jpg
 date: 2016-04-20 00:00:00-07:00
-end_date: 2016-04-23 00:00:00-07:00
-format: paperback
-ids:
-  goodreads: '1823681509'
-  isbn_10: '1401220843'
-  isbn_13: '9781401220846'
-link: https://www.goodreads.com/book/show/3931645-transmetropolitan-vol-1
-status: read
+metadata:
+  authors:
+  - Warren Ellis
+  cover: 1823681509.jpg
+  end_date: 2016-04-23 00:00:00-07:00
+  format: paperback
+  ids:
+    goodreads: '1823681509'
+    isbn_10: '1401220843'
+    isbn_13: '9781401220846'
+  link: https://www.goodreads.com/book/show/3931645-transmetropolitan-vol-1
+  status: read
 title: 'Transmetropolitan, Vol. 1: Back on the Street'
 ---

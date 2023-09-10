@@ -1,14 +1,15 @@
 ---
-authors:
-- J.K. Rowling
 category: books
-cover: 1823989301.jpg
-format: hardcover
-ids:
-  goodreads: '1823989301'
-  isbn_10: 0747581088
-  isbn_13: '9780747581086'
-link: https://www.goodreads.com/book/show/93124.Harry_Potter_and_the_Half_Blood_Prince
-status: read
+metadata:
+  authors:
+  - J.K. Rowling
+  cover: 1823989301.jpg
+  format: hardcover
+  ids:
+    goodreads: '1823989301'
+    isbn_10: 0747581088
+    isbn_13: '9780747581086'
+  link: https://www.goodreads.com/book/show/93124.Harry_Potter_and_the_Half_Blood_Prince
+  status: read
 title: Harry Potter and the Half-Blood Prince
 ---

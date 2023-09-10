@@ -1,16 +1,17 @@
 ---
-authors:
-- Chihiro Ishizuka
 category: books
-cover: 2893057151.jpg
 date: 2019-07-12 07:55:00-07:00
-end_date: 2019-07-12 20:44:13-07:00
-format: paperback
-ids:
-  goodreads: '2893057151'
-  isbn_10: '1945054107'
-  isbn_13: '9781945054105'
-link: https://www.goodreads.com/book/show/32303783-flying-witch-vol-2
-status: read
+metadata:
+  authors:
+  - Chihiro Ishizuka
+  cover: 2893057151.jpg
+  end_date: 2019-07-12 20:44:13-07:00
+  format: paperback
+  ids:
+    goodreads: '2893057151'
+    isbn_10: '1945054107'
+    isbn_13: '9781945054105'
+  link: https://www.goodreads.com/book/show/32303783-flying-witch-vol-2
+  status: read
 title: Flying Witch, Vol. 2
 ---

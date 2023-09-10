@@ -1,14 +1,15 @@
 ---
-authors:
-- Scott Adams
 category: books
-cover: 1823626042.jpg
-format: paperback
-ids:
-  goodreads: '1823626042'
-  isbn_10: '0740700030'
-  isbn_13: '9780740700033'
-link: https://www.goodreads.com/book/show/682772.Dilbert_Gives_You_the_Business
-status: read
+metadata:
+  authors:
+  - Scott Adams
+  cover: 1823626042.jpg
+  format: paperback
+  ids:
+    goodreads: '1823626042'
+    isbn_10: '0740700030'
+    isbn_13: '9780740700033'
+  link: https://www.goodreads.com/book/show/682772.Dilbert_Gives_You_the_Business
+  status: read
 title: Dilbert Gives You the Business
 ---

@@ -1,14 +1,15 @@
 ---
-authors:
-- Douglas Adams
 category: books
-cover: 2043923214.jpg
-format: mass-market-paperback
-ids:
-  goodreads: '2043923214'
-  isbn_10: 0345455290
-  isbn_13: '9780345455291'
-link: https://www.goodreads.com/book/show/359.The_Salmon_of_Doubt
-status: read
+metadata:
+  authors:
+  - Douglas Adams
+  cover: 2043923214.jpg
+  format: mass-market-paperback
+  ids:
+    goodreads: '2043923214'
+    isbn_10: 0345455290
+    isbn_13: '9780345455291'
+  link: https://www.goodreads.com/book/show/359.The_Salmon_of_Doubt
+  status: read
 title: The Salmon of Doubt
 ---

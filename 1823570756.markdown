@@ -1,16 +1,17 @@
 ---
-authors:
-- Jeph Loeb
 category: books
-cover: 1823570756.jpg
 date: 2016-03-26 00:00:00-07:00
-end_date: 2016-03-29 00:00:00-07:00
-format: paperback
-ids:
-  goodreads: '1823570756'
-  isbn_10: '1401244017'
-  isbn_13: '9781401244019'
-link: https://www.goodreads.com/book/show/17910622-batman
-status: read
+metadata:
+  authors:
+  - Jeph Loeb
+  cover: 1823570756.jpg
+  end_date: 2016-03-29 00:00:00-07:00
+  format: paperback
+  ids:
+    goodreads: '1823570756'
+    isbn_10: '1401244017'
+    isbn_13: '9781401244019'
+  link: https://www.goodreads.com/book/show/17910622-batman
+  status: read
 title: 'Batman: Dark Victory'
 ---

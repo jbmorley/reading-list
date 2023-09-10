@@ -1,14 +1,15 @@
 ---
-authors:
-- Rick Remender
 category: books
-cover: 2047680197.jpg
-format: paperback
-ids:
-  goodreads: '2047680197'
-  isbn_10: '1935417088'
-  isbn_13: '9781935417088'
-link: https://www.goodreads.com/book/show/7391589-the-last-days-of-american-crime-1
-status: read
+metadata:
+  authors:
+  - Rick Remender
+  cover: 2047680197.jpg
+  format: paperback
+  ids:
+    goodreads: '2047680197'
+    isbn_10: '1935417088'
+    isbn_13: '9781935417088'
+  link: https://www.goodreads.com/book/show/7391589-the-last-days-of-american-crime-1
+  status: read
 title: 'The Last Days of American Crime #1'
 ---

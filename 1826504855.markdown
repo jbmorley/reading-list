@@ -1,14 +1,15 @@
 ---
-authors:
-- William Gibson
 category: books
-cover: 1826504855.jpg
-format: hardcover
-ids:
-  goodreads: '1826504855'
-  isbn_10: 0399154302
-  isbn_13: '9780399154300'
-link: https://www.goodreads.com/book/show/22322.Spook_Country
-status: read
+metadata:
+  authors:
+  - William Gibson
+  cover: 1826504855.jpg
+  format: hardcover
+  ids:
+    goodreads: '1826504855'
+    isbn_10: 0399154302
+    isbn_13: '9780399154300'
+  link: https://www.goodreads.com/book/show/22322.Spook_Country
+  status: read
 title: Spook Country
 ---

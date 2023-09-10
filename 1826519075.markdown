@@ -1,16 +1,17 @@
 ---
-authors:
-- Kim Stanley Robinson
 category: books
-cover: 1826519075.jpg
 date: 2016-04-24 00:00:00-07:00
-end_date: 2016-04-24 00:00:00-07:00
-format: mass-market-paperback
-ids:
-  goodreads: '1826519075'
-  isbn_10: '0553560735'
-  isbn_13: '9780553560732'
-link: https://www.goodreads.com/book/show/77507.Red_Mars
-status: read
+metadata:
+  authors:
+  - Kim Stanley Robinson
+  cover: 1826519075.jpg
+  end_date: 2016-04-24 00:00:00-07:00
+  format: mass-market-paperback
+  ids:
+    goodreads: '1826519075'
+    isbn_10: '0553560735'
+    isbn_13: '9780553560732'
+  link: https://www.goodreads.com/book/show/77507.Red_Mars
+  status: read
 title: Red Mars
 ---

@@ -1,16 +1,17 @@
 ---
-authors:
-- Cory Doctorow
 category: books
-cover: 3314655677.jpg
 date: 2020-05-02 15:17:34-07:00
-end_date: 2020-05-02 15:17:52-07:00
-format: paperback
-ids:
-  goodreads: '3314655677'
-  isbn_10: '1596436581'
-  isbn_13: '9781596436589'
-link: https://www.goodreads.com/book/show/20575446-in-real-life
-status: read
+metadata:
+  authors:
+  - Cory Doctorow
+  cover: 3314655677.jpg
+  end_date: 2020-05-02 15:17:52-07:00
+  format: paperback
+  ids:
+    goodreads: '3314655677'
+    isbn_10: '1596436581'
+    isbn_13: '9781596436589'
+  link: https://www.goodreads.com/book/show/20575446-in-real-life
+  status: read
 title: In Real Life
 ---

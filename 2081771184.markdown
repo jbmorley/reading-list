@@ -1,13 +1,14 @@
 ---
-authors:
-- Warren Ellis
 category: books
-cover: 2081771184.jpg
 date: 2017-08-02 00:00:00-07:00
-end_date: 2017-08-03 19:56:57-07:00
-ids:
-  goodreads: '2081771184'
-link: https://www.goodreads.com/book/show/35009129-injection-14
-status: read
+metadata:
+  authors:
+  - Warren Ellis
+  cover: 2081771184.jpg
+  end_date: 2017-08-03 19:56:57-07:00
+  ids:
+    goodreads: '2081771184'
+  link: https://www.goodreads.com/book/show/35009129-injection-14
+  status: read
 title: 'Injection #14'
 ---

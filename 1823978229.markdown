@@ -1,14 +1,15 @@
 ---
-authors:
-- Alan Moore
 category: books
-cover: 1823978229.jpg
-format: paperback
-ids:
-  goodreads: '1823978229'
-  isbn_10: '1401201180'
-  isbn_13: '9781401201180'
-link: https://www.goodreads.com/book/show/107007.The_League_of_Extraordinary_Gentlemen_Vol_2
-status: read
+metadata:
+  authors:
+  - Alan Moore
+  cover: 1823978229.jpg
+  format: paperback
+  ids:
+    goodreads: '1823978229'
+    isbn_10: '1401201180'
+    isbn_13: '9781401201180'
+  link: https://www.goodreads.com/book/show/107007.The_League_of_Extraordinary_Gentlemen_Vol_2
+  status: read
 title: The League of Extraordinary Gentlemen, Vol. 2
 ---

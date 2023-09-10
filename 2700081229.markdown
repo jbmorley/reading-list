@@ -1,13 +1,14 @@
 ---
-authors:
-- Warren Ellis
 category: books
-cover: 2700081229.jpg
 date: 2019-02-02 15:21:57-08:00
-end_date: 2019-02-02 15:31:07-08:00
-ids:
-  goodreads: '2700081229'
-link: https://www.goodreads.com/book/show/34311348-the-wild-storm-1
-status: read
+metadata:
+  authors:
+  - Warren Ellis
+  cover: 2700081229.jpg
+  end_date: 2019-02-02 15:31:07-08:00
+  ids:
+    goodreads: '2700081229'
+  link: https://www.goodreads.com/book/show/34311348-the-wild-storm-1
+  status: read
 title: 'The Wild Storm #1'
 ---

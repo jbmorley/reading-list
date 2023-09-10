@@ -1,14 +1,15 @@
 ---
-authors:
-- Douglas Adams
 category: books
-cover: 2043923003.jpg
-format: mass-market-paperback
-ids:
-  goodreads: '2043923003'
-  isbn_10: '0671742515'
-  isbn_13: '9780671742515'
-link: https://www.goodreads.com/book/show/357.The_Long_Dark_Tea_Time_of_the_Soul
-status: read
+metadata:
+  authors:
+  - Douglas Adams
+  cover: 2043923003.jpg
+  format: mass-market-paperback
+  ids:
+    goodreads: '2043923003'
+    isbn_10: '0671742515'
+    isbn_13: '9780671742515'
+  link: https://www.goodreads.com/book/show/357.The_Long_Dark_Tea_Time_of_the_Soul
+  status: read
 title: The Long Dark Tea-Time of the Soul
 ---

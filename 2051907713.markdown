@@ -1,11 +1,12 @@
 ---
-authors:
-- Craig Kyle
 category: books
-cover: 2051907713.jpg
-ids:
-  goodreads: '2051907713'
-link: https://www.goodreads.com/book/show/26060806-x-23
-status: read
+metadata:
+  authors:
+  - Craig Kyle
+  cover: 2051907713.jpg
+  ids:
+    goodreads: '2051907713'
+  link: https://www.goodreads.com/book/show/26060806-x-23
+  status: read
 title: 'X-23: Target X #2'
 ---

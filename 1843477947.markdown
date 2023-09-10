@@ -1,16 +1,17 @@
 ---
-authors:
-- Brian K. Vaughan
 category: books
-cover: 1843477947.jpg
 date: 2016-12-18 00:00:00-08:00
-end_date: 2016-12-18 00:00:00-08:00
-format: paperback
-ids:
-  goodreads: '1843477947'
-  isbn_10: '1632150778'
-  isbn_13: '9781632150776'
-link: https://www.goodreads.com/book/show/23093367-saga-vol-4
-status: read
+metadata:
+  authors:
+  - Brian K. Vaughan
+  cover: 1843477947.jpg
+  end_date: 2016-12-18 00:00:00-08:00
+  format: paperback
+  ids:
+    goodreads: '1843477947'
+    isbn_10: '1632150778'
+    isbn_13: '9781632150776'
+  link: https://www.goodreads.com/book/show/23093367-saga-vol-4
+  status: read
 title: Saga, Vol. 4
 ---

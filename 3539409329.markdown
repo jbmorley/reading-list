@@ -1,16 +1,17 @@
 ---
-authors:
-- Ben Aaronovitch
 category: books
-cover: 3539409329.jpg
 date: 2020-09-08 23:20:38-07:00
-end_date: 2020-09-29 17:59:11-07:00
-format: hardcover
-ids:
-  goodreads: '3539409329'
-  isbn_10: 0575132469
-  isbn_13: '9780575132467'
-link: https://www.goodreads.com/book/show/16078584-broken-homes
-status: read
+metadata:
+  authors:
+  - Ben Aaronovitch
+  cover: 3539409329.jpg
+  end_date: 2020-09-29 17:59:11-07:00
+  format: hardcover
+  ids:
+    goodreads: '3539409329'
+    isbn_10: 0575132469
+    isbn_13: '9780575132467'
+  link: https://www.goodreads.com/book/show/16078584-broken-homes
+  status: read
 title: Broken Homes
 ---

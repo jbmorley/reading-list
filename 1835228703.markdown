@@ -1,13 +1,14 @@
 ---
-authors:
-- William Gibson
 category: books
-cover: 1835228703.jpg
 date: 2016-12-09 00:00:00-08:00
-end_date: 2017-08-23 21:12:16-07:00
-ids:
-  goodreads: '1835228703'
-link: https://www.goodreads.com/book/show/11094166-all-tomorrow-s-parties
-status: read
+metadata:
+  authors:
+  - William Gibson
+  cover: 1835228703.jpg
+  end_date: 2017-08-23 21:12:16-07:00
+  ids:
+    goodreads: '1835228703'
+  link: https://www.goodreads.com/book/show/11094166-all-tomorrow-s-parties
+  status: read
 title: All Tomorrow's Parties
 ---

@@ -1,16 +1,17 @@
 ---
-authors:
-- Charles Stross
 category: books
-cover: 2496661828.jpg
 date: 2018-08-16 19:20:38-07:00
-end_date: 2018-09-06 19:08:31-07:00
-format: hardcover
-ids:
-  goodreads: '2496661828'
-  isbn_10: '0356505316'
-  isbn_13: '9780356505312'
-link: https://www.goodreads.com/book/show/23154785-the-annihilation-score
-status: read
+metadata:
+  authors:
+  - Charles Stross
+  cover: 2496661828.jpg
+  end_date: 2018-09-06 19:08:31-07:00
+  format: hardcover
+  ids:
+    goodreads: '2496661828'
+    isbn_10: '0356505316'
+    isbn_13: '9780356505312'
+  link: https://www.goodreads.com/book/show/23154785-the-annihilation-score
+  status: read
 title: The Annihilation Score
 ---

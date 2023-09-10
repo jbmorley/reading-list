@@ -1,16 +1,17 @@
 ---
-authors:
-- Neil Gaiman
 category: books
-cover: 1954425125.jpg
 date: 2017-03-27 00:00:00-07:00
-end_date: 2017-03-27 00:00:00-07:00
-format: paperback
-ids:
-  goodreads: '1954425125'
-  isbn_10: '1401230423'
-  isbn_13: '9781401230425'
-link: https://www.goodreads.com/book/show/8462092-season-of-mists
-status: read
+metadata:
+  authors:
+  - Neil Gaiman
+  cover: 1954425125.jpg
+  end_date: 2017-03-27 00:00:00-07:00
+  format: paperback
+  ids:
+    goodreads: '1954425125'
+    isbn_10: '1401230423'
+    isbn_13: '9781401230425'
+  link: https://www.goodreads.com/book/show/8462092-season-of-mists
+  status: read
 title: Season of Mists
 ---

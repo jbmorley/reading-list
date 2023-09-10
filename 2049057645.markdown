@@ -1,16 +1,17 @@
 ---
-authors:
-- Warren Ellis
 category: books
-cover: 2049057645.jpg
 date: 2017-07-03 00:00:00-07:00
-end_date: 2017-07-06 06:43:30-07:00
-format: paperback
-ids:
-  goodreads: '2049057645'
-  isbn_10: '1401223125'
-  isbn_13: '9781401223120'
-link: https://www.goodreads.com/book/show/6475798-transmetropolitan-vol-3
-status: read
+metadata:
+  authors:
+  - Warren Ellis
+  cover: 2049057645.jpg
+  end_date: 2017-07-06 06:43:30-07:00
+  format: paperback
+  ids:
+    goodreads: '2049057645'
+    isbn_10: '1401223125'
+    isbn_13: '9781401223120'
+  link: https://www.goodreads.com/book/show/6475798-transmetropolitan-vol-3
+  status: read
 title: 'Transmetropolitan, Vol. 3: Year of the Bastard'
 ---

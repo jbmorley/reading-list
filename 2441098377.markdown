@@ -1,14 +1,15 @@
 ---
-authors:
-- Brian K. Vaughan
 category: books
-cover: 2441098377.jpg
 date: 2018-06-30 15:01:42-07:00
-end_date: 2018-06-30 15:02:09-07:00
-format: kindle-edition
-ids:
-  goodreads: '2441098377'
-link: https://www.goodreads.com/book/show/39674515-saga-53
-status: read
+metadata:
+  authors:
+  - Brian K. Vaughan
+  cover: 2441098377.jpg
+  end_date: 2018-06-30 15:02:09-07:00
+  format: kindle-edition
+  ids:
+    goodreads: '2441098377'
+  link: https://www.goodreads.com/book/show/39674515-saga-53
+  status: read
 title: 'Saga #53'
 ---

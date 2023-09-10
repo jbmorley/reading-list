@@ -1,14 +1,15 @@
 ---
-authors:
-- Terry Jones
 category: books
-cover: 1823626918.jpg
-format: paperback
-ids:
-  goodreads: '1823626918'
-  isbn_10: 0345368436
-  isbn_13: '9780345368430'
-link: https://www.goodreads.com/book/show/367.Douglas_Adams_s_Starship_Titanic
-status: read
+metadata:
+  authors:
+  - Terry Jones
+  cover: 1823626918.jpg
+  format: paperback
+  ids:
+    goodreads: '1823626918'
+    isbn_10: 0345368436
+    isbn_13: '9780345368430'
+  link: https://www.goodreads.com/book/show/367.Douglas_Adams_s_Starship_Titanic
+  status: read
 title: Douglas Adams's Starship Titanic
 ---

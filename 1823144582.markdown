@@ -1,13 +1,14 @@
 ---
-authors:
-- William Gibson
 category: books
-cover: 1823144582.jpg
 date: 2016-11-13 00:00:00-08:00
-end_date: 2016-11-13 00:00:00-08:00
-ids:
-  goodreads: '1823144582'
-link: https://www.goodreads.com/book/show/30223880-archangel-1
-status: read
+metadata:
+  authors:
+  - William Gibson
+  cover: 1823144582.jpg
+  end_date: 2016-11-13 00:00:00-08:00
+  ids:
+    goodreads: '1823144582'
+  link: https://www.goodreads.com/book/show/30223880-archangel-1
+  status: read
 title: 'Archangel #1'
 ---

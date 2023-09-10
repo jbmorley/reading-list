@@ -1,13 +1,14 @@
 ---
-authors:
-- Warren Ellis
 category: books
-cover: 3026923752.jpg
 date: 2019-10-27 08:03:49-07:00
-end_date: 2019-10-27 08:04:00-07:00
-ids:
-  goodreads: '3026923752'
-link: https://www.goodreads.com/book/show/52961786-trees
-status: read
+metadata:
+  authors:
+  - Warren Ellis
+  cover: 3026923752.jpg
+  end_date: 2019-10-27 08:04:00-07:00
+  ids:
+    goodreads: '3026923752'
+  link: https://www.goodreads.com/book/show/52961786-trees
+  status: read
 title: 'Trees: Three Fates #2'
 ---

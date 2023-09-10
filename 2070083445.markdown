@@ -1,13 +1,14 @@
 ---
-authors:
-- Warren Ellis
 category: books
-cover: 2070083445.jpg
 date: 2017-07-23 22:07:31-07:00
-end_date: 2017-07-25 20:46:13-07:00
-ids:
-  goodreads: '2070083445'
-link: https://www.goodreads.com/book/show/20199535-transmetropolitan-vol-7
-status: read
+metadata:
+  authors:
+  - Warren Ellis
+  cover: 2070083445.jpg
+  end_date: 2017-07-25 20:46:13-07:00
+  ids:
+    goodreads: '2070083445'
+  link: https://www.goodreads.com/book/show/20199535-transmetropolitan-vol-7
+  status: read
 title: 'Transmetropolitan, Vol. 7: Spider''s Thrash'
 ---

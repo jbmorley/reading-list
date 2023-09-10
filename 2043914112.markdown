@@ -1,14 +1,15 @@
 ---
-authors:
-- John Wyndham
 category: books
-cover: 2043914112.jpg
-format: mass-market-paperback
-ids:
-  goodreads: '2043914112'
-  isbn_10: '0140010750'
-  isbn_13: '9780140010756'
-link: https://www.goodreads.com/book/show/91092.The_Kraken_Wakes
-status: read
+metadata:
+  authors:
+  - John Wyndham
+  cover: 2043914112.jpg
+  format: mass-market-paperback
+  ids:
+    goodreads: '2043914112'
+    isbn_10: '0140010750'
+    isbn_13: '9780140010756'
+  link: https://www.goodreads.com/book/show/91092.The_Kraken_Wakes
+  status: read
 title: The Kraken Wakes
 ---

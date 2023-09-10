@@ -1,14 +1,15 @@
 ---
-authors:
-- Douglas Adams
 category: books
-cover: 2043922787.jpg
-format: paperback
-ids:
-  goodreads: '2043922787'
-  isbn_10: 0345418905
-  isbn_13: '9780345418906'
-link: https://www.goodreads.com/book/show/8694.Life_the_Universe_and_Everything
-status: read
+metadata:
+  authors:
+  - Douglas Adams
+  cover: 2043922787.jpg
+  format: paperback
+  ids:
+    goodreads: '2043922787'
+    isbn_10: 0345418905
+    isbn_13: '9780345418906'
+  link: https://www.goodreads.com/book/show/8694.Life_the_Universe_and_Everything
+  status: read
 title: Life, the Universe and Everything
 ---

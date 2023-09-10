@@ -1,16 +1,17 @@
 ---
-authors:
-- Kenichi Sonoda
 category: books
-cover: 3097685197.jpg
 date: 2019-12-24 03:28:20-08:00
-end_date: 2020-01-14 06:27:27-08:00
-format: paperback
-ids:
-  goodreads: '3097685197'
-  isbn_10: '1593078625'
-  isbn_13: '9781593078621'
-link: https://www.goodreads.com/book/show/2062717.Gunsmith_Cats_Volume_4
-status: read
+metadata:
+  authors:
+  - Kenichi Sonoda
+  cover: 3097685197.jpg
+  end_date: 2020-01-14 06:27:27-08:00
+  format: paperback
+  ids:
+    goodreads: '3097685197'
+    isbn_10: '1593078625'
+    isbn_13: '9781593078621'
+  link: https://www.goodreads.com/book/show/2062717.Gunsmith_Cats_Volume_4
+  status: read
 title: Gunsmith Cats, Volume 4
 ---

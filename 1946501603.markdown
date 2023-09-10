@@ -1,13 +1,14 @@
 ---
-authors:
-- Dennis E. Taylor
 category: books
-cover: 1946501603.jpg
 date: 2017-03-19 13:41:43-07:00
-end_date: 2017-03-29 22:01:17-07:00
-ids:
-  goodreads: '1946501603'
-link: https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob
-status: read
+metadata:
+  authors:
+  - Dennis E. Taylor
+  cover: 1946501603.jpg
+  end_date: 2017-03-29 22:01:17-07:00
+  ids:
+    goodreads: '1946501603'
+  link: https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob
+  status: read
 title: We Are Legion (We Are Bob)
 ---

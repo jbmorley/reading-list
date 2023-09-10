@@ -1,16 +1,17 @@
 ---
-authors:
-- Brian K. Vaughan
 category: books
-cover: 3156479217.jpg
 date: 2020-01-23 04:30:41-08:00
-end_date: 2020-01-23 04:30:44-08:00
-format: paperback
-ids:
-  goodreads: '3156479217'
-  isbn_10: '1534313249'
-  isbn_13: '9781534313248'
-link: https://www.goodreads.com/book/show/44426058-paper-girls-vol-6
-status: read
+metadata:
+  authors:
+  - Brian K. Vaughan
+  cover: 3156479217.jpg
+  end_date: 2020-01-23 04:30:44-08:00
+  format: paperback
+  ids:
+    goodreads: '3156479217'
+    isbn_10: '1534313249'
+    isbn_13: '9781534313248'
+  link: https://www.goodreads.com/book/show/44426058-paper-girls-vol-6
+  status: read
 title: Paper Girls, Vol. 6
 ---

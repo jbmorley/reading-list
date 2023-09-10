@@ -1,16 +1,17 @@
 ---
-authors:
-- Ben Aaronovitch
 category: books
-cover: 3597435046.jpg
 date: 2020-10-15 16:44:17-07:00
-end_date: '2021-03-31T15:49:27.611071-07:00'
-format: hardcover
-ids:
-  goodreads: '3597435046'
-  isbn_10: 0575132558
-  isbn_13: '9780575132559'
-link: https://www.goodreads.com/book/show/21479290-the-hanging-tree
-status: read
+metadata:
+  authors:
+  - Ben Aaronovitch
+  cover: 3597435046.jpg
+  end_date: '2021-03-31T15:49:27.611071-07:00'
+  format: hardcover
+  ids:
+    goodreads: '3597435046'
+    isbn_10: 0575132558
+    isbn_13: '9780575132559'
+  link: https://www.goodreads.com/book/show/21479290-the-hanging-tree
+  status: read
 title: The Hanging Tree
 ---

@@ -1,14 +1,15 @@
 ---
-authors:
-- Paulo Coelho
 category: books
-cover: 1823980432.jpg
-format: paperback
-ids:
-  goodreads: '1823980432'
-  isbn_10: '0061122416'
-  isbn_13: '9780061122415'
-link: https://www.goodreads.com/book/show/865.The_Alchemist
-status: read
+metadata:
+  authors:
+  - Paulo Coelho
+  cover: 1823980432.jpg
+  format: paperback
+  ids:
+    goodreads: '1823980432'
+    isbn_10: '0061122416'
+    isbn_13: '9780061122415'
+  link: https://www.goodreads.com/book/show/865.The_Alchemist
+  status: read
 title: The Alchemist
 ---

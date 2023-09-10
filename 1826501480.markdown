@@ -1,14 +1,15 @@
 ---
-authors:
-- Alan Moore
 category: books
-cover: 1826501480.jpg
-format: paperback
-ids:
-  goodreads: '1826501480'
-  isbn_10: 140120094X
-  isbn_13: '9781401200947'
-link: https://www.goodreads.com/book/show/325754.Promethea_Vol_3
-status: read
+metadata:
+  authors:
+  - Alan Moore
+  cover: 1826501480.jpg
+  format: paperback
+  ids:
+    goodreads: '1826501480'
+    isbn_10: 140120094X
+    isbn_13: '9781401200947'
+  link: https://www.goodreads.com/book/show/325754.Promethea_Vol_3
+  status: read
 title: Promethea, Vol. 3
 ---

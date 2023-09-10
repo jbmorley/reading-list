@@ -1,13 +1,14 @@
 ---
-authors:
-- William Gibson
 category: books
-cover: 1826484261.jpg
 date: 2016-07-28 00:00:00-07:00
-end_date: 2016-12-03 08:38:00-08:00
-ids:
-  goodreads: '1826484261'
-link: https://www.goodreads.com/book/show/6493465-idoru
-status: read
+metadata:
+  authors:
+  - William Gibson
+  cover: 1826484261.jpg
+  end_date: 2016-12-03 08:38:00-08:00
+  ids:
+    goodreads: '1826484261'
+  link: https://www.goodreads.com/book/show/6493465-idoru
+  status: read
 title: Idoru
 ---

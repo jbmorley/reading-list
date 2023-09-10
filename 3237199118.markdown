@@ -1,16 +1,17 @@
 ---
-authors:
-- Chihiro Ishizuka
 category: books
-cover: 3237199118.jpg
 date: 2020-03-19 06:31:21-07:00
-end_date: 2020-03-21 11:12:52-07:00
-format: paperback
-ids:
-  goodreads: '3237199118'
-  isbn_10: '1947194615'
-  isbn_13: '9781947194618'
-link: https://www.goodreads.com/book/show/42049816-flying-witch-vol-7
-status: read
+metadata:
+  authors:
+  - Chihiro Ishizuka
+  cover: 3237199118.jpg
+  end_date: 2020-03-21 11:12:52-07:00
+  format: paperback
+  ids:
+    goodreads: '3237199118'
+    isbn_10: '1947194615'
+    isbn_13: '9781947194618'
+  link: https://www.goodreads.com/book/show/42049816-flying-witch-vol-7
+  status: read
 title: Flying Witch, Vol. 7
 ---

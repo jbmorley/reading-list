@@ -1,13 +1,14 @@
 ---
-authors:
-- Brian K. Vaughan
 category: books
-cover: 2051925338.jpg
 date: 2017-07-06 22:13:29-07:00
-end_date: 2017-07-06 22:14:23-07:00
-ids:
-  goodreads: '2051925338'
-link: https://www.goodreads.com/book/show/34907992-saga-44
-status: read
+metadata:
+  authors:
+  - Brian K. Vaughan
+  cover: 2051925338.jpg
+  end_date: 2017-07-06 22:14:23-07:00
+  ids:
+    goodreads: '2051925338'
+  link: https://www.goodreads.com/book/show/34907992-saga-44
+  status: read
 title: 'Saga #44'
 ---

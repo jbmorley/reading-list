@@ -1,14 +1,15 @@
 ---
-authors:
-- Mark Oliver Everett
 category: books
-cover: 1823974652.jpg
-format: paperback
-ids:
-  goodreads: '1823974652'
-  isbn_10: 0349120846
-  isbn_13: '9780349120843'
-link: https://www.goodreads.com/book/show/17524108-things-the-grandchildren-should-know
-status: read
+metadata:
+  authors:
+  - Mark Oliver Everett
+  cover: 1823974652.jpg
+  format: paperback
+  ids:
+    goodreads: '1823974652'
+    isbn_10: 0349120846
+    isbn_13: '9780349120843'
+  link: https://www.goodreads.com/book/show/17524108-things-the-grandchildren-should-know
+  status: read
 title: Things The Grandchildren Should Know
 ---

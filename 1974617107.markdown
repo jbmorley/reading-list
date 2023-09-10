@@ -1,16 +1,17 @@
 ---
-authors:
-- Brian K. Vaughan
 category: books
-cover: 1974617107.jpg
 date: 2017-04-17 18:14:32-07:00
-end_date: 2017-04-18 05:10:42-07:00
-format: paperback
-ids:
-  goodreads: '1974617107'
-  isbn_10: '1534300600'
-  isbn_13: '9781534300606'
-link: https://www.goodreads.com/book/show/29237211-saga-vol-7
-status: read
+metadata:
+  authors:
+  - Brian K. Vaughan
+  cover: 1974617107.jpg
+  end_date: 2017-04-18 05:10:42-07:00
+  format: paperback
+  ids:
+    goodreads: '1974617107'
+    isbn_10: '1534300600'
+    isbn_13: '9781534300606'
+  link: https://www.goodreads.com/book/show/29237211-saga-vol-7
+  status: read
 title: Saga, Vol. 7
 ---

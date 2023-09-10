@@ -1,14 +1,15 @@
 ---
-authors:
-- Haruki Murakami
 category: books
-cover: 1823981335.jpg
-format: paperback
-ids:
-  goodreads: '1823981335'
-  isbn_10: 0679767398
-  isbn_13: '9780679767398'
-link: https://www.goodreads.com/book/show/33263.South_of_the_Border_West_of_the_Sun
-status: read
+metadata:
+  authors:
+  - Haruki Murakami
+  cover: 1823981335.jpg
+  format: paperback
+  ids:
+    goodreads: '1823981335'
+    isbn_10: 0679767398
+    isbn_13: '9780679767398'
+  link: https://www.goodreads.com/book/show/33263.South_of_the_Border_West_of_the_Sun
+  status: read
 title: South of the Border, West of the Sun
 ---

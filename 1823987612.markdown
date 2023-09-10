@@ -1,11 +1,12 @@
 ---
-authors:
-- Richard Castle
 category: books
-cover: 1823987612.jpg
-ids:
-  goodreads: '1823987612'
-link: https://www.goodreads.com/book/show/8136931-heat-wave
-status: read
+metadata:
+  authors:
+  - Richard Castle
+  cover: 1823987612.jpg
+  ids:
+    goodreads: '1823987612'
+  link: https://www.goodreads.com/book/show/8136931-heat-wave
+  status: read
 title: Heat Wave
 ---

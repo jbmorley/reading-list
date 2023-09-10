@@ -1,14 +1,15 @@
 ---
-authors:
-- Antoine de Saint-Exupéry
 category: books
-cover: 1823977238.jpg
-format: paperback
-ids:
-  goodreads: '1823977238'
-  isbn_10: 0749707232
-  isbn_13: '9780749707231'
-link: https://www.goodreads.com/book/show/578618.The_Little_Prince
-status: read
+metadata:
+  authors:
+  - Antoine de Saint-Exupéry
+  cover: 1823977238.jpg
+  format: paperback
+  ids:
+    goodreads: '1823977238'
+    isbn_10: 0749707232
+    isbn_13: '9780749707231'
+  link: https://www.goodreads.com/book/show/578618.The_Little_Prince
+  status: read
 title: The Little Prince
 ---

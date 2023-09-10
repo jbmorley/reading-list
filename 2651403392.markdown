@@ -1,14 +1,15 @@
 ---
-authors:
-- A.A. Milne
 category: books
-cover: 2651403392.jpg
-format: hardcover
-ids:
-  goodreads: '2651403392'
-  isbn_10: '0525467564'
-  isbn_13: '9780525467564'
-link: https://www.goodreads.com/book/show/99107.Winnie_the_Pooh
-status: read
+metadata:
+  authors:
+  - A.A. Milne
+  cover: 2651403392.jpg
+  format: hardcover
+  ids:
+    goodreads: '2651403392'
+    isbn_10: '0525467564'
+    isbn_13: '9780525467564'
+  link: https://www.goodreads.com/book/show/99107.Winnie_the_Pooh
+  status: read
 title: Winnie-the-Pooh
 ---

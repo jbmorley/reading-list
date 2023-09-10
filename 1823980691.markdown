@@ -1,14 +1,15 @@
 ---
-authors:
-- Warren Ellis
 category: books
-cover: 1823980691.jpg
-format: paperback
-ids:
-  goodreads: '1823980691'
-  isbn_10: '1632153122'
-  isbn_13: '9781632153128'
-link: https://www.goodreads.com/book/show/25089749-supreme
-status: read
+metadata:
+  authors:
+  - Warren Ellis
+  cover: 1823980691.jpg
+  format: paperback
+  ids:
+    goodreads: '1823980691'
+    isbn_10: '1632153122'
+    isbn_13: '9781632153128'
+  link: https://www.goodreads.com/book/show/25089749-supreme
+  status: read
 title: 'Supreme: Blue Rose'
 ---

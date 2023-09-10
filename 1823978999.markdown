@@ -1,15 +1,16 @@
 ---
-authors:
-- Alan Moore
 category: books
-cover: 1823978999.jpg
-end_date: 2016-04-01 00:00:00-07:00
-format: hardcover
-ids:
-  goodreads: '1823978999'
-  isbn_10: 140120306X
-  isbn_13: '9781401203061'
-link: https://www.goodreads.com/book/show/107009.The_League_of_Extraordinary_Gentlemen
-status: read
+metadata:
+  authors:
+  - Alan Moore
+  cover: 1823978999.jpg
+  end_date: 2016-04-01 00:00:00-07:00
+  format: hardcover
+  ids:
+    goodreads: '1823978999'
+    isbn_10: 140120306X
+    isbn_13: '9781401203061'
+  link: https://www.goodreads.com/book/show/107009.The_League_of_Extraordinary_Gentlemen
+  status: read
 title: 'The League of Extraordinary Gentlemen: Black Dossier'
 ---

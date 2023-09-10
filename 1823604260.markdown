@@ -1,16 +1,17 @@
 ---
-authors:
-- William Gibson
 category: books
-cover: 1823604260.jpg
 date: 2016-04-09 00:00:00-07:00
-end_date: 2016-04-16 00:00:00-07:00
-format: paperback
-ids:
-  goodreads: '1823604260'
-  isbn_10: 0441013678
-  isbn_13: '9780441013678'
-link: https://www.goodreads.com/book/show/22200.Count_Zero
-status: read
+metadata:
+  authors:
+  - William Gibson
+  cover: 1823604260.jpg
+  end_date: 2016-04-16 00:00:00-07:00
+  format: paperback
+  ids:
+    goodreads: '1823604260'
+    isbn_10: 0441013678
+    isbn_13: '9780441013678'
+  link: https://www.goodreads.com/book/show/22200.Count_Zero
+  status: read
 title: Count Zero
 ---

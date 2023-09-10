@@ -1,14 +1,15 @@
 ---
-authors:
-- Douglas Adams
 category: books
-cover: 2043922885.jpg
-format: paperback
-ids:
-  goodreads: '2043922885'
-  isbn_10: 0345379330
-  isbn_13: '9780345379337'
-link: https://www.goodreads.com/book/show/569429.Mostly_Harmless
-status: read
+metadata:
+  authors:
+  - Douglas Adams
+  cover: 2043922885.jpg
+  format: paperback
+  ids:
+    goodreads: '2043922885'
+    isbn_10: 0345379330
+    isbn_13: '9780345379337'
+  link: https://www.goodreads.com/book/show/569429.Mostly_Harmless
+  status: read
 title: Mostly Harmless
 ---

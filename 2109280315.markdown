@@ -1,14 +1,15 @@
 ---
-authors:
-- C.S. Lewis
 category: books
-cover: 2109280315.jpg
-format: paperback
-ids:
-  goodreads: '2109280315'
-  isbn_10: '0006716636'
-  isbn_13: '9780006716631'
-link: https://www.goodreads.com/book/show/1551102.The_Lion_the_Witch_and_the_Wardrobe
-status: read
+metadata:
+  authors:
+  - C.S. Lewis
+  cover: 2109280315.jpg
+  format: paperback
+  ids:
+    goodreads: '2109280315'
+    isbn_10: '0006716636'
+    isbn_13: '9780006716631'
+  link: https://www.goodreads.com/book/show/1551102.The_Lion_the_Witch_and_the_Wardrobe
+  status: read
 title: The Lion, the Witch and the Wardrobe
 ---

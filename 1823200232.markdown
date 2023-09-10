@@ -1,14 +1,15 @@
 ---
-authors:
-- Ernest Cline
 category: books
-cover: 1823200232.jpg
-format: hardcover
-ids:
-  goodreads: '1823200232'
-  isbn_10: 0804137250
-  isbn_13: '9780804137256'
-link: https://www.goodreads.com/book/show/16278318-armada
-status: read
+metadata:
+  authors:
+  - Ernest Cline
+  cover: 1823200232.jpg
+  format: hardcover
+  ids:
+    goodreads: '1823200232'
+    isbn_10: 0804137250
+    isbn_13: '9780804137256'
+  link: https://www.goodreads.com/book/show/16278318-armada
+  status: read
 title: Armada
 ---

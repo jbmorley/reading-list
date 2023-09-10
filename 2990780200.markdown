@@ -1,14 +1,15 @@
 ---
-authors:
-- Michael Palin
 category: books
-cover: 2990780200.jpg
-format: hardcover
-ids:
-  goodreads: '2990780200'
-  isbn_10: 178633190X
-  isbn_13: '9781786331908'
-link: https://www.goodreads.com/book/show/43300060-north-korea-journal
-status: read
+metadata:
+  authors:
+  - Michael Palin
+  cover: 2990780200.jpg
+  format: hardcover
+  ids:
+    goodreads: '2990780200'
+    isbn_10: 178633190X
+    isbn_13: '9781786331908'
+  link: https://www.goodreads.com/book/show/43300060-north-korea-journal
+  status: read
 title: North Korea Journal
 ---

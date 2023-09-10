@@ -1,16 +1,17 @@
 ---
-authors:
-- Paolo Bacigalupi
 category: books
-cover: 2536153240.jpg
 date: 2018-09-19 22:10:11-07:00
-end_date: 2018-10-05 18:55:23-07:00
-format: hardcover
-ids:
-  goodreads: '2536153240'
-  isbn_10: '1597801577'
-  isbn_13: '9781597801577'
-link: https://www.goodreads.com/book/show/6597651-the-windup-girl
-status: read
+metadata:
+  authors:
+  - Paolo Bacigalupi
+  cover: 2536153240.jpg
+  end_date: 2018-10-05 18:55:23-07:00
+  format: hardcover
+  ids:
+    goodreads: '2536153240'
+    isbn_10: '1597801577'
+    isbn_13: '9781597801577'
+  link: https://www.goodreads.com/book/show/6597651-the-windup-girl
+  status: read
 title: The Windup Girl
 ---

@@ -1,13 +1,14 @@
 ---
-authors:
-- Alan Moore
 category: books
-cover: 3613446664.jpg
 date: 2020-10-25 23:37:59-07:00
-end_date: 2020-10-26 12:17:33-07:00
-ids:
-  goodreads: '3613446664'
-link: https://www.goodreads.com/book/show/35792890-neonomicon-1
-status: read
+metadata:
+  authors:
+  - Alan Moore
+  cover: 3613446664.jpg
+  end_date: 2020-10-26 12:17:33-07:00
+  ids:
+    goodreads: '3613446664'
+  link: https://www.goodreads.com/book/show/35792890-neonomicon-1
+  status: read
 title: 'Neonomicon #1'
 ---

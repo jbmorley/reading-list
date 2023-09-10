@@ -1,14 +1,15 @@
 ---
-authors:
-- Haruki Murakami
 category: books
-cover: 1823984124.jpg
-format: paperback
-ids:
-  goodreads: '1823984124'
-  isbn_10: '0375704027'
-  isbn_13: '9780375704024'
-link: https://www.goodreads.com/book/show/11297.Norwegian_Wood
-status: read
+metadata:
+  authors:
+  - Haruki Murakami
+  cover: 1823984124.jpg
+  format: paperback
+  ids:
+    goodreads: '1823984124'
+    isbn_10: '0375704027'
+    isbn_13: '9780375704024'
+  link: https://www.goodreads.com/book/show/11297.Norwegian_Wood
+  status: read
 title: Norwegian Wood
 ---

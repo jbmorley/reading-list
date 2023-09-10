@@ -1,13 +1,14 @@
 ---
-authors:
-- Warren Ellis
 category: books
-cover: 2055079541.jpg
 date: 2017-07-09 21:10:56-07:00
-end_date: 2017-07-13 06:56:14-07:00
-ids:
-  goodreads: '2055079541'
-link: https://www.goodreads.com/book/show/20232821-transmetropolitan-vol-5
-status: read
+metadata:
+  authors:
+  - Warren Ellis
+  cover: 2055079541.jpg
+  end_date: 2017-07-13 06:56:14-07:00
+  ids:
+    goodreads: '2055079541'
+  link: https://www.goodreads.com/book/show/20232821-transmetropolitan-vol-5
+  status: read
 title: 'Transmetropolitan, Vol. 5: Lonely City'
 ---

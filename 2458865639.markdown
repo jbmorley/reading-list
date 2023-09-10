@@ -1,11 +1,12 @@
 ---
-authors:
-- Warren Ellis
 category: books
-cover: 2458865639.jpg
-ids:
-  goodreads: '2458865639'
-link: https://www.goodreads.com/book/show/37934725-anna-mercury
-status: read
+metadata:
+  authors:
+  - Warren Ellis
+  cover: 2458865639.jpg
+  ids:
+    goodreads: '2458865639'
+  link: https://www.goodreads.com/book/show/37934725-anna-mercury
+  status: read
 title: 'Anna Mercury: 2 #3 (of 5)'
 ---

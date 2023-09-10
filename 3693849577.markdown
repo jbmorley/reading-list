@@ -1,14 +1,15 @@
 ---
-authors:
-- John le Carré
 category: books
-cover: 3693849577.jpg
-format: hardcover
-ids:
-  goodreads: '3693849577'
-  isbn_10: '1984878875'
-  isbn_13: '9781984878878'
-link: https://www.goodreads.com/book/show/43904017-agent-running-in-the-field
-status: to-read
+metadata:
+  authors:
+  - John le Carré
+  cover: 3693849577.jpg
+  format: hardcover
+  ids:
+    goodreads: '3693849577'
+    isbn_10: '1984878875'
+    isbn_13: '9781984878878'
+  link: https://www.goodreads.com/book/show/43904017-agent-running-in-the-field
+  status: to-read
 title: Agent Running in the Field
 ---

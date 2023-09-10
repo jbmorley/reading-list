@@ -1,14 +1,15 @@
 ---
-authors:
-- H.G. Wells
 category: books
-cover: 1823136607.jpg
-format: paperback
-ids:
-  goodreads: '1823136607'
-  isbn_10: 0141398752
-  isbn_13: '9780141398754'
-link: https://www.goodreads.com/book/show/24874367-a-slip-under-the-microscope
-status: read
+metadata:
+  authors:
+  - H.G. Wells
+  cover: 1823136607.jpg
+  format: paperback
+  ids:
+    goodreads: '1823136607'
+    isbn_10: 0141398752
+    isbn_13: '9780141398754'
+  link: https://www.goodreads.com/book/show/24874367-a-slip-under-the-microscope
+  status: read
 title: A Slip under the Microscope
 ---

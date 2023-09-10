@@ -1,16 +1,17 @@
 ---
-authors:
-- Anthony Horowitz
 category: books
-cover: 2554069011.jpg
 date: 2018-10-05 00:00:00-07:00
-end_date: 2018-10-08 19:53:45-07:00
-format: hardcover
-ids:
-  goodreads: '2554069011'
-  isbn_10: 0316196991
-  isbn_13: '9780316196994'
-link: https://www.goodreads.com/book/show/11093329-the-house-of-silk
-status: read
+metadata:
+  authors:
+  - Anthony Horowitz
+  cover: 2554069011.jpg
+  end_date: 2018-10-08 19:53:45-07:00
+  format: hardcover
+  ids:
+    goodreads: '2554069011'
+    isbn_10: 0316196991
+    isbn_13: '9780316196994'
+  link: https://www.goodreads.com/book/show/11093329-the-house-of-silk
+  status: read
 title: The House of Silk
 ---

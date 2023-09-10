@@ -1,14 +1,15 @@
 ---
-authors:
-- Neal Stephenson
 category: books
-cover: 1826496974.jpg
-format: paperback
-ids:
-  goodreads: '1826496974'
-  isbn_10: 0553380958
-  isbn_13: '9780553380958'
-link: https://www.goodreads.com/book/show/830.Snow_Crash
-status: read
+metadata:
+  authors:
+  - Neal Stephenson
+  cover: 1826496974.jpg
+  format: paperback
+  ids:
+    goodreads: '1826496974'
+    isbn_10: 0553380958
+    isbn_13: '9780553380958'
+  link: https://www.goodreads.com/book/show/830.Snow_Crash
+  status: read
 title: Snow Crash
 ---

@@ -1,14 +1,15 @@
 ---
-authors:
-- G. Willow Wilson
 category: books
-cover: 3357014732.jpg
-format: paperback
-ids:
-  goodreads: '3357014732'
-  isbn_10: 0785192271
-  isbn_13: '9780785192275'
-link: https://www.goodreads.com/book/show/23546843-ms-marvel-vol-3
-status: to-read
+metadata:
+  authors:
+  - G. Willow Wilson
+  cover: 3357014732.jpg
+  format: paperback
+  ids:
+    goodreads: '3357014732'
+    isbn_10: 0785192271
+    isbn_13: '9780785192275'
+  link: https://www.goodreads.com/book/show/23546843-ms-marvel-vol-3
+  status: to-read
 title: 'Ms. Marvel, Vol. 3: Crushed'
 ---

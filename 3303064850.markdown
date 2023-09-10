@@ -1,16 +1,17 @@
 ---
-authors:
-- P. Craig Russell
 category: books
-cover: 3303064850.jpg
 date: 2020-04-26 13:32:23-07:00
-end_date: 2020-04-26 13:32:39-07:00
-format: hardcover
-ids:
-  goodreads: '3303064850'
-  isbn_10: 006082543X
-  isbn_13: '9780060825430'
-link: https://www.goodreads.com/book/show/1967070.Coraline
-status: read
+metadata:
+  authors:
+  - P. Craig Russell
+  cover: 3303064850.jpg
+  end_date: 2020-04-26 13:32:39-07:00
+  format: hardcover
+  ids:
+    goodreads: '3303064850'
+    isbn_10: 006082543X
+    isbn_13: '9780060825430'
+  link: https://www.goodreads.com/book/show/1967070.Coraline
+  status: read
 title: Coraline
 ---

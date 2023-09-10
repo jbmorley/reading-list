@@ -1,14 +1,15 @@
 ---
-authors:
-- Scott Adams
 category: books
-cover: 1823625319.jpg
-format: paperback
-ids:
-  goodreads: '1823625319'
-  isbn_10: '0740704532'
-  isbn_13: '9780740704536'
-link: https://www.goodreads.com/book/show/783372.Random_Acts_of_Management
-status: read
+metadata:
+  authors:
+  - Scott Adams
+  cover: 1823625319.jpg
+  format: paperback
+  ids:
+    goodreads: '1823625319'
+    isbn_10: '0740704532'
+    isbn_13: '9780740704536'
+  link: https://www.goodreads.com/book/show/783372.Random_Acts_of_Management
+  status: read
 title: Random Acts of Management
 ---

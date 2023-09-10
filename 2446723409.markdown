@@ -1,13 +1,14 @@
 ---
-authors:
-- Warren Ellis
 category: books
-cover: 2446723409.jpg
 date: 2018-07-05 14:55:31-07:00
-end_date: 2018-07-05 23:07:55-07:00
-ids:
-  goodreads: '2446723409'
-link: https://www.goodreads.com/book/show/39927770-anna-mercury-3
-status: read
+metadata:
+  authors:
+  - Warren Ellis
+  cover: 2446723409.jpg
+  end_date: 2018-07-05 23:07:55-07:00
+  ids:
+    goodreads: '2446723409'
+  link: https://www.goodreads.com/book/show/39927770-anna-mercury-3
+  status: read
 title: 'Anna Mercury #3'
 ---

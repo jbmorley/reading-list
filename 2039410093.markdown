@@ -1,14 +1,15 @@
 ---
-authors:
-- Dorothy Gambrell
 category: books
-cover: 2039410093.jpg
 date: 2017-06-24 18:09:33-07:00
-end_date: 2018-12-28 18:28:17-08:00
-format: paperback
-ids:
-  goodreads: '2039410093'
-link: https://www.goodreads.com/book/show/718003.Cat_and_Girl_Volume_I
-status: read
+metadata:
+  authors:
+  - Dorothy Gambrell
+  cover: 2039410093.jpg
+  end_date: 2018-12-28 18:28:17-08:00
+  format: paperback
+  ids:
+    goodreads: '2039410093'
+  link: https://www.goodreads.com/book/show/718003.Cat_and_Girl_Volume_I
+  status: read
 title: Cat and Girl Volume I
 ---

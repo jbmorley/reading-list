@@ -1,16 +1,17 @@
 ---
-authors:
-- Jen Wang
 category: books
-cover: 2888048952.jpg
 date: 2019-07-08 10:29:25-07:00
-end_date: 2019-07-08 10:30:47-07:00
-format: paperback
-ids:
-  goodreads: '2888048952'
-  isbn_10: 162672363X
-  isbn_13: '9781626723634'
-link: https://www.goodreads.com/book/show/34506912-the-prince-and-the-dressmaker
-status: read
+metadata:
+  authors:
+  - Jen Wang
+  cover: 2888048952.jpg
+  end_date: 2019-07-08 10:30:47-07:00
+  format: paperback
+  ids:
+    goodreads: '2888048952'
+    isbn_10: 162672363X
+    isbn_13: '9781626723634'
+  link: https://www.goodreads.com/book/show/34506912-the-prince-and-the-dressmaker
+  status: read
 title: The Prince and the Dressmaker
 ---

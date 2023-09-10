@@ -1,14 +1,15 @@
 ---
-authors:
-- Walter Isaacson
 category: books
-cover: 1826496314.jpg
-format: hardcover
-ids:
-  goodreads: '1826496314'
-  isbn_10: '1451648537'
-  isbn_13: '9781451648539'
-link: https://www.goodreads.com/book/show/11084145-steve-jobs
-status: read
+metadata:
+  authors:
+  - Walter Isaacson
+  cover: 1826496314.jpg
+  format: hardcover
+  ids:
+    goodreads: '1826496314'
+    isbn_10: '1451648537'
+    isbn_13: '9781451648539'
+  link: https://www.goodreads.com/book/show/11084145-steve-jobs
+  status: read
 title: Steve Jobs
 ---

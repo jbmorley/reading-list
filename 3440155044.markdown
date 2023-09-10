@@ -1,16 +1,17 @@
 ---
-authors:
-- Ben Aaronovitch
 category: books
-cover: 3440155044.jpg
 date: 2020-07-12 23:17:06-07:00
-end_date: 2020-07-28 12:35:51-07:00
-format: hardcover
-ids:
-  goodreads: '3440155044'
-  isbn_10: 0575097604
-  isbn_13: '9780575097605'
-link: https://www.goodreads.com/book/show/10381195-moon-over-soho
-status: read
+metadata:
+  authors:
+  - Ben Aaronovitch
+  cover: 3440155044.jpg
+  end_date: 2020-07-28 12:35:51-07:00
+  format: hardcover
+  ids:
+    goodreads: '3440155044'
+    isbn_10: 0575097604
+    isbn_13: '9780575097605'
+  link: https://www.goodreads.com/book/show/10381195-moon-over-soho
+  status: read
 title: Moon Over Soho
 ---

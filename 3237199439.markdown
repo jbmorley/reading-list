@@ -1,15 +1,16 @@
 ---
-authors:
-- Chihiro Ishizuka
 category: books
-cover: 3237199439.jpg
 date: 2020-05-13 06:26:33-07:00
-end_date: 2020-06-12 06:18:19-07:00
-ids:
-  goodreads: '3237199439'
-  isbn_10: '1949980154'
-  isbn_13: '9781949980158'
-link: https://www.goodreads.com/book/show/52037561-flying-witch-vol-8
-status: read
+metadata:
+  authors:
+  - Chihiro Ishizuka
+  cover: 3237199439.jpg
+  end_date: 2020-06-12 06:18:19-07:00
+  ids:
+    goodreads: '3237199439'
+    isbn_10: '1949980154'
+    isbn_13: '9781949980158'
+  link: https://www.goodreads.com/book/show/52037561-flying-witch-vol-8
+  status: read
 title: Flying Witch, Vol. 8
 ---

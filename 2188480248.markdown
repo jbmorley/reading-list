@@ -1,14 +1,15 @@
 ---
-authors:
-- Terry Pratchett
 category: books
-cover: 2188480248.jpg
-format: paperback
-ids:
-  goodreads: '2188480248'
-  isbn_10: 055255264X
-  isbn_13: '9780552552646'
-link: https://www.goodreads.com/book/show/34501.A_Hat_Full_of_Sky
-status: read
+metadata:
+  authors:
+  - Terry Pratchett
+  cover: 2188480248.jpg
+  format: paperback
+  ids:
+    goodreads: '2188480248'
+    isbn_10: 055255264X
+    isbn_13: '9780552552646'
+  link: https://www.goodreads.com/book/show/34501.A_Hat_Full_of_Sky
+  status: read
 title: A Hat Full of Sky
 ---

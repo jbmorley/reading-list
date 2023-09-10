@@ -1,13 +1,14 @@
 ---
-authors:
-- Kevin Guilfoile
 category: books
-cover: 1823136046.jpg
-format: ebook
-ids:
-  goodreads: '1823136046'
-  isbn_13: '9780985831615'
-link: https://www.goodreads.com/book/show/15791614-a-drive-into-the-gap
-status: read
+metadata:
+  authors:
+  - Kevin Guilfoile
+  cover: 1823136046.jpg
+  format: ebook
+  ids:
+    goodreads: '1823136046'
+    isbn_13: '9780985831615'
+  link: https://www.goodreads.com/book/show/15791614-a-drive-into-the-gap
+  status: read
 title: A Drive into the Gap
 ---

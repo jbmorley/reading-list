@@ -1,14 +1,15 @@
 ---
-authors:
-- George Orwell
 category: books
-cover: 2043901779.jpg
-format: paperback
-ids:
-  goodreads: '2043901779'
-  isbn_10: 0452284244
-  isbn_13: '9780452284241'
-link: https://www.goodreads.com/book/show/7613.Animal_Farm
-status: read
+metadata:
+  authors:
+  - George Orwell
+  cover: 2043901779.jpg
+  format: paperback
+  ids:
+    goodreads: '2043901779'
+    isbn_10: 0452284244
+    isbn_13: '9780452284241'
+  link: https://www.goodreads.com/book/show/7613.Animal_Farm
+  status: read
 title: Animal Farm
 ---

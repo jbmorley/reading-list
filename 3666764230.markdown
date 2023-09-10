@@ -1,13 +1,14 @@
 ---
-authors:
-- Andrew Martin
 category: books
-cover: 3666764230.jpg
-ids:
-  goodreads: '3666764230'
-  isbn_10: '1916045316'
-  isbn_13: '9781916045316'
-link: https://www.goodreads.com/book/show/49399178-seats-of-london
-status: to-read
+metadata:
+  authors:
+  - Andrew Martin
+  cover: 3666764230.jpg
+  ids:
+    goodreads: '3666764230'
+    isbn_10: '1916045316'
+    isbn_13: '9781916045316'
+  link: https://www.goodreads.com/book/show/49399178-seats-of-london
+  status: to-read
 title: 'Seats of London: A Field Guide to London Transport Moquette Patterns'
 ---

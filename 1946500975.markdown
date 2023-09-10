@@ -1,16 +1,17 @@
 ---
-authors:
-- Kosuke Fujishima
 category: books
-cover: 1946500975.jpg
 date: 2017-03-19 13:40:54-07:00
-end_date: 2017-06-27 21:59:31-07:00
-format: paperback
-ids:
-  goodreads: '1946500975'
-  isbn_10: '1616557842'
-  isbn_13: '9781616557843'
-link: https://www.goodreads.com/book/show/26150662-oh-my-goddess-omnibus-volume-2
-status: read
+metadata:
+  authors:
+  - Kosuke Fujishima
+  cover: 1946500975.jpg
+  end_date: 2017-06-27 21:59:31-07:00
+  format: paperback
+  ids:
+    goodreads: '1946500975'
+    isbn_10: '1616557842'
+    isbn_13: '9781616557843'
+  link: https://www.goodreads.com/book/show/26150662-oh-my-goddess-omnibus-volume-2
+  status: read
 title: Oh My Goddess! Omnibus Volume 2
 ---

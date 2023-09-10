@@ -1,12 +1,13 @@
 ---
-authors:
-- Haruki Murakami
 category: books
-cover: 2741560065.jpg
 date: 2019-02-26 00:00:00-08:00
-ids:
-  goodreads: '2741560065'
-link: https://www.goodreads.com/book/show/40538486-killing-commendatore
-status: currently-reading
+metadata:
+  authors:
+  - Haruki Murakami
+  cover: 2741560065.jpg
+  ids:
+    goodreads: '2741560065'
+  link: https://www.goodreads.com/book/show/40538486-killing-commendatore
+  status: currently-reading
 title: Killing Commendatore
 ---

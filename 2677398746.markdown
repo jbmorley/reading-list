@@ -1,16 +1,17 @@
 ---
-authors:
-- Mengo Yokoyari
 category: books
-cover: 2677398746.jpg
 date: 2019-01-17 02:17:01-08:00
-end_date: 2019-01-18 06:21:30-08:00
-format: paperback
-ids:
-  goodreads: '2677398746'
-  isbn_10: 0316463728
-  isbn_13: '9780316463720'
-link: https://www.goodreads.com/book/show/30320195-scum-s-wish-vol-1
-status: read
+metadata:
+  authors:
+  - Mengo Yokoyari
+  cover: 2677398746.jpg
+  end_date: 2019-01-18 06:21:30-08:00
+  format: paperback
+  ids:
+    goodreads: '2677398746'
+    isbn_10: 0316463728
+    isbn_13: '9780316463720'
+  link: https://www.goodreads.com/book/show/30320195-scum-s-wish-vol-1
+  status: read
 title: Scum's Wish, Vol. 1
 ---

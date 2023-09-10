@@ -1,13 +1,14 @@
 ---
-authors:
-- Haruki Murakami
 category: books
-cover: 1823603634.jpg
 date: 2016-11-27 19:24:09-08:00
-end_date: 2018-05-05 07:00:12-07:00
-ids:
-  goodreads: '1823603634'
-link: https://www.goodreads.com/book/show/21106953-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage
-status: read
+metadata:
+  authors:
+  - Haruki Murakami
+  cover: 1823603634.jpg
+  end_date: 2018-05-05 07:00:12-07:00
+  ids:
+    goodreads: '1823603634'
+  link: https://www.goodreads.com/book/show/21106953-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage
+  status: read
 title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
 ---

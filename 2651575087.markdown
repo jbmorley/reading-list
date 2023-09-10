@@ -1,14 +1,15 @@
 ---
-authors:
-- Amelia Thomas
 category: books
-cover: 2651575087.jpg
-format: paperback
-ids:
-  goodreads: '2651575087'
-  isbn_10: '1741044561'
-  isbn_13: '9781741044560'
-link: https://www.goodreads.com/book/show/7816911-lonely-planet-israel-the-palestinian-territories
-status: read
+metadata:
+  authors:
+  - Amelia Thomas
+  cover: 2651575087.jpg
+  format: paperback
+  ids:
+    goodreads: '2651575087'
+    isbn_10: '1741044561'
+    isbn_13: '9781741044560'
+  link: https://www.goodreads.com/book/show/7816911-lonely-planet-israel-the-palestinian-territories
+  status: read
 title: Lonely Planet Israel & the Palestinian Territories
 ---

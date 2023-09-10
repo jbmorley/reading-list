@@ -1,16 +1,17 @@
 ---
-authors:
-- William Gibson
 category: books
-cover: 1826494022.jpg
 date: 2016-02-02 00:00:00-08:00
-end_date: 2016-03-24 00:00:00-07:00
-format: paperback
-ids:
-  goodreads: '1826494022'
-  isbn_10: 055329461X
-  isbn_13: '9780553294613'
-link: https://www.goodreads.com/book/show/337116.The_Difference_Engine
-status: read
+metadata:
+  authors:
+  - William Gibson
+  cover: 1826494022.jpg
+  end_date: 2016-03-24 00:00:00-07:00
+  format: paperback
+  ids:
+    goodreads: '1826494022'
+    isbn_10: 055329461X
+    isbn_13: '9780553294613'
+  link: https://www.goodreads.com/book/show/337116.The_Difference_Engine
+  status: read
 title: The Difference Engine
 ---

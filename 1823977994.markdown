@@ -1,14 +1,15 @@
 ---
-authors:
-- Alan Moore
 category: books
-cover: 1823977994.jpg
-format: paperback
-ids:
-  goodreads: '1823977994'
-  isbn_10: '1563898586'
-  isbn_13: '9781563898587'
-link: https://www.goodreads.com/book/show/297627.The_League_of_Extraordinary_Gentlemen_Vol_1
-status: read
+metadata:
+  authors:
+  - Alan Moore
+  cover: 1823977994.jpg
+  format: paperback
+  ids:
+    goodreads: '1823977994'
+    isbn_10: '1563898586'
+    isbn_13: '9781563898587'
+  link: https://www.goodreads.com/book/show/297627.The_League_of_Extraordinary_Gentlemen_Vol_1
+  status: read
 title: The League of Extraordinary Gentlemen, Vol. 1
 ---

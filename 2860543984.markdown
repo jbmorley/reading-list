@@ -1,14 +1,15 @@
 ---
-authors:
-- Robert C. O'Brien
 category: books
-cover: 2860543984.jpg
-format: paperback
-ids:
-  goodreads: '2860543984'
-  isbn_10: 0689871252
-  isbn_13: '9780689871252'
-link: https://www.goodreads.com/book/show/440496.The_Silver_Crown
-status: read
+metadata:
+  authors:
+  - Robert C. O'Brien
+  cover: 2860543984.jpg
+  format: paperback
+  ids:
+    goodreads: '2860543984'
+    isbn_10: 0689871252
+    isbn_13: '9780689871252'
+  link: https://www.goodreads.com/book/show/440496.The_Silver_Crown
+  status: read
 title: The Silver Crown
 ---

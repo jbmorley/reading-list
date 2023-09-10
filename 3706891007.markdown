@@ -1,14 +1,15 @@
 ---
-authors:
-- Warren Ellis
 category: books
-cover: 3706891007.jpg
-format: ebook
-ids:
-  goodreads: '3706891007'
-  isbn_10: 0374711879
-  isbn_13: '9780374711870'
-link: https://www.goodreads.com/book/show/18194449-dead-pig-collector
-status: to-read
+metadata:
+  authors:
+  - Warren Ellis
+  cover: 3706891007.jpg
+  format: ebook
+  ids:
+    goodreads: '3706891007'
+    isbn_10: 0374711879
+    isbn_13: '9780374711870'
+  link: https://www.goodreads.com/book/show/18194449-dead-pig-collector
+  status: to-read
 title: Dead Pig Collector
 ---

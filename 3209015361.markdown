@@ -1,13 +1,14 @@
 ---
-authors:
-- Kenichi Sonoda
 category: books
-cover: 3209015361.jpg
 date: 2020-02-27 05:24:23-08:00
-end_date: 2020-02-29 05:29:39-08:00
-ids:
-  goodreads: '3209015361'
-link: https://www.goodreads.com/book/show/28013670-gunsmith-cats
-status: read
+metadata:
+  authors:
+  - Kenichi Sonoda
+  cover: 3209015361.jpg
+  end_date: 2020-02-29 05:29:39-08:00
+  ids:
+    goodreads: '3209015361'
+  link: https://www.goodreads.com/book/show/28013670-gunsmith-cats
+  status: read
 title: 'Gunsmith Cats: Burst Volume 2'
 ---

@@ -1,14 +1,15 @@
 ---
-authors:
-- William Gibson
 category: books
-cover: 1823975470.jpg
-format: paperback
-ids:
-  goodreads: '1823975470'
-  isbn_10: 0241961009
-  isbn_13: '9780241961001'
-link: https://www.goodreads.com/book/show/25452982-the-peripheral
-status: read
+metadata:
+  authors:
+  - William Gibson
+  cover: 1823975470.jpg
+  format: paperback
+  ids:
+    goodreads: '1823975470'
+    isbn_10: 0241961009
+    isbn_13: '9780241961001'
+  link: https://www.goodreads.com/book/show/25452982-the-peripheral
+  status: read
 title: The Peripheral
 ---

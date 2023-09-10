@@ -1,14 +1,15 @@
 ---
-authors:
-- Jussi Adler-Olsen
 category: books
-cover: 3597807799.jpg
-format: hardcover
-ids:
-  goodreads: '3597807799'
-  isbn_10: 0525954945
-  isbn_13: '9780525954941'
-link: https://www.goodreads.com/book/show/24611980-the-hanging-girl
-status: to-read
+metadata:
+  authors:
+  - Jussi Adler-Olsen
+  cover: 3597807799.jpg
+  format: hardcover
+  ids:
+    goodreads: '3597807799'
+    isbn_10: 0525954945
+    isbn_13: '9780525954941'
+  link: https://www.goodreads.com/book/show/24611980-the-hanging-girl
+  status: to-read
 title: The Hanging Girl
 ---

@@ -1,14 +1,15 @@
 ---
-authors:
-- Jean-Dominique Bauby
 category: books
-cover: 2044072557.jpg
-format: paperback
-ids:
-  goodreads: '2044072557'
-  isbn_10: '0375701214'
-  isbn_13: '9780375701214'
-link: https://www.goodreads.com/book/show/193755.The_Diving_Bell_and_the_Butterfly
-status: read
+metadata:
+  authors:
+  - Jean-Dominique Bauby
+  cover: 2044072557.jpg
+  format: paperback
+  ids:
+    goodreads: '2044072557'
+    isbn_10: '0375701214'
+    isbn_13: '9780375701214'
+  link: https://www.goodreads.com/book/show/193755.The_Diving_Bell_and_the_Butterfly
+  status: read
 title: The Diving Bell and the Butterfly
 ---

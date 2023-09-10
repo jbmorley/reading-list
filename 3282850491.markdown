@@ -1,15 +1,16 @@
 ---
-authors:
-- Terry Pratchett
 category: books
-cover: 3282850491.jpg
 date: 2020-04-15 14:25:20-07:00
-end_date: 2020-04-23 07:57:59-07:00
-ids:
-  goodreads: '3282850491'
-  isbn_10: 0060541881
-  isbn_13: '9780060541880'
-link: https://www.goodreads.com/book/show/34528.Johnny_and_the_Dead
-status: read
+metadata:
+  authors:
+  - Terry Pratchett
+  cover: 3282850491.jpg
+  end_date: 2020-04-23 07:57:59-07:00
+  ids:
+    goodreads: '3282850491'
+    isbn_10: 0060541881
+    isbn_13: '9780060541880'
+  link: https://www.goodreads.com/book/show/34528.Johnny_and_the_Dead
+  status: read
 title: Johnny and the Dead
 ---

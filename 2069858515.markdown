@@ -1,14 +1,15 @@
 ---
-authors:
-- Arthur Conan Doyle
 category: books
-cover: 2069858515.jpg
 date: 2017-07-18 00:00:00-07:00
-end_date: 2017-07-18 00:00:00-07:00
-format: audible-audio
-ids:
-  goodreads: '2069858515'
-link: https://www.goodreads.com/book/show/34429916-sherlock-holmes
-status: read
+metadata:
+  authors:
+  - Arthur Conan Doyle
+  cover: 2069858515.jpg
+  end_date: 2017-07-18 00:00:00-07:00
+  format: audible-audio
+  ids:
+    goodreads: '2069858515'
+  link: https://www.goodreads.com/book/show/34429916-sherlock-holmes
+  status: read
 title: 'Sherlock Holmes: The Definitive Audio Collection'
 ---

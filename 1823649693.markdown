@@ -1,14 +1,15 @@
 ---
-authors:
-- Adam Mansbach
 category: books
-cover: 1823649693.jpg
-format: hardcover
-ids:
-  goodreads: '1823649693'
-  isbn_10: '1617750255'
-  isbn_13: '9781617750250'
-link: https://www.goodreads.com/book/show/11192642-go-the-fuck-to-sleep
-status: read
+metadata:
+  authors:
+  - Adam Mansbach
+  cover: 1823649693.jpg
+  format: hardcover
+  ids:
+    goodreads: '1823649693'
+    isbn_10: '1617750255'
+    isbn_13: '9781617750250'
+  link: https://www.goodreads.com/book/show/11192642-go-the-fuck-to-sleep
+  status: read
 title: Go the Fuck to Sleep
 ---

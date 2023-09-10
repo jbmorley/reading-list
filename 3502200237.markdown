@@ -1,14 +1,15 @@
 ---
-authors:
-- Cory Doctorow
 category: books
-cover: 3502200237.jpg
 date: 2020-08-09 00:00:00-07:00
-ids:
-  goodreads: '3502200237'
-  isbn_10: '1786693070'
-  isbn_13: '9781786693075'
-link: https://www.goodreads.com/book/show/36212588-walkaway
-status: currently-reading
+metadata:
+  authors:
+  - Cory Doctorow
+  cover: 3502200237.jpg
+  ids:
+    goodreads: '3502200237'
+    isbn_10: '1786693070'
+    isbn_13: '9781786693075'
+  link: https://www.goodreads.com/book/show/36212588-walkaway
+  status: currently-reading
 title: Walkaway
 ---

@@ -1,14 +1,15 @@
 ---
-authors:
-- Karen Dolby
 category: books
-cover: 2108452910.jpg
-format: paperback
-ids:
-  goodreads: '2108452910'
-  isbn_10: 0746001495
-  isbn_13: '9780746001493'
-link: https://www.goodreads.com/book/show/6905455-the-incredible-dinosaur-expedition
-status: read
+metadata:
+  authors:
+  - Karen Dolby
+  cover: 2108452910.jpg
+  format: paperback
+  ids:
+    goodreads: '2108452910'
+    isbn_10: 0746001495
+    isbn_13: '9780746001493'
+  link: https://www.goodreads.com/book/show/6905455-the-incredible-dinosaur-expedition
+  status: read
 title: The Incredible Dinosaur Expedition
 ---

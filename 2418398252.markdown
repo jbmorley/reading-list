@@ -1,16 +1,17 @@
 ---
-authors:
-- Kenichi Sonoda
 category: books
-cover: 2418398252.jpg
 date: 2018-06-08 00:00:00-07:00
-end_date: 2018-12-31 15:17:47-08:00
-format: paperback
-ids:
-  goodreads: '2418398252'
-  isbn_10: '1593078188'
-  isbn_13: '9781593078188'
-link: https://www.goodreads.com/book/show/816197.Gunsmith_Cats_Volume_3
-status: read
+metadata:
+  authors:
+  - Kenichi Sonoda
+  cover: 2418398252.jpg
+  end_date: 2018-12-31 15:17:47-08:00
+  format: paperback
+  ids:
+    goodreads: '2418398252'
+    isbn_10: '1593078188'
+    isbn_13: '9781593078188'
+  link: https://www.goodreads.com/book/show/816197.Gunsmith_Cats_Volume_3
+  status: read
 title: Gunsmith Cats, Volume 3
 ---

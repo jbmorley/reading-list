@@ -1,13 +1,14 @@
 ---
-authors:
-- Jeanette Foster
 category: books
-cover: 2651566040.jpg
-ids:
-  goodreads: '2651566040'
-  isbn_10: '1118287592'
-  isbn_13: '9781118287590'
-link: https://www.goodreads.com/book/show/13838774-frommer-s-maui-2013
-status: read
+metadata:
+  authors:
+  - Jeanette Foster
+  cover: 2651566040.jpg
+  ids:
+    goodreads: '2651566040'
+    isbn_10: '1118287592'
+    isbn_13: '9781118287590'
+  link: https://www.goodreads.com/book/show/13838774-frommer-s-maui-2013
+  status: read
 title: Frommer's Maui 2013
 ---

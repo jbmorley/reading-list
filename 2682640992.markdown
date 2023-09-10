@@ -1,15 +1,16 @@
 ---
-authors:
-- H.P. Lovecraft
 category: books
-cover: 2682640992.jpg
 date: 2019-01-20 18:14:44-08:00
-format: paperback
-ids:
-  goodreads: '2682640992'
-  isbn_10: 0141182342
-  isbn_13: '9780141182346'
-link: https://www.goodreads.com/book/show/160149.The_Call_of_Cthulhu_and_Other_Weird_Stories
-status: abandoned
+metadata:
+  authors:
+  - H.P. Lovecraft
+  cover: 2682640992.jpg
+  format: paperback
+  ids:
+    goodreads: '2682640992'
+    isbn_10: 0141182342
+    isbn_13: '9780141182346'
+  link: https://www.goodreads.com/book/show/160149.The_Call_of_Cthulhu_and_Other_Weird_Stories
+  status: abandoned
 title: The Call of Cthulhu and Other Weird Stories
 ---

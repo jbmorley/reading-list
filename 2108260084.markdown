@@ -1,13 +1,14 @@
 ---
-authors:
-- Herodotus
 category: books
-cover: 2108260084.jpg
-ids:
-  goodreads: '2108260084'
-  isbn_10: '0141025336'
-  isbn_13: '9780141025339'
-link: https://www.goodreads.com/book/show/849278.Snakes_with_Wings_and_Gold_digging_Ants
-status: read
+metadata:
+  authors:
+  - Herodotus
+  cover: 2108260084.jpg
+  ids:
+    goodreads: '2108260084'
+    isbn_10: '0141025336'
+    isbn_13: '9780141025339'
+  link: https://www.goodreads.com/book/show/849278.Snakes_with_Wings_and_Gold_digging_Ants
+  status: read
 title: Snakes with Wings and Gold-digging Ants
 ---

@@ -1,14 +1,15 @@
 ---
-authors:
-- Vernor Vinge
 category: books
-cover: 1826502779.jpg
-format: paperback
-ids:
-  goodreads: '1826502779'
-  isbn_10: 0812536363
-  isbn_13: '9780812536362'
-link: https://www.goodreads.com/book/show/102439.Rainbows_End
-status: read
+metadata:
+  authors:
+  - Vernor Vinge
+  cover: 1826502779.jpg
+  format: paperback
+  ids:
+    goodreads: '1826502779'
+    isbn_10: 0812536363
+    isbn_13: '9780812536362'
+  link: https://www.goodreads.com/book/show/102439.Rainbows_End
+  status: read
 title: Rainbows End
 ---

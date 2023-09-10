@@ -1,14 +1,15 @@
 ---
-authors:
-- Xiaolu Guo
 category: books
-cover: 1823219080.jpg
-format: paperback
-ids:
-  goodreads: '1823219080'
-  isbn_10: 0701180382
-  isbn_13: '9780701180386'
-link: https://www.goodreads.com/book/show/665157.A_Concise_Chinese_English_Dictionary_for_Lovers
-status: read
+metadata:
+  authors:
+  - Xiaolu Guo
+  cover: 1823219080.jpg
+  format: paperback
+  ids:
+    goodreads: '1823219080'
+    isbn_10: 0701180382
+    isbn_13: '9780701180386'
+  link: https://www.goodreads.com/book/show/665157.A_Concise_Chinese_English_Dictionary_for_Lovers
+  status: read
 title: A Concise Chinese-English Dictionary for Lovers
 ---

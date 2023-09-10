@@ -1,16 +1,17 @@
 ---
-authors:
-- Kenichi Sonoda
 category: books
-cover: 3254087922.jpg
 date: 2020-03-30 06:32:07-07:00
-end_date: 2020-04-03 04:44:07-07:00
-format: paperback
-ids:
-  goodreads: '3254087922'
-  isbn_10: '1595824642'
-  isbn_13: '9781595824646'
-link: https://www.goodreads.com/book/show/6997081-gunsmith-cats
-status: read
+metadata:
+  authors:
+  - Kenichi Sonoda
+  cover: 3254087922.jpg
+  end_date: 2020-04-03 04:44:07-07:00
+  format: paperback
+  ids:
+    goodreads: '3254087922'
+    isbn_10: '1595824642'
+    isbn_13: '9781595824646'
+  link: https://www.goodreads.com/book/show/6997081-gunsmith-cats
+  status: read
 title: 'Gunsmith Cats: Burst Volume 5'
 ---

@@ -1,11 +1,12 @@
 ---
-authors:
-- Warren Ellis
 category: books
-cover: 2701506089.jpg
-ids:
-  goodreads: '2701506089'
-link: https://www.goodreads.com/book/show/35712421-the-wild-storm-7
-status: read
+metadata:
+  authors:
+  - Warren Ellis
+  cover: 2701506089.jpg
+  ids:
+    goodreads: '2701506089'
+  link: https://www.goodreads.com/book/show/35712421-the-wild-storm-7
+  status: read
 title: 'The Wild Storm #7'
 ---

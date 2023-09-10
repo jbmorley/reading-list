@@ -1,13 +1,14 @@
 ---
-authors:
-- Brandon Montclare
 category: books
-cover: 2511081135.jpg
 date: 2018-08-28 17:47:58-07:00
-end_date: 2018-08-28 17:48:09-07:00
-ids:
-  goodreads: '2511081135'
-link: https://www.goodreads.com/book/show/35898337-rocket-girl-8
-status: read
+metadata:
+  authors:
+  - Brandon Montclare
+  cover: 2511081135.jpg
+  end_date: 2018-08-28 17:48:09-07:00
+  ids:
+    goodreads: '2511081135'
+  link: https://www.goodreads.com/book/show/35898337-rocket-girl-8
+  status: read
 title: 'Rocket Girl #8'
 ---

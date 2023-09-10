@@ -1,13 +1,14 @@
 ---
-authors:
-- Ernest Cline
 category: books
-cover: 3695843554.jpg
 date: 2020-12-14 20:53:27-08:00
-end_date: '2021-02-24'
-ids:
-  goodreads: '3695843554'
-link: https://www.goodreads.com/book/show/54505669-ready-player-two
-status: read
+metadata:
+  authors:
+  - Ernest Cline
+  cover: 3695843554.jpg
+  end_date: '2021-02-24'
+  ids:
+    goodreads: '3695843554'
+  link: https://www.goodreads.com/book/show/54505669-ready-player-two
+  status: read
 title: Ready Player Two
 ---

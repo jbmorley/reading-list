@@ -1,11 +1,12 @@
 ---
-authors:
-- Brian K. Vaughan
 category: books
-cover: 2047675890.jpg
-ids:
-  goodreads: '2047675890'
-link: https://www.goodreads.com/book/show/26158228-runaways-2003-2004-4
-status: read
+metadata:
+  authors:
+  - Brian K. Vaughan
+  cover: 2047675890.jpg
+  ids:
+    goodreads: '2047675890'
+  link: https://www.goodreads.com/book/show/26158228-runaways-2003-2004-4
+  status: read
 title: 'Runaways (2003-2004) #4'
 ---

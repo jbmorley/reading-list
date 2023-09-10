@@ -1,14 +1,15 @@
 ---
-authors:
-- Ann Leckie
 category: books
-cover: 2358110615.jpg
 date: 2018-04-04 00:00:00-07:00
-end_date: 2018-04-11 22:54:57-07:00
-format: kindle-edition
-ids:
-  goodreads: '2358110615'
-link: https://www.goodreads.com/book/show/25353286-provenance
-status: read
+metadata:
+  authors:
+  - Ann Leckie
+  cover: 2358110615.jpg
+  end_date: 2018-04-11 22:54:57-07:00
+  format: kindle-edition
+  ids:
+    goodreads: '2358110615'
+  link: https://www.goodreads.com/book/show/25353286-provenance
+  status: read
 title: Provenance
 ---

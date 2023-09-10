@@ -1,14 +1,15 @@
 ---
-authors:
-- Jules Verne
 category: books
-cover: 1823569572.jpg
-format: paperback
-ids:
-  goodreads: '1823569572'
-  isbn_10: 014062032X
-  isbn_13: '9780140620320'
-link: https://www.goodreads.com/book/show/161842.Around_the_World_in_Eighty_Days
-status: read
+metadata:
+  authors:
+  - Jules Verne
+  cover: 1823569572.jpg
+  format: paperback
+  ids:
+    goodreads: '1823569572'
+    isbn_10: 014062032X
+    isbn_13: '9780140620320'
+  link: https://www.goodreads.com/book/show/161842.Around_the_World_in_Eighty_Days
+  status: read
 title: Around the World in Eighty Days
 ---

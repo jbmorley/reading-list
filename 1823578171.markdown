@@ -1,14 +1,15 @@
 ---
-authors:
-- Joseph Heller
 category: books
-cover: 1823578171.jpg
-format: paperback
-ids:
-  goodreads: '1823578171'
-  isbn_10: 0684833395
-  isbn_13: '9780684833392'
-link: https://www.goodreads.com/book/show/168668.Catch_22
-status: read
+metadata:
+  authors:
+  - Joseph Heller
+  cover: 1823578171.jpg
+  format: paperback
+  ids:
+    goodreads: '1823578171'
+    isbn_10: 0684833395
+    isbn_13: '9780684833392'
+  link: https://www.goodreads.com/book/show/168668.Catch_22
+  status: read
 title: Catch-22
 ---

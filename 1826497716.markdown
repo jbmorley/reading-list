@@ -1,12 +1,13 @@
 ---
-authors:
-- William Gibson
 category: books
-cover: 1826497716.jpg
-format: mass-market-paperback
-ids:
-  goodreads: '1826497716'
-link: https://www.goodreads.com/book/show/22328.Neuromancer
-status: read
+metadata:
+  authors:
+  - William Gibson
+  cover: 1826497716.jpg
+  format: mass-market-paperback
+  ids:
+    goodreads: '1826497716'
+  link: https://www.goodreads.com/book/show/22328.Neuromancer
+  status: read
 title: Neuromancer
 ---

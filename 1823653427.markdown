@@ -1,14 +1,15 @@
 ---
-authors:
-- Alan Moore
 category: books
-cover: 1823653427.jpg
-format: paperback
-ids:
-  goodreads: '1823653427'
-  isbn_10: 0930289234
-  isbn_13: '9780930289232'
-link: https://www.goodreads.com/book/show/472331.Watchmen
-status: read
+metadata:
+  authors:
+  - Alan Moore
+  cover: 1823653427.jpg
+  format: paperback
+  ids:
+    goodreads: '1823653427'
+    isbn_10: 0930289234
+    isbn_13: '9780930289232'
+  link: https://www.goodreads.com/book/show/472331.Watchmen
+  status: read
 title: Watchmen
 ---

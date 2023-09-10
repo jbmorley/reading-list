@@ -1,13 +1,14 @@
 ---
-authors:
-- William Gibson
 category: books
-cover: 3025567496.jpg
 date: 2019-10-26 00:15:34-07:00
-end_date: 2019-10-26 22:20:10-07:00
-ids:
-  goodreads: '3025567496'
-link: https://www.goodreads.com/book/show/35740538-archangel-5
-status: read
+metadata:
+  authors:
+  - William Gibson
+  cover: 3025567496.jpg
+  end_date: 2019-10-26 22:20:10-07:00
+  ids:
+    goodreads: '3025567496'
+  link: https://www.goodreads.com/book/show/35740538-archangel-5
+  status: read
 title: 'Archangel #5'
 ---

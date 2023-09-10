@@ -1,12 +1,13 @@
 ---
-authors:
-- Haruki Murakami
 category: books
-cover: 1823218300.jpg
-format: paperback
-ids:
-  goodreads: '1823218300'
-link: https://www.goodreads.com/book/show/11299.After_the_Quake
-status: read
+metadata:
+  authors:
+  - Haruki Murakami
+  cover: 1823218300.jpg
+  format: paperback
+  ids:
+    goodreads: '1823218300'
+  link: https://www.goodreads.com/book/show/11299.After_the_Quake
+  status: read
 title: After the Quake
 ---

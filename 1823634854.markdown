@@ -1,14 +1,15 @@
 ---
-authors:
-- Neil Gaiman
 category: books
-cover: 1823634854.jpg
-format: paperback
-ids:
-  goodreads: '1823634854'
-  isbn_10: 0755334159
-  isbn_13: '9780755334155'
-link: https://www.goodreads.com/book/show/594625.Fragile_Things
-status: read
+metadata:
+  authors:
+  - Neil Gaiman
+  cover: 1823634854.jpg
+  format: paperback
+  ids:
+    goodreads: '1823634854'
+    isbn_10: 0755334159
+    isbn_13: '9780755334155'
+  link: https://www.goodreads.com/book/show/594625.Fragile_Things
+  status: read
 title: 'Fragile Things: Short Fictions & Wonders'
 ---

@@ -1,16 +1,17 @@
 ---
-authors:
-- Jeph Loeb
 category: books
-cover: 1823578627.jpg
 date: 2016-02-02 00:00:00-08:00
-end_date: 2016-02-06 00:00:00-08:00
-format: paperback
-ids:
-  goodreads: '1823578627'
-  isbn_10: '1401207170'
-  isbn_13: '9781401207175'
-link: https://www.goodreads.com/book/show/154209.Catwoman
-status: read
+metadata:
+  authors:
+  - Jeph Loeb
+  cover: 1823578627.jpg
+  end_date: 2016-02-06 00:00:00-08:00
+  format: paperback
+  ids:
+    goodreads: '1823578627'
+    isbn_10: '1401207170'
+    isbn_13: '9781401207175'
+  link: https://www.goodreads.com/book/show/154209.Catwoman
+  status: read
 title: 'Catwoman: When in Rome'
 ---

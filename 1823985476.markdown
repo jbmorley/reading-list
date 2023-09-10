@@ -1,14 +1,15 @@
 ---
-authors:
-- Philip Pullman
 category: books
-cover: 1823985476.jpg
-format: hardcover
-ids:
-  goodreads: '1823985476'
-  isbn_10: 0375828192
-  isbn_13: '9780375828195'
-link: https://www.goodreads.com/book/show/531197.Lyra_s_Oxford
-status: read
+metadata:
+  authors:
+  - Philip Pullman
+  cover: 1823985476.jpg
+  format: hardcover
+  ids:
+    goodreads: '1823985476'
+    isbn_10: 0375828192
+    isbn_13: '9780375828195'
+  link: https://www.goodreads.com/book/show/531197.Lyra_s_Oxford
+  status: read
 title: Lyra's Oxford
 ---

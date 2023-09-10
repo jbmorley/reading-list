@@ -1,14 +1,15 @@
 ---
-authors:
-- Emily St. John Mandel
 category: books
-cover: 3215315983.jpg
-format: hardcover
-ids:
-  goodreads: '3215315983'
-  isbn_10: 0385353308
-  isbn_13: '9780385353304'
-link: https://www.goodreads.com/book/show/20170404-station-eleven
-status: to-read
+metadata:
+  authors:
+  - Emily St. John Mandel
+  cover: 3215315983.jpg
+  format: hardcover
+  ids:
+    goodreads: '3215315983'
+    isbn_10: 0385353308
+    isbn_13: '9780385353304'
+  link: https://www.goodreads.com/book/show/20170404-station-eleven
+  status: to-read
 title: Station Eleven
 ---

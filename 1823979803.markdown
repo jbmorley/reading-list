@@ -1,14 +1,15 @@
 ---
-authors:
-- Isaac Asimov
 category: books
-cover: 1823979803.jpg
-format: mass-market-paperback
-ids:
-  goodreads: '1823979803'
-  isbn_10: 0553288105
-  isbn_13: '9780553288100'
-link: https://www.goodreads.com/book/show/724667.The_Gods_Themselves
-status: read
+metadata:
+  authors:
+  - Isaac Asimov
+  cover: 1823979803.jpg
+  format: mass-market-paperback
+  ids:
+    goodreads: '1823979803'
+    isbn_10: 0553288105
+    isbn_13: '9780553288100'
+  link: https://www.goodreads.com/book/show/724667.The_Gods_Themselves
+  status: read
 title: The Gods Themselves
 ---

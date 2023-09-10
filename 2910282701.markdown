@@ -1,16 +1,17 @@
 ---
-authors:
-- Chihiro Ishizuka
 category: books
-cover: 2910282701.jpg
 date: 2019-07-25 02:58:05-07:00
-end_date: 2019-07-25 06:51:57-07:00
-format: paperback
-ids:
-  goodreads: '2910282701'
-  isbn_10: '1945054115'
-  isbn_13: '9781945054112'
-link: https://www.goodreads.com/book/show/33912182-flying-witch-vol-3
-status: read
+metadata:
+  authors:
+  - Chihiro Ishizuka
+  cover: 2910282701.jpg
+  end_date: 2019-07-25 06:51:57-07:00
+  format: paperback
+  ids:
+    goodreads: '2910282701'
+    isbn_10: '1945054115'
+    isbn_13: '9781945054112'
+  link: https://www.goodreads.com/book/show/33912182-flying-witch-vol-3
+  status: read
 title: Flying Witch, Vol. 3
 ---

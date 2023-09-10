@@ -1,14 +1,15 @@
 ---
-authors:
-- Rick Remender
 category: books
-cover: 3230473947.jpg
-format: paperback
-ids:
-  goodreads: '3230473947'
-  isbn_10: '1632156636'
-  isbn_13: '9781632156631'
-link: https://www.goodreads.com/book/show/27753938-tokyo-ghost-vol-1
-status: to-read
+metadata:
+  authors:
+  - Rick Remender
+  cover: 3230473947.jpg
+  format: paperback
+  ids:
+    goodreads: '3230473947'
+    isbn_10: '1632156636'
+    isbn_13: '9781632156631'
+  link: https://www.goodreads.com/book/show/27753938-tokyo-ghost-vol-1
+  status: to-read
 title: 'Tokyo Ghost, Vol. 1: Atomic Garden'
 ---

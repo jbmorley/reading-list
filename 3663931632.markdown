@@ -1,14 +1,15 @@
 ---
-authors:
-- Marjorie M. Liu
 category: books
-cover: 3663931632.jpg
 date: 2020-11-25 22:07:28-08:00
-end_date: 2020-11-25 22:39:59-08:00
-format: kindle-edition
-ids:
-  goodreads: '3663931632'
-link: https://www.goodreads.com/book/show/55154129-monstress
-status: read
+metadata:
+  authors:
+  - Marjorie M. Liu
+  cover: 3663931632.jpg
+  end_date: 2020-11-25 22:39:59-08:00
+  format: kindle-edition
+  ids:
+    goodreads: '3663931632'
+  link: https://www.goodreads.com/book/show/55154129-monstress
+  status: read
 title: 'Monstress: Talk-Stories #1'
 ---

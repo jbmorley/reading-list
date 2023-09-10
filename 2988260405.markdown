@@ -1,16 +1,17 @@
 ---
-authors:
-- Charles Stross
 category: books
-cover: 2988260405.jpg
 date: 2019-09-25 18:13:19-07:00
-end_date: 2020-01-30 17:36:30-08:00
-format: hardcover
-ids:
-  goodreads: '2988260405'
-  isbn_10: 0765337568
-  isbn_13: '9780765337566'
-link: https://www.goodreads.com/book/show/29939336-empire-games
-status: read
+metadata:
+  authors:
+  - Charles Stross
+  cover: 2988260405.jpg
+  end_date: 2020-01-30 17:36:30-08:00
+  format: hardcover
+  ids:
+    goodreads: '2988260405'
+    isbn_10: 0765337568
+    isbn_13: '9780765337566'
+  link: https://www.goodreads.com/book/show/29939336-empire-games
+  status: read
 title: Empire Games
 ---

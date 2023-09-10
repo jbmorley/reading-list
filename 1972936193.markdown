@@ -1,16 +1,17 @@
 ---
-authors:
-- Margaret Atwood
 category: books
-cover: 1972936193.jpg
 date: 2017-10-02 00:00:00-07:00
-end_date: 2017-11-12 18:21:54-08:00
-format: paperback
-ids:
-  goodreads: '1972936193'
-  isbn_10: 0385721676
-  isbn_13: '9780385721677'
-link: https://www.goodreads.com/book/show/46756.Oryx_and_Crake
-status: read
+metadata:
+  authors:
+  - Margaret Atwood
+  cover: 1972936193.jpg
+  end_date: 2017-11-12 18:21:54-08:00
+  format: paperback
+  ids:
+    goodreads: '1972936193'
+    isbn_10: 0385721676
+    isbn_13: '9780385721677'
+  link: https://www.goodreads.com/book/show/46756.Oryx_and_Crake
+  status: read
 title: Oryx and Crake
 ---

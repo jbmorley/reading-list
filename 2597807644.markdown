@@ -1,13 +1,14 @@
 ---
-authors:
-- Warren Ellis
 category: books
-cover: 2597807644.jpg
 date: 2018-11-17 21:24:40-08:00
-end_date: 2018-11-17 21:40:09-08:00
-ids:
-  goodreads: '2597807644'
-link: https://www.goodreads.com/book/show/36220477-captain-swing-1-of-4
-status: read
+metadata:
+  authors:
+  - Warren Ellis
+  cover: 2597807644.jpg
+  end_date: 2018-11-17 21:40:09-08:00
+  ids:
+    goodreads: '2597807644'
+  link: https://www.goodreads.com/book/show/36220477-captain-swing-1-of-4
+  status: read
 title: 'Captain Swing #1 (of 4)'
 ---

@@ -1,14 +1,15 @@
 ---
-authors:
-- Donald A. Norman
 category: books
-cover: 3649780459.jpg
-format: paperback
-ids:
-  goodreads: '3649780459'
-  isbn_10: '0465067107'
-  isbn_13: '9780465067107'
-link: https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things
-status: to-read
+metadata:
+  authors:
+  - Donald A. Norman
+  cover: 3649780459.jpg
+  format: paperback
+  ids:
+    goodreads: '3649780459'
+    isbn_10: '0465067107'
+    isbn_13: '9780465067107'
+  link: https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things
+  status: to-read
 title: The Design of Everyday Things
 ---

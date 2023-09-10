@@ -1,14 +1,15 @@
 ---
-authors:
-- Philip Pullman
 category: books
-cover: 1823984721.jpg
-format: paperback
-ids:
-  goodreads: '1823984721'
-  isbn_10: 0590660543
-  isbn_13: '9780590660549'
-link: https://www.goodreads.com/book/show/70947.Northern_Lights
-status: read
+metadata:
+  authors:
+  - Philip Pullman
+  cover: 1823984721.jpg
+  format: paperback
+  ids:
+    goodreads: '1823984721'
+    isbn_10: 0590660543
+    isbn_13: '9780590660549'
+  link: https://www.goodreads.com/book/show/70947.Northern_Lights
+  status: read
 title: Northern Lights
 ---

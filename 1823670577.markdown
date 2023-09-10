@@ -1,14 +1,15 @@
 ---
-authors:
-- Mitch Albom
 category: books
-cover: 1823670577.jpg
-format: paperback
-ids:
-  goodreads: '1823670577'
-  isbn_10: 0751529818
-  isbn_13: '9780751529814'
-link: https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie
-status: read
+metadata:
+  authors:
+  - Mitch Albom
+  cover: 1823670577.jpg
+  format: paperback
+  ids:
+    goodreads: '1823670577'
+    isbn_10: 0751529818
+    isbn_13: '9780751529814'
+  link: https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie
+  status: read
 title: Tuesdays with Morrie
 ---

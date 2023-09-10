@@ -1,16 +1,17 @@
 ---
-authors:
-- Brian K. Vaughan
 category: books
-cover: 1829250445.jpg
 date: 2016-12-03 22:13:15-08:00
-end_date: 2016-12-04 22:33:39-08:00
-format: paperback
-ids:
-  goodreads: '1829250445'
-  isbn_10: '1607069318'
-  isbn_13: '9781607069317'
-link: https://www.goodreads.com/book/show/19358975-saga-vol-3
-status: read
+metadata:
+  authors:
+  - Brian K. Vaughan
+  cover: 1829250445.jpg
+  end_date: 2016-12-04 22:33:39-08:00
+  format: paperback
+  ids:
+    goodreads: '1829250445'
+    isbn_10: '1607069318'
+    isbn_13: '9781607069317'
+  link: https://www.goodreads.com/book/show/19358975-saga-vol-3
+  status: read
 title: Saga, Vol. 3
 ---

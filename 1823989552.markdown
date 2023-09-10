@@ -1,14 +1,15 @@
 ---
-authors:
-- J.K. Rowling
 category: books
-cover: 1823989552.jpg
-format: hardcover
-ids:
-  goodreads: '1823989552'
-  isbn_10: '0747551006'
-  isbn_13: '9780747551003'
-link: https://www.goodreads.com/book/show/444327.Harry_Potter_and_the_Order_of_the_Phoenix
-status: read
+metadata:
+  authors:
+  - J.K. Rowling
+  cover: 1823989552.jpg
+  format: hardcover
+  ids:
+    goodreads: '1823989552'
+    isbn_10: '0747551006'
+    isbn_13: '9780747551003'
+  link: https://www.goodreads.com/book/show/444327.Harry_Potter_and_the_Order_of_the_Phoenix
+  status: read
 title: Harry Potter and the Order of the Phoenix
 ---

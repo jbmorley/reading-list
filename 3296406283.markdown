@@ -1,14 +1,15 @@
 ---
-authors:
-- Neil Gaiman
 category: books
-cover: 3296406283.jpg
 date: 2020-04-22 00:00:00-07:00
-end_date: 2020-04-23 15:09:07-07:00
-format: hardcover
-ids:
-  goodreads: '3296406283'
-link: https://www.goodreads.com/book/show/50491498-a-study-in-emerald
-status: read
+metadata:
+  authors:
+  - Neil Gaiman
+  cover: 3296406283.jpg
+  end_date: 2020-04-23 15:09:07-07:00
+  format: hardcover
+  ids:
+    goodreads: '3296406283'
+  link: https://www.goodreads.com/book/show/50491498-a-study-in-emerald
+  status: read
 title: A Study in Emerald
 ---

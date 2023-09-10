@@ -1,16 +1,17 @@
 ---
-authors:
-- Hiromi Kawakami
 category: books
-cover: 2671370489.jpg
 date: 2019-02-22 06:14:18-08:00
-end_date: 2019-03-03 19:34:34-08:00
-format: paperback
-ids:
-  goodreads: '2671370489'
-  isbn_10: '1846275083'
-  isbn_13: '9781846275081'
-link: https://www.goodreads.com/book/show/18283207-strange-weather-in-tokyo
-status: read
+metadata:
+  authors:
+  - Hiromi Kawakami
+  cover: 2671370489.jpg
+  end_date: 2019-03-03 19:34:34-08:00
+  format: paperback
+  ids:
+    goodreads: '2671370489'
+    isbn_10: '1846275083'
+    isbn_13: '9781846275081'
+  link: https://www.goodreads.com/book/show/18283207-strange-weather-in-tokyo
+  status: read
 title: Strange Weather in Tokyo
 ---

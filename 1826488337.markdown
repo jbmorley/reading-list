@@ -1,16 +1,17 @@
 ---
-authors:
-- Neil Gaiman
 category: books
-cover: 1826488337.jpg
 date: 2016-01-31 00:00:00-08:00
-end_date: 2016-03-27 00:00:00-07:00
-format: paperback
-ids:
-  goodreads: '1826488337'
-  isbn_10: '1401225756'
-  isbn_13: '9781401225759'
-link: https://www.goodreads.com/book/show/6657541-preludes-nocturnes
-status: read
+metadata:
+  authors:
+  - Neil Gaiman
+  cover: 1826488337.jpg
+  end_date: 2016-03-27 00:00:00-07:00
+  format: paperback
+  ids:
+    goodreads: '1826488337'
+    isbn_10: '1401225756'
+    isbn_13: '9781401225759'
+  link: https://www.goodreads.com/book/show/6657541-preludes-nocturnes
+  status: read
 title: Preludes & Nocturnes
 ---

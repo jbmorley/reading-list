@@ -1,14 +1,15 @@
 ---
-authors:
-- Haruki Murakami
 category: books
-cover: 2043918863.jpg
-format: paperback
-ids:
-  goodreads: '2043918863'
-  isbn_10: '1400079276'
-  isbn_13: '9781400079278'
-link: https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore
-status: read
+metadata:
+  authors:
+  - Haruki Murakami
+  cover: 2043918863.jpg
+  format: paperback
+  ids:
+    goodreads: '2043918863'
+    isbn_10: '1400079276'
+    isbn_13: '9781400079278'
+  link: https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore
+  status: read
 title: Kafka on the Shore
 ---

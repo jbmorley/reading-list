@@ -1,11 +1,12 @@
 ---
-authors:
-- Robert C. O'Brien
 category: books
-cover: 2107209235.jpg
-ids:
-  goodreads: '2107209235'
-link: https://www.goodreads.com/book/show/1361602.Z_For_Zachariah
-status: read
+metadata:
+  authors:
+  - Robert C. O'Brien
+  cover: 2107209235.jpg
+  ids:
+    goodreads: '2107209235'
+  link: https://www.goodreads.com/book/show/1361602.Z_For_Zachariah
+  status: read
 title: Z For Zachariah
 ---

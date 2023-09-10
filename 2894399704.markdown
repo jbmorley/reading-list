@@ -1,14 +1,15 @@
 ---
-authors:
-- Marjorie M. Liu
 category: books
-cover: 2894399704.jpg
 date: 2019-07-13 10:05:54-07:00
-end_date: 2019-07-17 07:28:47-07:00
-format: paperback
-ids:
-  goodreads: '2894399704'
-link: https://www.goodreads.com/book/show/29396738-monstress-vol-1
-status: read
+metadata:
+  authors:
+  - Marjorie M. Liu
+  cover: 2894399704.jpg
+  end_date: 2019-07-17 07:28:47-07:00
+  format: paperback
+  ids:
+    goodreads: '2894399704'
+  link: https://www.goodreads.com/book/show/29396738-monstress-vol-1
+  status: read
 title: 'Monstress, Vol. 1: Awakening'
 ---

@@ -1,13 +1,14 @@
 ---
-authors:
-- T.S. Eliot
 category: books
-cover: 2817853359.jpg
 date: 2019-05-11 19:18:46-07:00
-end_date: 2019-07-09 13:55:58-07:00
-ids:
-  goodreads: '2817853359'
-link: https://www.goodreads.com/book/show/21156187-old-possum-s-book-of-practical-cats
-status: read
+metadata:
+  authors:
+  - T.S. Eliot
+  cover: 2817853359.jpg
+  end_date: 2019-07-09 13:55:58-07:00
+  ids:
+    goodreads: '2817853359'
+  link: https://www.goodreads.com/book/show/21156187-old-possum-s-book-of-practical-cats
+  status: read
 title: 'Old Possum''s Book of Practical Cats: with illustrations by Rebecca Ashdown'
 ---

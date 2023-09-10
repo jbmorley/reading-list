@@ -1,14 +1,15 @@
 ---
-authors:
-- Richard Castle
 category: books
-cover: 1823616064.jpg
-format: hardcover
-ids:
-  goodreads: '1823616064'
-  isbn_10: '1401324800'
-  isbn_13: '9781401324803'
-link: https://www.goodreads.com/book/show/17336666-deadly-heat
-status: read
+metadata:
+  authors:
+  - Richard Castle
+  cover: 1823616064.jpg
+  format: hardcover
+  ids:
+    goodreads: '1823616064'
+    isbn_10: '1401324800'
+    isbn_13: '9781401324803'
+  link: https://www.goodreads.com/book/show/17336666-deadly-heat
+  status: read
 title: Deadly Heat
 ---

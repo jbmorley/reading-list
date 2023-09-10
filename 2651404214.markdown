@@ -1,14 +1,15 @@
 ---
-authors:
-- Beatrix Potter
 category: books
-cover: 2651404214.jpg
-format: hardcover
-ids:
-  goodreads: '2651404214'
-  isbn_10: '0723247706'
-  isbn_13: '9780723247708'
-link: https://www.goodreads.com/book/show/19321.The_Tale_of_Peter_Rabbit
-status: read
+metadata:
+  authors:
+  - Beatrix Potter
+  cover: 2651404214.jpg
+  format: hardcover
+  ids:
+    goodreads: '2651404214'
+    isbn_10: '0723247706'
+    isbn_13: '9780723247708'
+  link: https://www.goodreads.com/book/show/19321.The_Tale_of_Peter_Rabbit
+  status: read
 title: The Tale of Peter Rabbit
 ---

@@ -1,16 +1,17 @@
 ---
-authors:
-- Alan Moore
 category: books
-cover: 2969305172.jpg
 date: 2019-08-27 00:00:00-07:00
-end_date: 2019-10-15 10:00:05-07:00
-format: paperback
-ids:
-  goodreads: '2969305172'
-  isbn_10: '1563896680'
-  isbn_13: '9781563896682'
-link: https://www.goodreads.com/book/show/598638.Top_10_Vol_1
-status: read
+metadata:
+  authors:
+  - Alan Moore
+  cover: 2969305172.jpg
+  end_date: 2019-10-15 10:00:05-07:00
+  format: paperback
+  ids:
+    goodreads: '2969305172'
+    isbn_10: '1563896680'
+    isbn_13: '9781563896682'
+  link: https://www.goodreads.com/book/show/598638.Top_10_Vol_1
+  status: read
 title: Top 10, Vol. 1
 ---

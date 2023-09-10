@@ -1,14 +1,15 @@
 ---
-authors:
-- Haruki Murakami
 category: books
-cover: 1823973467.jpg
-format: paperback
-ids:
-  goodreads: '1823973467'
-  isbn_10: 0965341984
-  isbn_13: '9780965341981'
-link: https://www.goodreads.com/book/show/11275.The_Wind_Up_Bird_Chronicle
-status: read
+metadata:
+  authors:
+  - Haruki Murakami
+  cover: 1823973467.jpg
+  format: paperback
+  ids:
+    goodreads: '1823973467'
+    isbn_10: 0965341984
+    isbn_13: '9780965341981'
+  link: https://www.goodreads.com/book/show/11275.The_Wind_Up_Bird_Chronicle
+  status: read
 title: The Wind-Up Bird Chronicle
 ---

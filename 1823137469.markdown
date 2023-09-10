@@ -1,14 +1,15 @@
 ---
-authors:
-- Haruki Murakami
 category: books
-cover: 1823137469.jpg
-format: hardcover
-ids:
-  goodreads: '1823137469'
-  isbn_10: 0307265838
-  isbn_13: '9780307265838'
-link: https://www.goodreads.com/book/show/17803.After_Dark
-status: read
+metadata:
+  authors:
+  - Haruki Murakami
+  cover: 1823137469.jpg
+  format: hardcover
+  ids:
+    goodreads: '1823137469'
+    isbn_10: 0307265838
+    isbn_13: '9780307265838'
+  link: https://www.goodreads.com/book/show/17803.After_Dark
+  status: read
 title: After Dark
 ---

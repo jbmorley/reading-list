@@ -1,16 +1,17 @@
 ---
-authors:
-- Chihiro Ishizuka
 category: books
-cover: 3017841772.jpg
 date: 2019-10-18 00:00:00-07:00
-end_date: 2019-10-20 19:14:00-07:00
-format: paperback
-ids:
-  goodreads: '3017841772'
-  isbn_10: '1947194046'
-  isbn_13: '9781947194045'
-link: https://www.goodreads.com/book/show/36384045-flying-witch-vol-6
-status: read
+metadata:
+  authors:
+  - Chihiro Ishizuka
+  cover: 3017841772.jpg
+  end_date: 2019-10-20 19:14:00-07:00
+  format: paperback
+  ids:
+    goodreads: '3017841772'
+    isbn_10: '1947194046'
+    isbn_13: '9781947194045'
+  link: https://www.goodreads.com/book/show/36384045-flying-witch-vol-6
+  status: read
 title: Flying Witch, Vol. 6
 ---

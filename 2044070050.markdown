@@ -1,14 +1,15 @@
 ---
-authors:
-- Neal Stephenson
 category: books
-cover: 2044070050.jpg
-format: paperback
-ids:
-  goodreads: '2044070050'
-  isbn_10: 0060593083
-  isbn_13: '9780060593087'
-link: https://www.goodreads.com/book/show/823.Quicksilver
-status: read
+metadata:
+  authors:
+  - Neal Stephenson
+  cover: 2044070050.jpg
+  format: paperback
+  ids:
+    goodreads: '2044070050'
+    isbn_10: 0060593083
+    isbn_13: '9780060593087'
+  link: https://www.goodreads.com/book/show/823.Quicksilver
+  status: read
 title: Quicksilver
 ---

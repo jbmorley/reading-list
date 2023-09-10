@@ -1,13 +1,14 @@
 ---
-authors:
-- C.S. Lewis
 category: books
-cover: 2109279847.jpg
-format: mass-market-paperback
-ids:
-  goodreads: '2109279847'
-  isbn_13: '9780006716686'
-link: https://www.goodreads.com/book/show/386342.The_Silver_Chair
-status: read
+metadata:
+  authors:
+  - C.S. Lewis
+  cover: 2109279847.jpg
+  format: mass-market-paperback
+  ids:
+    goodreads: '2109279847'
+    isbn_13: '9780006716686'
+  link: https://www.goodreads.com/book/show/386342.The_Silver_Chair
+  status: read
 title: The Silver Chair
 ---

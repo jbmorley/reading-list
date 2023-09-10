@@ -1,13 +1,14 @@
 ---
-authors:
-- John Wyndham
 category: books
-cover: 2043921755.jpg
 date: 2017-08-23 00:00:00-07:00
-end_date: 2018-05-05 21:50:20-07:00
-ids:
-  goodreads: '2043921755'
-link: https://www.goodreads.com/book/show/32317694-stowaway-to-mars
-status: read
+metadata:
+  authors:
+  - John Wyndham
+  cover: 2043921755.jpg
+  end_date: 2018-05-05 21:50:20-07:00
+  ids:
+    goodreads: '2043921755'
+  link: https://www.goodreads.com/book/show/32317694-stowaway-to-mars
+  status: read
 title: Stowaway to Mars
 ---

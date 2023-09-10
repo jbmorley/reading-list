@@ -1,15 +1,16 @@
 ---
-authors:
-- Charles Stross
 category: books
-cover: 2566615747.jpg
 date: 2018-10-18 21:29:32-07:00
-end_date: 2018-11-16 17:36:45-08:00
-format: paperback
-ids:
-  goodreads: '2566615747'
-  isbn_13: '9780230771734'
-link: https://www.goodreads.com/book/show/17348191-the-bloodline-feud
-status: read
+metadata:
+  authors:
+  - Charles Stross
+  cover: 2566615747.jpg
+  end_date: 2018-11-16 17:36:45-08:00
+  format: paperback
+  ids:
+    goodreads: '2566615747'
+    isbn_13: '9780230771734'
+  link: https://www.goodreads.com/book/show/17348191-the-bloodline-feud
+  status: read
 title: The Bloodline Feud
 ---

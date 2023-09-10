@@ -1,12 +1,13 @@
 ---
-authors:
-- Sarah  Baxter
 category: books
-format: ebook
-ids:
-  goodreads: '2651565498'
-link: https://www.goodreads.com/book/show/14741696-lonely-planet-s-best-in-travel-2012
-status: read
+metadata:
+  authors:
+  - Sarah  Baxter
+  format: ebook
+  ids:
+    goodreads: '2651565498'
+  link: https://www.goodreads.com/book/show/14741696-lonely-planet-s-best-in-travel-2012
+  status: read
 title: 'Lonely Planet''s Best in Travel 2012: The Best Trends, Destinations, Journeys
   & Experiences for the Upcoming Year'
 ---

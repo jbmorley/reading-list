@@ -1,13 +1,14 @@
 ---
-authors:
-- Brian K. Vaughan
 category: books
-cover: 2174795408.jpg
 date: 2017-11-05 07:33:50-08:00
-end_date: 2017-11-05 07:43:24-08:00
-ids:
-  goodreads: '2174795408'
-link: https://www.goodreads.com/book/show/35919919-saga-48
-status: read
+metadata:
+  authors:
+  - Brian K. Vaughan
+  cover: 2174795408.jpg
+  end_date: 2017-11-05 07:43:24-08:00
+  ids:
+    goodreads: '2174795408'
+  link: https://www.goodreads.com/book/show/35919919-saga-48
+  status: read
 title: 'Saga #48'
 ---

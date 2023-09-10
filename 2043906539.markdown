@@ -1,14 +1,15 @@
 ---
-authors:
-- Arthur Conan Doyle
 category: books
-cover: 2043906539.jpg
-format: paperback
-ids:
-  goodreads: '2043906539'
-  isbn_10: 0812967259
-  isbn_13: '9780812967258'
-link: https://www.goodreads.com/book/show/10155.The_Lost_World
-status: read
+metadata:
+  authors:
+  - Arthur Conan Doyle
+  cover: 2043906539.jpg
+  format: paperback
+  ids:
+    goodreads: '2043906539'
+    isbn_10: 0812967259
+    isbn_13: '9780812967258'
+  link: https://www.goodreads.com/book/show/10155.The_Lost_World
+  status: read
 title: The Lost World
 ---

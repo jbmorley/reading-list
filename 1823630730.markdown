@@ -1,14 +1,15 @@
 ---
-authors:
-- Isaac Asimov
 category: books
-cover: 1823630730.jpg
-format: paperback
-ids:
-  goodreads: '1823630730'
-  isbn_10: 0586010807
-  isbn_13: '9780586010808'
-link: https://www.goodreads.com/book/show/294477.Foundation
-status: read
+metadata:
+  authors:
+  - Isaac Asimov
+  cover: 1823630730.jpg
+  format: paperback
+  ids:
+    goodreads: '1823630730'
+    isbn_10: 0586010807
+    isbn_13: '9780586010808'
+  link: https://www.goodreads.com/book/show/294477.Foundation
+  status: read
 title: Foundation
 ---
