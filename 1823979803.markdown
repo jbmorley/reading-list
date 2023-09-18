@@ -2,7 +2,7 @@
 authors:
 - Isaac Asimov
 category: books
-cover: 1823979803.jpg
+thumbnail: 1823979803-cover.jpg
 format: mass-market-paperback
 ids:
   goodreads: '1823979803'

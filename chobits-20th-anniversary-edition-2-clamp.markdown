@@ -2,7 +2,7 @@
 authors:
 - Clamp
 category: books
-cover: chobits-20th-anniversary-edition-2-clamp.jpg
+thumbnail: chobits-20th-anniversary-edition-2-clamp-cover.jpg
 date: '2021-06-25T09:55:05.910539-07:00'
 end_date: '2021-06-26T12:43:40.580023-07:00'
 ids:

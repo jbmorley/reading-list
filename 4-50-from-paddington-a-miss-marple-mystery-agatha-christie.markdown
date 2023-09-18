@@ -2,7 +2,7 @@
 authors:
 - Agatha Christie
 category: books
-cover: 4-50-from-paddington-a-miss-marple-mystery-agatha-christie.jpg
+thumbnail: 4-50-from-paddington-a-miss-marple-mystery-agatha-christie-cover.jpg
 date: '2023-03-31T21:23:22.687269+01:00'
 end_date: '2023-04-16T20:52:30.482521-06:00'
 ids:

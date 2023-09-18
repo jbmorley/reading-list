@@ -2,7 +2,7 @@
 authors:
 - Agatha Christie
 category: books
-cover: sleeping-murder-miss-marple-s-last-case-agatha-christie.jpg
+thumbnail: sleeping-murder-miss-marple-s-last-case-agatha-christie-cover.jpg
 date: '2022-10-07T10:18:25.882637-04:00'
 end_date: '2022-10-10T14:30:18.494419-04:00'
 ids:

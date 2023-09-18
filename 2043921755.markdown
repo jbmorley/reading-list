@@ -2,7 +2,7 @@
 authors:
 - John Wyndham
 category: books
-cover: 2043921755.jpg
+thumbnail: 2043921755-cover.jpg
 date: 2017-08-23 00:00:00-07:00
 end_date: 2018-05-05 21:50:20-07:00
 ids:

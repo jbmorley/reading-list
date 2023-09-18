@@ -2,7 +2,7 @@
 authors:
 - Clement C. Moore
 category: books
-cover: the-night-before-christmas-clement-c-moore.jpg
+thumbnail: the-night-before-christmas-clement-c-moore-cover.jpg
 ids:
   google_books: RFmTEAAAQBAJ
   isbn_10: 0394830199

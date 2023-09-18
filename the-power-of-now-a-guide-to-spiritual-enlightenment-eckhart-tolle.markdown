@@ -2,7 +2,7 @@
 authors:
 - Eckhart Tolle
 category: books
-cover: the-power-of-now-a-guide-to-spiritual-enlightenment-eckhart-tolle.jpg
+thumbnail: the-power-of-now-a-guide-to-spiritual-enlightenment-eckhart-tolle-cover.jpg
 ids:
   google_books: sQYqRCIhFAMC
   isbn_10: '1577313119'

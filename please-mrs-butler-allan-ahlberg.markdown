@@ -2,7 +2,7 @@
 authors:
 - Allan Ahlberg
 category: books
-cover: please-mrs-butler-allan-ahlberg.jpg
+thumbnail: please-mrs-butler-allan-ahlberg-cover.jpg
 ids:
   google_books: OCunr6TUOIEC
   isbn_10: 0141314583

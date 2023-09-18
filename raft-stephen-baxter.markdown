@@ -2,7 +2,7 @@
 authors:
 - Stephen Baxter
 category: books
-cover: raft-stephen-baxter.jpg
+thumbnail: raft-stephen-baxter-cover.jpg
 ids:
   google_books: 4tseMp7L1eUC
   isbn_10: 057512797X

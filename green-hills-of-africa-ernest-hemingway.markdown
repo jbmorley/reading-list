@@ -2,7 +2,7 @@
 authors:
 - Ernest Hemingway
 category: books
-cover: green-hills-of-africa-ernest-hemingway.jpg
+thumbnail: green-hills-of-africa-ernest-hemingway-cover.jpg
 ids:
   google_books: ZdFQAQAAQBAJ
   isbn_10: 147677014X

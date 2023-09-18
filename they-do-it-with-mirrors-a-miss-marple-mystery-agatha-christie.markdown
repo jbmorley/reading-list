@@ -2,7 +2,7 @@
 authors:
 - Agatha Christie
 category: books
-cover: they-do-it-with-mirrors-a-miss-marple-mystery-agatha-christie.jpg
+thumbnail: they-do-it-with-mirrors-a-miss-marple-mystery-agatha-christie-cover.jpg
 date: '2023-02-27T20:40:04.963635+00:00'
 end_date: '2023-03-11T07:49:07.756411+00:00'
 ids:

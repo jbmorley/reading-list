@@ -2,7 +2,7 @@
 authors:
 - Arthur Conan Doyle
 category: books
-cover: 2043939125.jpg
+thumbnail: 2043939125-cover.jpg
 format: mass-market-paperback
 ids:
   goodreads: '2043939125'

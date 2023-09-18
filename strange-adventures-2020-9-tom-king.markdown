@@ -2,7 +2,7 @@
 authors:
 - Tom King
 category: books
-cover: strange-adventures-2020-9-tom-king.jpg
+thumbnail: strange-adventures-2020-9-tom-king-cover.jpg
 date: '2021-06-13T17:32:54.373267-07:00'
 end_date: '2021-06-13T17:32:54.613041-07:00'
 ids:

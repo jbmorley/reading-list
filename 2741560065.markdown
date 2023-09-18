@@ -2,7 +2,7 @@
 authors:
 - Haruki Murakami
 category: books
-cover: 2741560065.jpg
+thumbnail: 2741560065-cover.jpg
 date: 2019-02-26 00:00:00-08:00
 ids:
   goodreads: '2741560065'

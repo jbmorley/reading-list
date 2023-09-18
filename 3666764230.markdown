@@ -2,7 +2,7 @@
 authors:
 - Andrew Martin
 category: books
-cover: 3666764230.jpg
+thumbnail: 3666764230-cover.jpg
 ids:
   goodreads: '3666764230'
   isbn_10: '1916045316'

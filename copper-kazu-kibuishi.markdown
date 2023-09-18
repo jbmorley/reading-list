@@ -2,7 +2,7 @@
 authors:
 - Kazu Kibuishi
 category: books
-cover: copper-kazu-kibuishi.jpg
+thumbnail: copper-kazu-kibuishi-cover.jpg
 date: '2021-11-07T21:03:53.971541-08:00'
 end_date: '2021-11-07T21:03:54.373552-08:00'
 ids:

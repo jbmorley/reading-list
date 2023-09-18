@@ -2,7 +2,7 @@
 authors:
 - Lionel Bender
 category: books
-cover: dk-eyewitness-books-invention-invention-lionel-bender.jpg
+thumbnail: dk-eyewitness-books-invention-invention-lionel-bender-cover.jpg
 ids:
   google_books: pmR_1Gz9Sy0C
   isbn_10: 0756653495

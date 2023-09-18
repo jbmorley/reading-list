@@ -2,7 +2,7 @@
 authors:
 - Anthony Horowitz
 category: books
-cover: magpie-murders-a-novel-anthony-horowitz.jpg
+thumbnail: magpie-murders-a-novel-anthony-horowitz-cover.jpg
 ids:
   google_books: I0EYDQAAQBAJ
   isbn_10: '1443452580'

@@ -2,7 +2,7 @@
 authors:
 - Brandon Montclare
 category: books
-cover: 2512124583.jpg
+thumbnail: 2512124583-cover.jpg
 date: 2018-08-29 14:04:31-07:00
 end_date: 2018-09-02 13:53:02-07:00
 ids:

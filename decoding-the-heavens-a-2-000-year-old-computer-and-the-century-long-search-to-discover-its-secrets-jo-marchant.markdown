@@ -2,7 +2,7 @@
 authors:
 - Jo Marchant
 category: books
-cover: decoding-the-heavens-a-2-000-year-old-computer-and-the-century-long-search-to-discover-its-secrets-jo-marchant.jpg
+thumbnail: decoding-the-heavens-a-2-000-year-old-computer-and-the-century-long-search-to-discover-its-secrets-jo-marchant-cover.jpg
 ids:
   google_books: j_ORtAEACAAJ
   isbn_10: 0306818612

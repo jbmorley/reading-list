@@ -2,7 +2,7 @@
 authors:
 - Philip K. Dick
 category: books
-cover: 1823668258.jpg
+thumbnail: 1823668258-cover.jpg
 date: 2016-10-29 00:00:00-07:00
 end_date: 2016-11-05 00:00:00-07:00
 format: paperback

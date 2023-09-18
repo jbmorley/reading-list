@@ -3,7 +3,7 @@ authors:
 - Colin Hawkins
 - Jacqui Hawkins
 category: books
-cover: mig-the-pig-a-flip-the-page-rhyme-and-read-book-colin-hawkins-jacqui-hawkins.jpg
+thumbnail: mig-the-pig-a-flip-the-page-rhyme-and-read-book-colin-hawkins-jacqui-hawkins-cover.jpg
 ids:
   google_books: _NgfPwAACAAJ
   isbn_10: '1905969023'

@@ -2,7 +2,7 @@
 authors:
 - Jason Loo
 category: books
-cover: pitiful-human-lizard-far-from-legendary-jason-loo.jpg
+thumbnail: pitiful-human-lizard-far-from-legendary-jason-loo-cover.jpg
 date: '2022-04-22T09:01:10.655672+00:00'
 end_date: '2022-04-24T07:37:14.550066+00:00'
 ids:

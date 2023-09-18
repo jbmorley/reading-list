@@ -2,7 +2,7 @@
 authors:
 - Matt Hawkins
 category: books
-cover: 3148146045.jpg
+thumbnail: 3148146045-cover.jpg
 date: 2020-01-18 06:54:39-08:00
 end_date: 2020-01-19 21:15:32-08:00
 format: paperback

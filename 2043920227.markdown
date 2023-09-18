@@ -2,7 +2,7 @@
 authors:
 - Jeffery Deaver
 category: books
-cover: 2043920227.jpg
+thumbnail: 2043920227-cover.jpg
 ids:
   goodreads: '2043920227'
 link: https://www.goodreads.com/book/show/10483475-carte-blanche

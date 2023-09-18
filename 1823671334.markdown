@@ -2,7 +2,7 @@
 authors:
 - Warren Ellis
 category: books
-cover: 1823671334.jpg
+thumbnail: 1823671334-cover.jpg
 format: paperback
 ids:
   goodreads: '1823671334'

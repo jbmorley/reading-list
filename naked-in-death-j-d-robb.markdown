@@ -2,7 +2,7 @@
 authors:
 - J. D. Robb
 category: books
-cover: naked-in-death-j-d-robb.jpg
+thumbnail: naked-in-death-j-d-robb-cover.jpg
 ids:
   google_books: WvGkac3JvhkC
   isbn_10: 0425148297

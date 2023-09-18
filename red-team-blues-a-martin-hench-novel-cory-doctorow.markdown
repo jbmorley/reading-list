@@ -2,7 +2,7 @@
 authors:
 - Cory Doctorow
 category: books
-cover: red-team-blues-a-martin-hench-novel-cory-doctorow.jpg
+thumbnail: red-team-blues-a-martin-hench-novel-cory-doctorow-cover.jpg
 date: '2023-05-08T19:29:06.933547-04:00'
 end_date: '2023-06-25T12:03:30.902518-10:00'
 ids:

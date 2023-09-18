@@ -2,7 +2,7 @@
 authors:
 - Rachel Smythe
 category: books
-cover: lore-olympus-volume-one-rachel-smythe.jpg
+thumbnail: lore-olympus-volume-one-rachel-smythe-cover.jpg
 date: '2021-12-14T01:04:25.988803+00:00'
 end_date: '2021-12-14T03:41:22.187197+00:00'
 ids:

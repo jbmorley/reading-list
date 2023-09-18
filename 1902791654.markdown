@@ -2,7 +2,7 @@
 authors:
 - Neil Gaiman
 category: books
-cover: 1902791654.jpg
+thumbnail: 1902791654-cover.jpg
 date: 2017-02-04 13:42:54-08:00
 end_date: 2017-03-04 16:33:43-08:00
 format: paperback

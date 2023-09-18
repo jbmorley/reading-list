@@ -2,7 +2,7 @@
 authors:
 - Warren Ellis
 category: books
-cover: crooked-little-vein-a-novel-warren-ellis.jpg
+thumbnail: crooked-little-vein-a-novel-warren-ellis-cover.jpg
 ids:
   google_books: S_x14SSUj6wC
   isbn_10: 0061740977

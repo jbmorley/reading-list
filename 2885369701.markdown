@@ -2,7 +2,7 @@
 authors:
 - Chihiro Ishizuka
 category: books
-cover: 2885369701.jpg
+thumbnail: 2885369701-cover.jpg
 date: 2019-07-06 10:30:02-07:00
 end_date: 2019-07-06 11:38:48-07:00
 format: paperback

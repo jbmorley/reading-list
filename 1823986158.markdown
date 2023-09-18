@@ -2,7 +2,7 @@
 authors:
 - Banana Yoshimoto
 category: books
-cover: 1823986158.jpg
+thumbnail: 1823986158-cover.jpg
 format: paperback
 ids:
   goodreads: '1823986158'

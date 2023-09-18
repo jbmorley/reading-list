@@ -2,7 +2,7 @@
 authors:
 - Leonard Koren
 category: books
-cover: 2644680130.jpg
+thumbnail: 2644680130-cover.jpg
 format: paperback
 ids:
   goodreads: '2644680130'

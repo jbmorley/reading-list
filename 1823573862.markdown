@@ -2,7 +2,7 @@
 authors:
 - Jeph Loeb
 category: books
-cover: 1823573862.jpg
+thumbnail: 1823573862-cover.jpg
 end_date: 2016-01-30 00:00:00-08:00
 format: paperback
 ids:

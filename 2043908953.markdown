@@ -2,7 +2,7 @@
 authors:
 - Jane Austen
 category: books
-cover: 2043908953.jpg
+thumbnail: 2043908953-cover.jpg
 format: paperback
 ids:
   goodreads: '2043908953'

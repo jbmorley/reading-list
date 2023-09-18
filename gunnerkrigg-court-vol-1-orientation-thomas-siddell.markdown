@@ -2,7 +2,7 @@
 authors:
 - Thomas Siddell
 category: books
-cover: gunnerkrigg-court-vol-1-orientation-thomas-siddell.jpg
+thumbnail: gunnerkrigg-court-vol-1-orientation-thomas-siddell-cover.jpg
 ids:
   google_books: aq4yDwAAQBAJ
   isbn_10: 160886703X

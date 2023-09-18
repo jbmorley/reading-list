@@ -2,7 +2,7 @@
 authors:
 - John le Carre
 category: books
-cover: call-for-the-dead-john-le-carre.jpg
+thumbnail: call-for-the-dead-john-le-carre-cover.jpg
 ids:
   google_books: oY0NdYZbG2kC
   isbn_10: '0743431677'

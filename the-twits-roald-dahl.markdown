@@ -2,7 +2,7 @@
 authors:
 - Roald Dahl
 category: books
-cover: the-twits-roald-dahl.jpg
+thumbnail: the-twits-roald-dahl-cover.jpg
 ids:
   google_books: 3H2WCxgjsb0C
   isbn_10: 0224083856

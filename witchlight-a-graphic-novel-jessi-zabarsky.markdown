@@ -2,7 +2,7 @@
 authors:
 - Jessi Zabarsky
 category: books
-cover: witchlight-a-graphic-novel-jessi-zabarsky.jpg
+thumbnail: witchlight-a-graphic-novel-jessi-zabarsky-cover.jpg
 date: '2022-10-07T10:12:31.587366-04:00'
 end_date: '2022-10-07T20:05:03.198378-04:00'
 ids:

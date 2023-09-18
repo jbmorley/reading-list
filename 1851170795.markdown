@@ -2,7 +2,7 @@
 authors:
 - Jun'ichirō Tanizaki
 category: books
-cover: 1851170795.jpg
+thumbnail: 1851170795-cover.jpg
 format: paperback
 ids:
   goodreads: '1851170795'

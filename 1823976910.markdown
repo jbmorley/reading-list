@@ -2,7 +2,7 @@
 authors:
 - Dan Brown
 category: books
-cover: 1823976910.jpg
+thumbnail: 1823976910-cover.jpg
 format: paperback
 ids:
   goodreads: '1823976910'

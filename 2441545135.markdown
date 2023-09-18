@@ -2,7 +2,7 @@
 authors:
 - Harper Lee
 category: books
-cover: 2441545135.jpg
+thumbnail: 2441545135-cover.jpg
 format: paperback
 ids:
   goodreads: '2441545135'

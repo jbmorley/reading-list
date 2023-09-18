@@ -2,7 +2,7 @@
 authors:
 - Marjorie M. Liu
 category: books
-cover: 2910106112.jpg
+thumbnail: 2910106112-cover.jpg
 date: 2019-07-24 21:45:13-07:00
 end_date: 2019-10-24 03:42:01-07:00
 format: paperback

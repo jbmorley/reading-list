@@ -2,7 +2,7 @@
 authors:
 - Albert Stwertka
 category: books
-cover: a-guide-to-the-elements-albert-stwertka.jpg
+thumbnail: a-guide-to-the-elements-albert-stwertka-cover.jpg
 ids:
   google_books: f60GkgEACAAJ
   isbn_10: 0199832528

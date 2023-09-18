@@ -2,7 +2,7 @@
 authors:
 - Robison Wells
 category: books
-cover: 1823609475.jpg
+thumbnail: 1823609475-cover.jpg
 date: 2016-05-04 00:00:00-07:00
 end_date: 2016-05-11 00:00:00-07:00
 format: ebook

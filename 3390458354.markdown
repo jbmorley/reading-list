@@ -2,7 +2,7 @@
 authors:
 - Kenichi Sonoda
 category: books
-cover: 3390458354.jpg
+thumbnail: 3390458354-cover.jpg
 format: paperback
 ids:
   goodreads: '3390458354'

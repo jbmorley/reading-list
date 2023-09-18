@@ -2,7 +2,7 @@
 authors:
 - Lee Pfeiffer
 category: books
-cover: 2107421327.jpg
+thumbnail: 2107421327-cover.jpg
 format: hardcover
 ids:
   goodreads: '2107421327'

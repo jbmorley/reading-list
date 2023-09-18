@@ -2,7 +2,7 @@
 authors:
 - J.K. Rowling
 category: books
-cover: 1823989301.jpg
+thumbnail: 1823989301-cover.jpg
 format: hardcover
 ids:
   goodreads: '1823989301'

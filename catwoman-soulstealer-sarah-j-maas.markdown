@@ -2,7 +2,7 @@
 authors:
 - Sarah J. Maas
 category: books
-cover: catwoman-soulstealer-sarah-j-maas.jpg
+thumbnail: catwoman-soulstealer-sarah-j-maas-cover.jpg
 date: '2021-06-24T11:54:20.098461-07:00'
 end_date: '2021-06-24T11:54:21.108724-07:00'
 ids:

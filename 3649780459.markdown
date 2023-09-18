@@ -2,7 +2,7 @@
 authors:
 - Donald A. Norman
 category: books
-cover: 3649780459.jpg
+thumbnail: 3649780459-cover.jpg
 format: paperback
 ids:
   goodreads: '3649780459'

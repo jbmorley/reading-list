@@ -2,7 +2,7 @@
 authors:
 - Craig Kyle
 category: books
-cover: 2051907713.jpg
+thumbnail: 2051907713-cover.jpg
 ids:
   goodreads: '2051907713'
 link: https://www.goodreads.com/book/show/26060806-x-23

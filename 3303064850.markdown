@@ -2,7 +2,7 @@
 authors:
 - P. Craig Russell
 category: books
-cover: 3303064850.jpg
+thumbnail: 3303064850-cover.jpg
 date: 2020-04-26 13:32:23-07:00
 end_date: 2020-04-26 13:32:39-07:00
 format: hardcover

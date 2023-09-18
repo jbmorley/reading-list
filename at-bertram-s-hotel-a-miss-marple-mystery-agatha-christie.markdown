@@ -2,7 +2,7 @@
 authors:
 - Agatha Christie
 category: books
-cover: at-bertram-s-hotel-a-miss-marple-mystery-agatha-christie.jpg
+thumbnail: at-bertram-s-hotel-a-miss-marple-mystery-agatha-christie-cover.jpg
 date: '2022-09-24T11:22:58.050145-07:00'
 end_date: '2022-09-24T11:22:58.750515-07:00'
 ids:

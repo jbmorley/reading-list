@@ -2,7 +2,7 @@
 authors:
 - Kevin Guilfoile
 category: books
-cover: 1823136046.jpg
+thumbnail: 1823136046-cover.jpg
 format: ebook
 ids:
   goodreads: '1823136046'

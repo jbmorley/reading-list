@@ -2,7 +2,7 @@
 authors:
 - Megan Alnico
 category: books
-cover: chromaspace-conscript-megan-alnico.jpg
+thumbnail: chromaspace-conscript-megan-alnico-cover.jpg
 ids:
   google_books: wji8zgEACAAJ
   isbn_10: '1644564033'

@@ -2,7 +2,7 @@
 authors:
 - Kenichi Sonoda
 category: books
-cover: 2368356436.jpg
+thumbnail: 2368356436-cover.jpg
 date: 2018-04-17 00:00:00-07:00
 end_date: 2018-05-05 16:56:11-07:00
 format: paperback

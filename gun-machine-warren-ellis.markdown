@@ -2,7 +2,7 @@
 authors:
 - Warren Ellis
 category: books
-cover: gun-machine-warren-ellis.jpg
+thumbnail: gun-machine-warren-ellis-cover.jpg
 ids:
   google_books: WCRqMrFMJ30C
   isbn_10: '0316215252'

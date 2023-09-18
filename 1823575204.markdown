@@ -2,7 +2,7 @@
 authors:
 - Christopher McDougall
 category: books
-cover: 1823575204.jpg
+thumbnail: 1823575204-cover.jpg
 format: paperback
 ids:
   goodreads: '1823575204'

@@ -2,7 +2,7 @@
 authors:
 - Michael Palin
 category: books
-cover: 2990780200.jpg
+thumbnail: 2990780200-cover.jpg
 format: hardcover
 ids:
   goodreads: '2990780200'

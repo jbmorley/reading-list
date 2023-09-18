@@ -2,7 +2,7 @@
 authors:
 - Agatha Christie
 category: books
-cover: the-moving-finger-agatha-christie.jpg
+thumbnail: the-moving-finger-agatha-christie-cover.jpg
 date: '2023-02-20T14:04:45.192406+00:00'
 end_date: '2023-02-27T21:52:49.365849+00:00'
 ids:

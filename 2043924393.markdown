@@ -2,7 +2,7 @@
 authors:
 - Ambrose Bierce
 category: books
-cover: 2043924393.jpg
+thumbnail: 2043924393-cover.jpg
 format: paperback
 ids:
   goodreads: '2043924393'

@@ -2,7 +2,7 @@
 authors:
 - Emma
 category: books
-cover: 3031713857.jpg
+thumbnail: 3031713857-cover.jpg
 date: 2019-10-31 08:52:26-07:00
 format: paperback
 ids:

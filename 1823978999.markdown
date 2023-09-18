@@ -2,7 +2,7 @@
 authors:
 - Alan Moore
 category: books
-cover: 1823978999.jpg
+thumbnail: 1823978999-cover.jpg
 end_date: 2016-04-01 00:00:00-07:00
 format: hardcover
 ids:

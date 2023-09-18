@@ -3,7 +3,7 @@ authors:
 - Paul Di Filippo
 - Jerry Ordway
 category: books
-cover: top-10-beyond-the-farthest-precinct-paul-di-filippo-jerry-ordway.jpg
+thumbnail: top-10-beyond-the-farthest-precinct-paul-di-filippo-jerry-ordway-cover.jpg
 date: '2021-05-03T18:36:41.525723-07:00'
 end_date: '2021-05-12T13:44:34.359560-07:00'
 ids:

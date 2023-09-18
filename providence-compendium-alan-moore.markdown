@@ -2,7 +2,7 @@
 authors:
 - Alan Moore
 category: books
-cover: providence-compendium-alan-moore.jpg
+thumbnail: providence-compendium-alan-moore-cover.jpg
 date: '2021-12-14T04:58:59.662076+00:00'
 end_date: '2022-05-30T09:55:18.001907+00:00'
 ids:

@@ -2,7 +2,7 @@
 authors:
 - Scott Adams
 category: books
-cover: dilbert-and-the-way-of-the-weasel-scott-adams.jpg
+thumbnail: dilbert-and-the-way-of-the-weasel-scott-adams-cover.jpg
 ids:
   google_books: lpySR5C1kuoC
   isbn_10: 0752215590

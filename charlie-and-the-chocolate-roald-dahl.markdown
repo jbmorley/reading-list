@@ -2,7 +2,7 @@
 authors:
 - Roald Dahl
 category: books
-cover: charlie-and-the-chocolate-roald-dahl.jpg
+thumbnail: charlie-and-the-chocolate-roald-dahl-cover.jpg
 ids:
   google_books: GfiR_-oxkyMC
   isbn_10: 0141329858

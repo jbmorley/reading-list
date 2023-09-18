@@ -2,7 +2,7 @@
 authors:
 - Michael Bond
 category: books
-cover: a-bear-called-paddington-michael-bond.jpg
+thumbnail: a-bear-called-paddington-michael-bond-cover.jpg
 ids:
   google_books: LLbwCeXDlbkC
   isbn_10: '0007174160'

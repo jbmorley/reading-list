@@ -2,7 +2,7 @@
 authors:
 - Agatha Christie
 category: books
-cover: 2526878683.jpg
+thumbnail: 2526878683-cover.jpg
 date: 2018-09-11 11:40:01-07:00
 end_date: 2018-09-12 17:49:34-07:00
 format: paperback

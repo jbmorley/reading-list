@@ -2,7 +2,7 @@
 authors:
 - Nina Bawden
 category: books
-cover: 2108214258.jpg
+thumbnail: 2108214258-cover.jpg
 format: paperback
 ids:
   goodreads: '2108214258'

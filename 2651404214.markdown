@@ -2,7 +2,7 @@
 authors:
 - Beatrix Potter
 category: books
-cover: 2651404214.jpg
+thumbnail: 2651404214-cover.jpg
 format: hardcover
 ids:
   goodreads: '2651404214'

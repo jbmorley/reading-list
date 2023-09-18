@@ -2,7 +2,7 @@
 authors:
 - Ian Fleming
 category: books
-cover: 1823616533.jpg
+thumbnail: 1823616533-cover.jpg
 format: paperback
 ids:
   goodreads: '1823616533'

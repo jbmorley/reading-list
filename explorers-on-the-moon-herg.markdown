@@ -2,7 +2,7 @@
 authors:
 - Hergé
 category: books
-cover: explorers-on-the-moon-herg.jpg
+thumbnail: explorers-on-the-moon-herg-cover.jpg
 date: '2023-01-08T08:26:44.170862+00:00'
 end_date: '2023-02-09T20:50:15.185646+00:00'
 ids:

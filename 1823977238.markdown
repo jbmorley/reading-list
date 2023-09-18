@@ -2,7 +2,7 @@
 authors:
 - Antoine de Saint-Exupéry
 category: books
-cover: 1823977238.jpg
+thumbnail: 1823977238-cover.jpg
 format: paperback
 ids:
   goodreads: '1823977238'

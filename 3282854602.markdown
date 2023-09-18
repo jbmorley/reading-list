@@ -2,7 +2,7 @@
 authors:
 - Philip K. Dick
 category: books
-cover: 3282854602.jpg
+thumbnail: 3282854602-cover.jpg
 format: kindle-edition
 ids:
   goodreads: '3282854602'

@@ -2,7 +2,7 @@
 authors:
 - Kamome Shirahama
 category: books
-cover: witch-hat-atelier-5-kamome-shirahama.jpg
+thumbnail: witch-hat-atelier-5-kamome-shirahama-cover.jpg
 date: '2022-01-06T03:46:25.484484+00:00'
 end_date: '2022-01-06T09:39:43.185450+00:00'
 ids:

@@ -2,7 +2,7 @@
 authors:
 - Richmal Crompton
 category: books
-cover: 2108214039.jpg
+thumbnail: 2108214039-cover.jpg
 ids:
   goodreads: '2108214039'
   isbn_10: 0333389085

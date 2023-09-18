@@ -2,7 +2,7 @@
 authors:
 - Tillie Walden
 category: books
-cover: are-you-listening-tillie-walden.jpg
+thumbnail: are-you-listening-tillie-walden-cover.jpg
 date: 2022-11-23
 end_date: 2022-11-23
 ids:

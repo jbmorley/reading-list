@@ -2,7 +2,7 @@
 authors:
 - Joshua Barkman
 category: books
-cover: false-knees-an-illustrated-guide-to-animal-behavior-joshua-barkman.jpg
+thumbnail: false-knees-an-illustrated-guide-to-animal-behavior-joshua-barkman-cover.jpg
 date: '2021-11-24T17:06:12.512612-08:00'
 end_date: '2021-11-25T12:20:45.216299-08:00'
 ids:

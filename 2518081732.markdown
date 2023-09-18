@@ -2,7 +2,7 @@
 authors:
 - Cecil
 category: books
-cover: 2518081732.jpg
+thumbnail: 2518081732-cover.jpg
 date: 2018-09-03 19:10:37-07:00
 end_date: 2018-09-07 05:49:42-07:00
 format: paperback

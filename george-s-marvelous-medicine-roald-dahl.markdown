@@ -2,7 +2,7 @@
 authors:
 - Roald Dahl
 category: books
-cover: george-s-marvelous-medicine-roald-dahl.jpg
+thumbnail: george-s-marvelous-medicine-roald-dahl-cover.jpg
 ids:
   google_books: MG_ZCwAAQBAJ
   isbn_10: '0142410357'

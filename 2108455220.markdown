@@ -2,7 +2,7 @@
 authors:
 - Jenny Tyler
 category: books
-cover: 2108455220.jpg
+thumbnail: 2108455220-cover.jpg
 format: paperback
 ids:
   goodreads: '2108455220'

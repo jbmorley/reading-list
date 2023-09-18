@@ -5,7 +5,7 @@ authors:
 - Random House U. K. Ltd. Staff
 - Random House UK Ltd
 category: books
-cover: the-children-s-book-of-books-in-celebration-of-world-book-day-1998-penguin-books-ltd-penguin-books-staff-random-house-u-k-ltd-staff-random-house-uk-ltd.jpg
+thumbnail: the-children-s-book-of-books-in-celebration-of-world-book-day-1998-penguin-books-ltd-penguin-books-staff-random-house-u-k-ltd-staff-random-house-uk-ltd-cover.jpg
 ids:
   google_books: q_sXAAAACAAJ
   isbn_10: 0099264641

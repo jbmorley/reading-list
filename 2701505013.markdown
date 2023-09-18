@@ -2,7 +2,7 @@
 authors:
 - Warren Ellis
 category: books
-cover: 2701505013.jpg
+thumbnail: 2701505013-cover.jpg
 ids:
   goodreads: '2701505013'
 link: https://www.goodreads.com/book/show/36440952-the-wild-storm-10

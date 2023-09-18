@@ -3,7 +3,7 @@ authors:
 - Terry Pratchett
 - Stephen Baxter
 category: books
-cover: the-long-earth-terry-pratchett-stephen-baxter.jpg
+thumbnail: the-long-earth-terry-pratchett-stephen-baxter-cover.jpg
 ids:
   google_books: X5qs7MgZzD8C
   isbn_10: 0552164089

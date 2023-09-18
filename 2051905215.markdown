@@ -2,7 +2,7 @@
 authors:
 - Brian Michael Bendis
 category: books
-cover: 2051905215.jpg
+thumbnail: 2051905215-cover.jpg
 format: hardcover
 ids:
   goodreads: '2051905215'

@@ -2,7 +2,7 @@
 authors:
 - Elecia White
 category: books
-cover: 3649764661.jpg
+thumbnail: 3649764661-cover.jpg
 format: paperback
 ids:
   goodreads: '3649764661'

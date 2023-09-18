@@ -2,7 +2,7 @@
 authors:
 - Kosuke Fujishima
 category: books
-cover: 1946500975.jpg
+thumbnail: 1946500975-cover.jpg
 date: 2017-03-19 13:40:54-07:00
 end_date: 2017-06-27 21:59:31-07:00
 format: paperback

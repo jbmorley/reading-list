@@ -3,7 +3,7 @@ authors:
 - Bozhidar Abrashev
 - Vladimir Gadjev
 category: books
-cover: the-illustrated-encyclopedia-of-musical-instruments-from-all-eras-and-regions-of-the-world-bozhidar-abrashev-vladimir-gadjev.jpg
+thumbnail: the-illustrated-encyclopedia-of-musical-instruments-from-all-eras-and-regions-of-the-world-bozhidar-abrashev-vladimir-gadjev-cover.jpg
 ids:
   google_books: Og4cKAAACAAJ
   isbn_10: 0841602689

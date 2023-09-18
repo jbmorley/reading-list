@@ -2,7 +2,7 @@
 authors:
 - Paulo Coelho
 category: books
-cover: 2043922060.jpg
+thumbnail: 2043922060-cover.jpg
 format: ebook
 ids:
   goodreads: '2043922060'

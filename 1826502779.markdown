@@ -2,7 +2,7 @@
 authors:
 - Vernor Vinge
 category: books
-cover: 1826502779.jpg
+thumbnail: 1826502779-cover.jpg
 format: paperback
 ids:
   goodreads: '1826502779'

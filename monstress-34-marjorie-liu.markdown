@@ -2,7 +2,7 @@
 authors:
 - Marjorie Liu
 category: books
-cover: monstress-34-marjorie-liu.jpg
+thumbnail: monstress-34-marjorie-liu-cover.jpg
 date: '2021-06-09T13:46:25.169434-07:00'
 end_date: '2021-06-09T13:46:25.888823-07:00'
 ids:

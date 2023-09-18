@@ -2,7 +2,7 @@
 authors:
 - Edith Nesbit
 category: books
-cover: the-railway-children-edith-nesbit.jpg
+thumbnail: the-railway-children-edith-nesbit-cover.jpg
 ids:
   google_books: dkdqpwJZPGwC
   isbn_10: 0099572990

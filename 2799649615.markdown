@@ -2,7 +2,7 @@
 authors:
 - Franklin Veaux
 category: books
-cover: 2799649615.jpg
+thumbnail: 2799649615-cover.jpg
 date: 2019-04-26 06:44:42-07:00
 format: paperback
 ids:

@@ -2,7 +2,7 @@
 authors:
 - Greg Rucka
 category: books
-cover: 3172453123.jpg
+thumbnail: 3172453123-cover.jpg
 date: 2020-02-02 07:04:10-08:00
 end_date: 2020-02-02 07:04:32-08:00
 format: paperback

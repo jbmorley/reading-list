@@ -2,7 +2,7 @@
 authors:
 - G. Willow Wilson
 category: books
-cover: 3357014695.jpg
+thumbnail: 3357014695-cover.jpg
 format: paperback
 ids:
   goodreads: '3357014695'

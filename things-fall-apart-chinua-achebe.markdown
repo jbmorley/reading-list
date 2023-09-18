@@ -2,7 +2,7 @@
 authors:
 - Chinua Achebe
 category: books
-cover: things-fall-apart-chinua-achebe.jpg
+thumbnail: things-fall-apart-chinua-achebe-cover.jpg
 ids:
   google_books: tSbWMu_-D5AC
   isbn_10: 0141393963

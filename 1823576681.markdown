@@ -2,7 +2,7 @@
 authors:
 - William Gibson
 category: books
-cover: 1823576681.jpg
+thumbnail: 1823576681-cover.jpg
 date: 2016-06-13 00:00:00-07:00
 end_date: 2016-07-02 00:00:00-07:00
 format: paperback

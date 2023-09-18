@@ -2,7 +2,7 @@
 authors:
 - Hiromu Arakawa
 category: books
-cover: fullmetal-alchemist-vol-1-hiromu-arakawa.jpg
+thumbnail: fullmetal-alchemist-vol-1-hiromu-arakawa-cover.jpg
 ids:
   google_books: zqw8AwAAQBAJ
   isbn_10: 031628548X

@@ -2,7 +2,7 @@
 authors:
 - Stephen Baxter
 category: books
-cover: flux-stephen-baxter.jpg
+thumbnail: flux-stephen-baxter-cover.jpg
 ids:
   google_books: ylQ7-O776u8C
   isbn_10: 057512816X

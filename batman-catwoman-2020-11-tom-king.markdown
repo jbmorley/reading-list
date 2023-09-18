@@ -2,7 +2,7 @@
 authors:
 - Tom King
 category: books
-cover: batman-catwoman-2020-11-tom-king.jpg
+thumbnail: batman-catwoman-2020-11-tom-king-cover.jpg
 date: '2022-05-09T06:41:38.253440+00:00'
 end_date: '2022-05-09T06:41:39.653455+00:00'
 ids:

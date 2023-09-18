@@ -2,7 +2,7 @@
 authors:
 - Margaret Atwood
 category: books
-cover: 3600171932.jpg
+thumbnail: 3600171932-cover.jpg
 ids:
   goodreads: '3600171932'
 link: https://www.goodreads.com/book/show/50832682-the-penelopiad

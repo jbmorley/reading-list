@@ -3,7 +3,7 @@ authors:
 - Matt Fraction
 - Chip Zdarsky
 category: books
-cover: sex-criminals-one-weird-trick-1-5-matt-fraction-chip-zdarsky.jpg
+thumbnail: sex-criminals-one-weird-trick-1-5-matt-fraction-chip-zdarsky-cover.jpg
 ids:
   google_books: m8TTnQEACAAJ
   isbn_10: '1607069466'

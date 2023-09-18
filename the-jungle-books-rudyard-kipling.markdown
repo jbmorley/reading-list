@@ -2,7 +2,7 @@
 authors:
 - Rudyard Kipling
 category: books
-cover: the-jungle-books-rudyard-kipling.jpg
+thumbnail: the-jungle-books-rudyard-kipling-cover.jpg
 ids:
   google_books: u6UVDAAAQBAJ
   isbn_10: 0199536457

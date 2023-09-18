@@ -2,7 +2,7 @@
 authors:
 - C.S. Lewis
 category: books
-cover: 2109280239.jpg
+thumbnail: 2109280239-cover.jpg
 format: paperback
 ids:
   goodreads: '2109280239'

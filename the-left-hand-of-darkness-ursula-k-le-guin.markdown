@@ -2,7 +2,7 @@
 authors:
 - Ursula K. Le Guin
 category: books
-cover: the-left-hand-of-darkness-ursula-k-le-guin.jpg
+thumbnail: the-left-hand-of-darkness-ursula-k-le-guin-cover.jpg
 ids:
   google_books: 2bNl0ZF25LgC
   isbn_10: '1405525274'

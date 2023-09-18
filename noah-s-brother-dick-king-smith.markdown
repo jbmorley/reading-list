@@ -2,7 +2,7 @@
 authors:
 - Dick King-Smith
 category: books
-cover: noah-s-brother-dick-king-smith.jpg
+thumbnail: noah-s-brother-dick-king-smith-cover.jpg
 ids:
   google_books: rqAwAAAACAAJ
   isbn_10: '0141302542'

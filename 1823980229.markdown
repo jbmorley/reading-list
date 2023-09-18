@@ -2,7 +2,7 @@
 authors:
 - Philip Pullman
 category: books
-cover: 1823980229.jpg
+thumbnail: 1823980229-cover.jpg
 format: paperback
 ids:
   goodreads: '1823980229'

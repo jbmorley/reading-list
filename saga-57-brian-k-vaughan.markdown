@@ -2,7 +2,7 @@
 authors:
 - Brian K. Vaughan
 category: books
-cover: saga-57-brian-k-vaughan.jpg
+thumbnail: saga-57-brian-k-vaughan-cover.jpg
 date: '2022-11-07T05:59:28.476696-08:00'
 end_date: '2022-11-08T16:51:38.232997+00:00'
 ids:

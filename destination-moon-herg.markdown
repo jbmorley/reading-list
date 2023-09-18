@@ -2,7 +2,7 @@
 authors:
 - Hergé
 category: books
-cover: destination-moon-herg.jpg
+thumbnail: destination-moon-herg-cover.jpg
 date: '2023-01-07T08:54:27.485281+00:00'
 end_date: '2023-01-08T08:25:22.716285+00:00'
 ids:

@@ -2,7 +2,7 @@
 authors:
 - Stephen Fry
 category: books
-cover: heroes-stephen-fry.jpg
+thumbnail: heroes-stephen-fry-cover.jpg
 date: '2021-02-22'
 ids:
   google_books: n1PODwAAQBAJ

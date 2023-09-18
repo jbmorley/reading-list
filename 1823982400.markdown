@@ -2,7 +2,7 @@
 authors:
 - Neal Stephenson
 category: books
-cover: 1823982400.jpg
+thumbnail: 1823982400-cover.jpg
 date: 2016-11-06 00:00:00-07:00
 end_date: 2017-01-23 22:16:00-08:00
 format: hardcover

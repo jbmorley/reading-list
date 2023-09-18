@@ -2,7 +2,7 @@
 authors:
 - Blake Crouch
 category: books
-cover: recursion-a-novel-blake-crouch.jpg
+thumbnail: recursion-a-novel-blake-crouch-cover.jpg
 ids:
   google_books: A2bRDwAAQBAJ
   isbn_10: '1524759791'

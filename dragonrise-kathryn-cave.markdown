@@ -2,7 +2,7 @@
 authors:
 - Kathryn Cave
 category: books
-cover: dragonrise-kathryn-cave.jpg
+thumbnail: dragonrise-kathryn-cave-cover.jpg
 ids:
   google_books: Q8khAAAACAAJ
   isbn_10: 014031640X

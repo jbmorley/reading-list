@@ -2,7 +2,7 @@
 authors:
 - Warren Ellis
 category: books
-cover: 2458865639.jpg
+thumbnail: 2458865639-cover.jpg
 ids:
   goodreads: '2458865639'
 link: https://www.goodreads.com/book/show/37934725-anna-mercury

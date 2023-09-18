@@ -2,7 +2,7 @@
 authors:
 - Tatsuya Endo
 category: books
-cover: spy-x-family-vol-6-tatsuya-endo.jpg
+thumbnail: spy-x-family-vol-6-tatsuya-endo-cover.jpg
 date: '2022-07-06T14:41:06.144395+01:00'
 end_date: '2022-10-08T16:34:49.427188-04:00'
 ids:

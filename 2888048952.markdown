@@ -2,7 +2,7 @@
 authors:
 - Jen Wang
 category: books
-cover: 2888048952.jpg
+thumbnail: 2888048952-cover.jpg
 date: 2019-07-08 10:29:25-07:00
 end_date: 2019-07-08 10:30:47-07:00
 format: paperback

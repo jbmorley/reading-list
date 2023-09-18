@@ -2,7 +2,7 @@
 authors:
 - Ben Aaronovitch
 category: books
-cover: 3574314582.jpg
+thumbnail: 3574314582-cover.jpg
 date: 2020-09-30 14:26:34-07:00
 end_date: 2020-10-13 21:23:59-07:00
 format: hardcover

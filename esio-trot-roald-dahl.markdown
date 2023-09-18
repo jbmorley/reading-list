@@ -2,7 +2,7 @@
 authors:
 - Roald Dahl
 category: books
-cover: esio-trot-roald-dahl.jpg
+thumbnail: esio-trot-roald-dahl-cover.jpg
 ids:
   google_books: rpiMEAAAQBAJ
   isbn_10: 0142413828

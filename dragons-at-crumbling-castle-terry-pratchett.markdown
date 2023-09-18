@@ -2,7 +2,7 @@
 authors:
 - Terry Pratchett
 category: books
-cover: dragons-at-crumbling-castle-terry-pratchett.jpg
+thumbnail: dragons-at-crumbling-castle-terry-pratchett-cover.jpg
 ids:
   google_books: pL6BBgAAQBAJ
   isbn_10: 0544466594

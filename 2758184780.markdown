@@ -2,7 +2,7 @@
 authors:
 - Lauren Myracle
 category: books
-cover: 2758184780.jpg
+thumbnail: 2758184780-cover.jpg
 format: paperback
 ids:
   goodreads: '2758184780'

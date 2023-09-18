@@ -2,7 +2,7 @@
 authors:
 - Dick King-smith
 category: books
-cover: the-cuckoo-child-dick-king-smith.jpg
+thumbnail: the-cuckoo-child-dick-king-smith-cover.jpg
 ids:
   google_books: SSfDBoQ7jWkC
   isbn_10: 0786813512

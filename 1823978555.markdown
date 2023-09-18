@@ -2,7 +2,7 @@
 authors:
 - Alan Moore
 category: books
-cover: 1823978555.jpg
+thumbnail: 1823978555-cover.jpg
 format: paperback
 ids:
   goodreads: '1823978555'

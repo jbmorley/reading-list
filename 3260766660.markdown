@@ -2,7 +2,7 @@
 authors:
 - Haruka Takachiho
 category: books
-cover: 3260766660.jpg
+thumbnail: 3260766660-cover.jpg
 date: 2020-04-03 04:58:51-07:00
 end_date: 2020-04-12 18:37:13-07:00
 format: paperback

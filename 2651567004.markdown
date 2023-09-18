@@ -2,7 +2,7 @@
 authors:
 - Sara Benson
 category: books
-cover: 2651567004.jpg
+thumbnail: 2651567004-cover.jpg
 format: paperback
 ids:
   goodreads: '2651567004'

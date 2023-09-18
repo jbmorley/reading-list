@@ -2,7 +2,7 @@
 authors:
 - Umi Sakurai
 category: books
-cover: a-man-and-his-cat-06-umi-sakurai.jpg
+thumbnail: a-man-and-his-cat-06-umi-sakurai-cover.jpg
 date: '2022-07-23T05:47:12.306763+01:00'
 end_date: '2022-10-08T08:09:47.109762-04:00'
 ids:

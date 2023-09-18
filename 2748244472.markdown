@@ -2,7 +2,7 @@
 authors:
 - Ann Leckie
 category: books
-cover: 2748244472.jpg
+thumbnail: 2748244472-cover.jpg
 date: 2019-03-12 16:39:03-07:00
 end_date: 2019-04-11 12:01:17-07:00
 ids:

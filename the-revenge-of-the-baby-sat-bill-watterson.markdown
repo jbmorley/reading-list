@@ -2,7 +2,7 @@
 authors:
 - Bill Watterson
 category: books
-cover: the-revenge-of-the-baby-sat-bill-watterson.jpg
+thumbnail: the-revenge-of-the-baby-sat-bill-watterson-cover.jpg
 date: '2022-10-08T16:35:13.015795-04:00'
 end_date: '2022-10-08T16:35:13.354679-04:00'
 ids:

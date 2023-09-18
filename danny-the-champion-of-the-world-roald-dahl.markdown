@@ -2,7 +2,7 @@
 authors:
 - Roald Dahl
 category: books
-cover: danny-the-champion-of-the-world-roald-dahl.jpg
+thumbnail: danny-the-champion-of-the-world-roald-dahl-cover.jpg
 ids:
   google_books: _mIq8sUSEaEC
   isbn_10: 0141930217

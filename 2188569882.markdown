@@ -2,7 +2,7 @@
 authors:
 - Andy Weir
 category: books
-cover: 2188569882.jpg
+thumbnail: 2188569882-cover.jpg
 date: 2017-11-18 21:31:40-08:00
 end_date: 2017-11-21 19:47:13-08:00
 format: hardcover

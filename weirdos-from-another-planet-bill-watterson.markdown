@@ -2,7 +2,7 @@
 authors:
 - Bill Watterson
 category: books
-cover: weirdos-from-another-planet-bill-watterson.jpg
+thumbnail: weirdos-from-another-planet-bill-watterson-cover.jpg
 date: '2022-10-09T11:12:24.308782-04:00'
 end_date: '2022-11-06T14:03:11.248693-08:00'
 ids:

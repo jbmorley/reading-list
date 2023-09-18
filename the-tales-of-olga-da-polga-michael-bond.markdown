@@ -2,7 +2,7 @@
 authors:
 - Michael Bond
 category: books
-cover: the-tales-of-olga-da-polga-michael-bond.jpg
+thumbnail: the-tales-of-olga-da-polga-michael-bond-cover.jpg
 ids:
   google_books: OirXDwAAQBAJ
   isbn_10: 0192793241

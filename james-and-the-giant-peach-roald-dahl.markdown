@@ -2,7 +2,7 @@
 authors:
 - Roald Dahl
 category: books
-cover: james-and-the-giant-peach-roald-dahl.jpg
+thumbnail: james-and-the-giant-peach-roald-dahl-cover.jpg
 ids:
   google_books: 8F83FmGSQuIC
   isbn_10: '0141322632'

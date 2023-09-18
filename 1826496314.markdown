@@ -2,7 +2,7 @@
 authors:
 - Walter Isaacson
 category: books
-cover: 1826496314.jpg
+thumbnail: 1826496314-cover.jpg
 format: hardcover
 ids:
   goodreads: '1826496314'

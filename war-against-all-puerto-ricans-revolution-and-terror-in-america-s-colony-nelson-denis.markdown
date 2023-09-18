@@ -2,7 +2,7 @@
 authors:
 - Nelson Denis
 category: books
-cover: war-against-all-puerto-ricans-revolution-and-terror-in-america-s-colony-nelson-denis.jpg
+thumbnail: war-against-all-puerto-ricans-revolution-and-terror-in-america-s-colony-nelson-denis-cover.jpg
 ids:
   google_books: MxvTDQAAQBAJ
   isbn_10: '1568585012'

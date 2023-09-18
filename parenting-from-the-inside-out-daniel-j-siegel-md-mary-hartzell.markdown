@@ -3,7 +3,7 @@ authors:
 - Daniel J. Siegel MD
 - Mary Hartzell
 category: books
-cover: parenting-from-the-inside-out-daniel-j-siegel-md-mary-hartzell.jpg
+thumbnail: parenting-from-the-inside-out-daniel-j-siegel-md-mary-hartzell-cover.jpg
 ids:
   google_books: hnRWT8s9ZAkC
   isbn_10: '1101215895'

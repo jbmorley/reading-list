@@ -2,7 +2,7 @@
 authors:
 - Amber Case
 category: books
-cover: calm-technology-principles-and-patterns-for-non-intrusive-design-amber-case.jpg
+thumbnail: calm-technology-principles-and-patterns-for-non-intrusive-design-amber-case-cover.jpg
 ids:
   google_books: Mp88CwAAQBAJ
   isbn_10: '1491925833'

@@ -2,7 +2,7 @@
 authors:
 - Neal Stephenson
 category: books
-cover: 1823608979.jpg
+thumbnail: 1823608979-cover.jpg
 format: paperback
 ids:
   goodreads: '1823608979'

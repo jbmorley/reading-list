@@ -2,7 +2,7 @@
 authors:
 - Agatha Christie
 category: books
-cover: 1823975667.jpg
+thumbnail: 1823975667-cover.jpg
 format: mass-market-paperback
 ids:
   goodreads: '1823975667'

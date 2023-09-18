@@ -2,7 +2,7 @@
 authors:
 - Jussi Adler-Olsen
 category: books
-cover: 3597807799.jpg
+thumbnail: 3597807799-cover.jpg
 format: hardcover
 ids:
   goodreads: '3597807799'

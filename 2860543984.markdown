@@ -2,7 +2,7 @@
 authors:
 - Robert C. O'Brien
 category: books
-cover: 2860543984.jpg
+thumbnail: 2860543984-cover.jpg
 format: paperback
 ids:
   goodreads: '2860543984'

@@ -2,7 +2,7 @@
 authors:
 - Tracy J. Butler
 category: books
-cover: 2843500614.jpg
+thumbnail: 2843500614-cover.jpg
 date: 2019-06-01 00:00:00-07:00
 format: paperback
 ids:

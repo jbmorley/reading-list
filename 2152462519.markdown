@@ -2,7 +2,7 @@
 authors:
 - Terry Pratchett
 category: books
-cover: 2152462519.jpg
+thumbnail: 2152462519-cover.jpg
 date: 2017-10-13 18:06:50-07:00
 end_date: 2017-11-09 19:24:12-08:00
 format: hardcover

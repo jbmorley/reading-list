@@ -2,7 +2,7 @@
 authors:
 - Éric Corbeyran
 category: books
-cover: 2531432240.jpg
+thumbnail: 2531432240-cover.jpg
 date: 2018-09-15 17:31:06-07:00
 end_date: 2018-09-23 09:08:24-07:00
 format: hardcover

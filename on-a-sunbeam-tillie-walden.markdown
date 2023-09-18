@@ -2,7 +2,7 @@
 authors:
 - Tillie Walden
 category: books
-cover: on-a-sunbeam-tillie-walden.jpg
+thumbnail: on-a-sunbeam-tillie-walden-cover.jpg
 date: '2023-03-31T19:00:13.118338+01:00'
 end_date: '2023-04-12T07:41:49.281054+00:00'
 ids:

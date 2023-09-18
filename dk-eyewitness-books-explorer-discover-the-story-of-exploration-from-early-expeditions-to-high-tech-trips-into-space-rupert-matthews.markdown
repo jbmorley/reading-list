@@ -2,7 +2,7 @@
 authors:
 - Rupert Matthews
 category: books
-cover: dk-eyewitness-books-explorer-discover-the-story-of-exploration-from-early-expeditions-to-high-tech-trips-into-space-rupert-matthews.jpg
+thumbnail: dk-eyewitness-books-explorer-discover-the-story-of-exploration-from-early-expeditions-to-high-tech-trips-into-space-rupert-matthews-cover.jpg
 ids:
   google_books: IIucx3IiDrMC
   isbn_10: 146541116X

@@ -2,7 +2,7 @@
 authors:
 - James Nestor
 category: books
-cover: breath-the-new-science-of-a-lost-art-james-nestor.jpg
+thumbnail: breath-the-new-science-of-a-lost-art-james-nestor-cover.jpg
 ids:
   google_books: 6lS9DwAAQBAJ
   isbn_10: '0735213631'

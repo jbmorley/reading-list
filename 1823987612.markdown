@@ -2,7 +2,7 @@
 authors:
 - Richard Castle
 category: books
-cover: 1823987612.jpg
+thumbnail: 1823987612-cover.jpg
 ids:
   goodreads: '1823987612'
 link: https://www.goodreads.com/book/show/8136931-heat-wave

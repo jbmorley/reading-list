@@ -2,7 +2,7 @@
 authors:
 - Richard Noble
 category: books
-cover: 2107421069.jpg
+thumbnail: 2107421069-cover.jpg
 format: unknown-binding
 ids:
   goodreads: '2107421069'

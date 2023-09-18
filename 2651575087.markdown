@@ -2,7 +2,7 @@
 authors:
 - Amelia Thomas
 category: books
-cover: 2651575087.jpg
+thumbnail: 2651575087-cover.jpg
 format: paperback
 ids:
   goodreads: '2651575087'

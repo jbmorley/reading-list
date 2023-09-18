@@ -3,7 +3,7 @@ authors:
 - Tillie Walden
 - Robert Kirkman
 category: books
-cover: clementine-book-1-tillie-walden-robert-kirkman.jpg
+thumbnail: clementine-book-1-tillie-walden-robert-kirkman-cover.jpg
 date: '2023-06-24T17:35:57.812872-10:00'
 end_date: '2023-06-25T12:03:13.555071-10:00'
 ids:

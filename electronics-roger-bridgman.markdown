@@ -2,7 +2,7 @@
 authors:
 - Roger Bridgman
 category: books
-cover: electronics-roger-bridgman.jpg
+thumbnail: electronics-roger-bridgman-cover.jpg
 ids:
   google_books: oIpk2M7hoisC
   isbn_10: 0789467240

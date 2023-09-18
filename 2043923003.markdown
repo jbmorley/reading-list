@@ -2,7 +2,7 @@
 authors:
 - Douglas Adams
 category: books
-cover: 2043923003.jpg
+thumbnail: 2043923003-cover.jpg
 format: mass-market-paperback
 ids:
   goodreads: '2043923003'

@@ -2,7 +2,7 @@
 authors:
 - Brian K. Vaughan
 category: books
-cover: 2051150174.jpg
+thumbnail: 2051150174-cover.jpg
 date: 2017-07-06 08:30:18-07:00
 end_date: 2017-07-06 21:40:34-07:00
 ids:

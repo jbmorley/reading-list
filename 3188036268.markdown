@@ -2,7 +2,7 @@
 authors:
 - Sam Humphries
 category: books
-cover: 3188036268.jpg
+thumbnail: 3188036268-cover.jpg
 format: paperback
 ids:
   goodreads: '3188036268'

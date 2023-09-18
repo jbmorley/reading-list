@@ -2,7 +2,7 @@
 authors:
 - Robin Sloan
 category: books
-cover: mr-penumbra-s-24-hour-bookstore-a-novel-robin-sloan.jpg
+thumbnail: mr-penumbra-s-24-hour-bookstore-a-novel-robin-sloan-cover.jpg
 ids:
   google_books: 7QuIvZcgoQEC
   isbn_10: '1443415804'

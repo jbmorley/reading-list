@@ -2,7 +2,7 @@
 authors:
 - Nedra Glover Tawwab
 category: books
-cover: drama-free-a-guide-to-managing-unhealthy-family-relationships-nedra-glover-tawwab.jpg
+thumbnail: drama-free-a-guide-to-managing-unhealthy-family-relationships-nedra-glover-tawwab-cover.jpg
 ids:
   google_books: lJWbEAAAQBAJ
   isbn_10: 0349432112

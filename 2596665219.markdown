@@ -2,7 +2,7 @@
 authors:
 - Charles Stross
 category: books
-cover: 2596665219.jpg
+thumbnail: 2596665219-cover.jpg
 format: kindle-edition
 ids:
   goodreads: '2596665219'

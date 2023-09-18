@@ -2,7 +2,7 @@
 authors:
 - Herodotus
 category: books
-cover: 2108260084.jpg
+thumbnail: 2108260084-cover.jpg
 ids:
   goodreads: '2108260084'
   isbn_10: '0141025336'

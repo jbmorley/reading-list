@@ -2,7 +2,7 @@
 authors:
 - Chris Mckinney
 category: books
-cover: midnight-water-city-chris-mckinney.jpg
+thumbnail: midnight-water-city-chris-mckinney-cover.jpg
 date: '2021-12-16T18:48:17.831558+00:00'
 end_date: '2022-01-05T01:41:07.605043+00:00'
 ids:

@@ -2,7 +2,7 @@
 authors:
 - Bill Bryson
 category: books
-cover: 1823977446.jpg
+thumbnail: 1823977446-cover.jpg
 format: hardcover
 ids:
   goodreads: '1823977446'

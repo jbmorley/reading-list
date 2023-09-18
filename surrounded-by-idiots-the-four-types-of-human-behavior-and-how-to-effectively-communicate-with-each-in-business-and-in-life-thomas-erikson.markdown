@@ -2,7 +2,7 @@
 authors:
 - Thomas Erikson
 category: books
-cover: surrounded-by-idiots-the-four-types-of-human-behavior-and-how-to-effectively-communicate-with-each-in-business-and-in-life-thomas-erikson.jpg
+thumbnail: surrounded-by-idiots-the-four-types-of-human-behavior-and-how-to-effectively-communicate-with-each-in-business-and-in-life-thomas-erikson-cover.jpg
 ids:
   google_books: mo1xDwAAQBAJ
   isbn_10: '1250179955'

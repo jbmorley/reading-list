@@ -2,7 +2,7 @@
 authors:
 - Jules Verne
 category: books
-cover: 1823569572.jpg
+thumbnail: 1823569572-cover.jpg
 format: paperback
 ids:
   goodreads: '1823569572'

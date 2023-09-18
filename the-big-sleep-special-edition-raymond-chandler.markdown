@@ -2,7 +2,7 @@
 authors:
 - Raymond Chandler
 category: books
-cover: the-big-sleep-special-edition-raymond-chandler.jpg
+thumbnail: the-big-sleep-special-edition-raymond-chandler-cover.jpg
 date: '2022-11-26T15:12:09.024759+00:00'
 ids:
   google_books: nXKCEAAAQBAJ

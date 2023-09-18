@@ -2,7 +2,7 @@
 authors:
 - Jo Ellen Bogart
 category: books
-cover: the-white-cat-and-the-monk-jo-ellen-bogart.jpg
+thumbnail: the-white-cat-and-the-monk-jo-ellen-bogart-cover.jpg
 date: '2020-12-22T07:30:39.531132-08:00'
 end_date: '2020-12-22T07:31:54.567853-08:00'
 ids:

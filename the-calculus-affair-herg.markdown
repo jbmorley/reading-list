@@ -2,7 +2,7 @@
 authors:
 - Hergé
 category: books
-cover: the-calculus-affair-herg.jpg
+thumbnail: the-calculus-affair-herg-cover.jpg
 date: '2022-12-28T11:41:05.115565+00:00'
 end_date: '2022-12-31T10:28:09.225392+00:00'
 ids:

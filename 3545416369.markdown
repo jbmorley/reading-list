@@ -2,7 +2,7 @@
 authors:
 - Sid Meier
 category: books
-cover: 3545416369.jpg
+thumbnail: 3545416369-cover.jpg
 format: hardcover
 ids:
   goodreads: '3545416369'

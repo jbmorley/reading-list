@@ -2,7 +2,7 @@
 authors:
 - Aldous Huxley
 category: books
-cover: 1823576107.jpg
+thumbnail: 1823576107-cover.jpg
 format: paperback
 ids:
   goodreads: '1823576107'

@@ -3,7 +3,7 @@ authors:
 - Wolfgang Amadeus Mozart
 - Leopold Mozart
 category: books
-cover: my-dearest-father-wolfgang-amadeus-mozart-leopold-mozart.jpg
+thumbnail: my-dearest-father-wolfgang-amadeus-mozart-leopold-mozart-cover.jpg
 ids:
   google_books: UHrIoQEACAAJ
   isbn_10: 0141397624

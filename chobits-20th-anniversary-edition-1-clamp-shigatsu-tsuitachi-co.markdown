@@ -2,7 +2,7 @@
 authors:
 - CLAMP・ Shigatsu Tsuitachi Co.
 category: books
-cover: chobits-20th-anniversary-edition-1-clamp-shigatsu-tsuitachi-co.jpg
+thumbnail: chobits-20th-anniversary-edition-1-clamp-shigatsu-tsuitachi-co-cover.jpg
 date: '2021-06-24T11:41:27.883891-07:00'
 end_date: '2021-06-25T09:54:30.959055-07:00'
 ids:

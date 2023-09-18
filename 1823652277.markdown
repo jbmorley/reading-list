@@ -2,7 +2,7 @@
 authors:
 - Richard Castle
 category: books
-cover: 1823652277.jpg
+thumbnail: 1823652277-cover.jpg
 ids:
   goodreads: '1823652277'
 link: https://www.goodreads.com/book/show/22051701-wild-storm

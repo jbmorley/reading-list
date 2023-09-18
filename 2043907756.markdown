@@ -2,7 +2,7 @@
 authors:
 - Randy Pausch
 category: books
-cover: 2043907756.jpg
+thumbnail: 2043907756-cover.jpg
 format: hardcover
 ids:
   goodreads: '2043907756'

@@ -2,7 +2,7 @@
 authors:
 - Stephen Fry
 category: books
-cover: 2324568313.jpg
+thumbnail: 2324568313-cover.jpg
 date: 2018-03-11 19:35:45-07:00
 end_date: 2019-01-13 19:26:07-08:00
 format: hardcover

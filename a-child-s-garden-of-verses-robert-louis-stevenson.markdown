@@ -2,7 +2,7 @@
 authors:
 - Robert Louis Stevenson
 category: books
-cover: a-child-s-garden-of-verses-robert-louis-stevenson.jpg
+thumbnail: a-child-s-garden-of-verses-robert-louis-stevenson-cover.jpg
 ids:
   google_books: XPWpzgEACAAJ
   isbn_10: 0689823827

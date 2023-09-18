@@ -2,7 +2,7 @@
 authors:
 - George Orwell
 category: books
-cover: 2043901779.jpg
+thumbnail: 2043901779-cover.jpg
 format: paperback
 ids:
   goodreads: '2043901779'

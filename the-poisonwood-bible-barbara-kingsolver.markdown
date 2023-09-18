@@ -2,7 +2,7 @@
 authors:
 - Barbara Kingsolver
 category: books
-cover: the-poisonwood-bible-barbara-kingsolver.jpg
+thumbnail: the-poisonwood-bible-barbara-kingsolver-cover.jpg
 ids:
   google_books: QJ0JmYmeHFAC
   isbn_10: '0571246214'

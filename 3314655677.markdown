@@ -2,7 +2,7 @@
 authors:
 - Cory Doctorow
 category: books
-cover: 3314655677.jpg
+thumbnail: 3314655677-cover.jpg
 date: 2020-05-02 15:17:34-07:00
 end_date: 2020-05-02 15:17:52-07:00
 format: paperback

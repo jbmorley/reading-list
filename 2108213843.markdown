@@ -2,7 +2,7 @@
 authors:
 - Russell Stannard
 category: books
-cover: 2108213843.jpg
+thumbnail: 2108213843-cover.jpg
 ids:
   goodreads: '2108213843'
   isbn_10: 0571142826

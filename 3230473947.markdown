@@ -2,7 +2,7 @@
 authors:
 - Rick Remender
 category: books
-cover: 3230473947.jpg
+thumbnail: 3230473947-cover.jpg
 format: paperback
 ids:
   goodreads: '3230473947'

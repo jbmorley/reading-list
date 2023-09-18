@@ -2,7 +2,7 @@
 authors:
 - Andy Weir
 category: books
-cover: 2906497976.jpg
+thumbnail: 2906497976-cover.jpg
 format: ebook
 ids:
   goodreads: '2906497976'

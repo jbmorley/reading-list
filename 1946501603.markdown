@@ -2,7 +2,7 @@
 authors:
 - Dennis E. Taylor
 category: books
-cover: 1946501603.jpg
+thumbnail: 1946501603-cover.jpg
 date: 2017-03-19 13:41:43-07:00
 end_date: 2017-03-29 22:01:17-07:00
 ids:

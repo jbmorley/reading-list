@@ -2,7 +2,7 @@
 authors:
 - Mitch Albom
 category: books
-cover: 1823670577.jpg
+thumbnail: 1823670577-cover.jpg
 format: paperback
 ids:
   goodreads: '1823670577'

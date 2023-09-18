@@ -2,7 +2,7 @@
 authors:
 - Shaun Inman
 category: books
-cover: 2651592243.jpg
+thumbnail: 2651592243-cover.jpg
 format: ebook
 ids:
   goodreads: '2651592243'

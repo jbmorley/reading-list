@@ -2,7 +2,7 @@
 authors:
 - Emily St. John Mandel
 category: books
-cover: 3215315983.jpg
+thumbnail: 3215315983-cover.jpg
 format: hardcover
 ids:
   goodreads: '3215315983'

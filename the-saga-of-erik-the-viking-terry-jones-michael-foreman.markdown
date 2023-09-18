@@ -3,7 +3,7 @@ authors:
 - Terry Jones
 - Michael Foreman
 category: books
-cover: the-saga-of-erik-the-viking-terry-jones-michael-foreman.jpg
+thumbnail: the-saga-of-erik-the-viking-terry-jones-michael-foreman-cover.jpg
 ids:
   google_books: cQMIAAAACAAJ
   isbn_10: '1862052255'

@@ -2,7 +2,7 @@
 authors:
 - Ram V
 category: books
-cover: the-many-deaths-of-laila-starr-ram-v.jpg
+thumbnail: the-many-deaths-of-laila-starr-ram-v-cover.jpg
 date: '2022-11-06T14:05:22.345393-08:00'
 end_date: '2022-11-26T15:11:06.125566+00:00'
 ids:

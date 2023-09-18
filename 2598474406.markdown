@@ -2,7 +2,7 @@
 authors:
 - Warren Ellis
 category: books
-cover: 2598474406.jpg
+thumbnail: 2598474406-cover.jpg
 date: 2018-11-18 13:21:02-08:00
 end_date: 2018-11-18 18:45:25-08:00
 ids:

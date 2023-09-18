@@ -2,7 +2,7 @@
 authors:
 - William Gibson
 category: books
-cover: 1826504855.jpg
+thumbnail: 1826504855-cover.jpg
 format: hardcover
 ids:
   goodreads: '1826504855'

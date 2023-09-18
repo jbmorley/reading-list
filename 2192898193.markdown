@@ -2,7 +2,7 @@
 authors:
 - Philip Pullman
 category: books
-cover: 2192898193.jpg
+thumbnail: 2192898193-cover.jpg
 date: 2017-11-23 09:49:48-08:00
 end_date: 2017-12-01 08:48:21-08:00
 format: hardcover

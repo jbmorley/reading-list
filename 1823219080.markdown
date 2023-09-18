@@ -2,7 +2,7 @@
 authors:
 - Xiaolu Guo
 category: books
-cover: 1823219080.jpg
+thumbnail: 1823219080-cover.jpg
 format: paperback
 ids:
   goodreads: '1823219080'

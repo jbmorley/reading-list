@@ -2,7 +2,7 @@
 authors:
 - Kenneth Grahame
 category: books
-cover: the-wind-in-the-willows-kenneth-grahame.jpg
+thumbnail: the-wind-in-the-willows-kenneth-grahame-cover.jpg
 ids:
   google_books: CECuJvJidr8C
   isbn_10: 009957294X

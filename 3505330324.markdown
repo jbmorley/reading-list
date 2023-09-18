@@ -2,7 +2,7 @@
 authors:
 - Trina Paulus
 category: books
-cover: 3505330324.jpg
+thumbnail: 3505330324-cover.jpg
 date: 2020-08-15 00:00:00-07:00
 end_date: 2020-08-15 00:00:00-07:00
 ids:

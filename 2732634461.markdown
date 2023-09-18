@@ -2,7 +2,7 @@
 authors:
 - Tara Westover
 category: books
-cover: 2732634461.jpg
+thumbnail: 2732634461-cover.jpg
 date: 2019-03-04 00:00:00-08:00
 format: hardcover
 ids:

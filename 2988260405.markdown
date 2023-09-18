@@ -2,7 +2,7 @@
 authors:
 - Charles Stross
 category: books
-cover: 2988260405.jpg
+thumbnail: 2988260405-cover.jpg
 date: 2019-09-25 18:13:19-07:00
 end_date: 2020-01-30 17:36:30-08:00
 format: hardcover

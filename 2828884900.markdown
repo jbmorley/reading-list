@@ -2,7 +2,7 @@
 authors:
 - Art Spiegelman
 category: books
-cover: 2828884900.jpg
+thumbnail: 2828884900-cover.jpg
 date: 2019-05-21 08:12:04-07:00
 format: paperback
 ids:

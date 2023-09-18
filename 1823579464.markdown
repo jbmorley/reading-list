@@ -2,7 +2,7 @@
 authors:
 - Brian Eddy
 category: books
-cover: 1823579464.jpg
+thumbnail: 1823579464-cover.jpg
 format: paperback
 ids:
   goodreads: '1823579464'

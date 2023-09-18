@@ -2,7 +2,7 @@
 authors:
 - Brian Jacques
 category: books
-cover: 2107271357.jpg
+thumbnail: 2107271357-cover.jpg
 format: paperback
 ids:
   goodreads: '2107271357'

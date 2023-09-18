@@ -2,7 +2,7 @@
 authors:
 - Ernest Hemingway
 category: books
-cover: the-old-man-and-the-sea-ernest-hemingway.jpg
+thumbnail: the-old-man-and-the-sea-ernest-hemingway-cover.jpg
 ids:
   google_books: KmdBEAAAQBAJ
 link: https://books.google.com/books/about/The_Old_Man_and_the_Sea.html?hl=&id=KmdBEAAAQBAJ

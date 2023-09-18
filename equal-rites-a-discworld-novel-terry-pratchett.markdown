@@ -2,7 +2,7 @@
 authors:
 - Terry Pratchett
 category: books
-cover: equal-rites-a-discworld-novel-terry-pratchett.jpg
+thumbnail: equal-rites-a-discworld-novel-terry-pratchett-cover.jpg
 date: '2023-01-25T12:58:48.844665+00:00'
 end_date: '2023-01-25T12:58:49.229687+00:00'
 ids:

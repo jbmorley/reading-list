@@ -2,7 +2,7 @@
 authors:
 - Tamsyn Muir
 category: books
-cover: gideon-the-ninth-tamsyn-muir.jpg
+thumbnail: gideon-the-ninth-tamsyn-muir-cover.jpg
 ids:
   google_books: HHJwDwAAQBAJ
   isbn_10: '1250313171'

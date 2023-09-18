@@ -3,7 +3,7 @@ authors:
 - Imperial War Museum (Great Britain)
 - Southgate Publishers
 category: books
-cover: duxford-imperial-war-museum-imperial-war-museum-great-britain-southgate-publishers.jpg
+thumbnail: duxford-imperial-war-museum-imperial-war-museum-great-britain-southgate-publishers-cover.jpg
 ids:
   google_books: zavPPQAACAAJ
   isbn_10: '1870423429'

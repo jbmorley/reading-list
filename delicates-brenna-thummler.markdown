@@ -2,7 +2,7 @@
 authors:
 - Brenna Thummler
 category: books
-cover: delicates-brenna-thummler.jpg
+thumbnail: delicates-brenna-thummler-cover.jpg
 date: '2021-06-09T16:25:09.651354-07:00'
 end_date: '2021-06-09T16:25:09.970905-07:00'
 ids:

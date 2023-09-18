@@ -2,7 +2,7 @@
 authors:
 - Sarah Andersen
 category: books
-cover: 3538139339.jpg
+thumbnail: 3538139339-cover.jpg
 date: 2020-09-07 00:00:00-07:00
 end_date: 2020-09-07 00:00:00-07:00
 format: hardcover

@@ -2,7 +2,7 @@
 authors:
 - Deb Chachra
 category: books
-cover: how-infrastructure-works-inside-the-systems-that-shape-our-world-deb-chachra.jpg
+thumbnail: how-infrastructure-works-inside-the-systems-that-shape-our-world-deb-chachra-cover.jpg
 ids:
   google_books: iderEAAAQBAJ
   isbn_10: 0593086597

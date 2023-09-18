@@ -2,7 +2,7 @@
 authors:
 - Alan Moore
 category: books
-cover: 3615027437.jpg
+thumbnail: 3615027437-cover.jpg
 date: 2020-10-26 22:13:21-07:00
 end_date: 2020-10-26 23:04:31-07:00
 ids:

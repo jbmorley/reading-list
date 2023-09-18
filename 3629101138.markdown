@@ -2,7 +2,7 @@
 authors:
 - Frank Gibson
 category: books
-cover: 3629101138.jpg
+thumbnail: 3629101138-cover.jpg
 date: 2020-11-04 14:08:12-08:00
 end_date: 2020-11-08 13:21:53-08:00
 format: hardcover

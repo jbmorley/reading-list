@@ -2,7 +2,7 @@
 authors:
 - Agatha Christie
 category: books
-cover: death-comes-as-the-end-agatha-christie.jpg
+thumbnail: death-comes-as-the-end-agatha-christie-cover.jpg
 date: '2021-11-24T07:38:39.678320-08:00'
 end_date: '2021-11-24T07:38:40.396340-08:00'
 ids:

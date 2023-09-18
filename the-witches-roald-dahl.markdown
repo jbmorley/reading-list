@@ -2,7 +2,7 @@
 authors:
 - Roald Dahl
 category: books
-cover: the-witches-roald-dahl.jpg
+thumbnail: the-witches-roald-dahl-cover.jpg
 ids:
   google_books: WLJCtAEACAAJ
   isbn_10: 0141345179

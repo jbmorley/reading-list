@@ -2,7 +2,7 @@
 authors:
 - Agatha Christie
 category: books
-cover: a-pocket-full-of-rye-marple-book-7-agatha-christie.jpg
+thumbnail: a-pocket-full-of-rye-marple-book-7-agatha-christie-cover.jpg
 date: '2023-03-11T07:55:44.306261+00:00'
 end_date: '2023-03-15T18:08:12.231854+00:00'
 ids:

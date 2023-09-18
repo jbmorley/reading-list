@@ -2,7 +2,7 @@
 authors:
 - Scott Adams
 category: books
-cover: 1823625039.jpg
+thumbnail: 1823625039-cover.jpg
 format: paperback
 ids:
   goodreads: '1823625039'

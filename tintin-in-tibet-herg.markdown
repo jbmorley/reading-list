@@ -2,7 +2,7 @@
 authors:
 - Hergé
 category: books
-cover: tintin-in-tibet-herg.jpg
+thumbnail: tintin-in-tibet-herg-cover.jpg
 date: '2022-12-10T19:30:53.236178+00:00'
 end_date: '2022-12-20T21:38:11.666911+00:00'
 ids:

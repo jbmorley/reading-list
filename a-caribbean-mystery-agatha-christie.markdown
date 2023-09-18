@@ -2,7 +2,7 @@
 authors:
 - Agatha Christie
 category: books
-cover: a-caribbean-mystery-agatha-christie.jpg
+thumbnail: a-caribbean-mystery-agatha-christie-cover.jpg
 date: '2023-03-30T16:06:18.097979+01:00'
 end_date: '2023-03-31T17:39:46.523668+01:00'
 ids:

@@ -2,7 +2,7 @@
 authors:
 - Brian K. Vaughan
 category: books
-cover: 2047677026.jpg
+thumbnail: 2047677026-cover.jpg
 ids:
   goodreads: '2047677026'
 link: https://www.goodreads.com/book/show/26235286-runaways-2003-2004-17

@@ -2,7 +2,7 @@
 authors:
 - Hergé
 category: books
-cover: red-rackham-s-treasure-herg.jpg
+thumbnail: red-rackham-s-treasure-herg-cover.jpg
 date: '2023-04-19T09:58:42.780160-06:00'
 end_date: '2023-04-20T12:28:17.648404-06:00'
 ids:

@@ -2,7 +2,7 @@
 authors:
 - T.S. Eliot
 category: books
-cover: 2817853359.jpg
+thumbnail: 2817853359-cover.jpg
 date: 2019-05-11 19:18:46-07:00
 end_date: 2019-07-09 13:55:58-07:00
 ids:

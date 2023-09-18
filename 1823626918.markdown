@@ -2,7 +2,7 @@
 authors:
 - Terry Jones
 category: books
-cover: 1823626918.jpg
+thumbnail: 1823626918-cover.jpg
 format: paperback
 ids:
   goodreads: '1823626918'

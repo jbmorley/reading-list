@@ -3,7 +3,7 @@ authors:
 - Judy Tatchell
 - Graham Round
 category: books
-cover: how-to-draw-cartoons-and-caricatures-judy-tatchell-graham-round.jpg
+thumbnail: how-to-draw-cartoons-and-caricatures-judy-tatchell-graham-round-cover.jpg
 ids:
   google_books: hRksOQAACAAJ
   isbn_10: 0794513743

@@ -2,7 +2,7 @@
 authors:
 - Tad Williams
 category: books
-cover: otherland-city-of-golden-shadow-tad-williams.jpg
+thumbnail: otherland-city-of-golden-shadow-tad-williams-cover.jpg
 ids:
   google_books: TA61E3-I6QgC
   isbn_10: '1101551267'

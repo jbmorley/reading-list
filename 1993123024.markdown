@@ -2,7 +2,7 @@
 authors:
 - Graham Greene
 category: books
-cover: 1993123024.jpg
+thumbnail: 1993123024-cover.jpg
 date: 2017-05-06 00:00:00-07:00
 end_date: 2017-05-15 00:00:00-07:00
 format: audible-audio

@@ -2,7 +2,7 @@
 authors:
 - Mengo Yokoyari
 category: books
-cover: 2677398746.jpg
+thumbnail: 2677398746-cover.jpg
 date: 2019-01-17 02:17:01-08:00
 end_date: 2019-01-18 06:21:30-08:00
 format: paperback

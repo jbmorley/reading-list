@@ -2,7 +2,7 @@
 authors:
 - Soetsu Yanagi
 category: books
-cover: 3649780628.jpg
+thumbnail: 3649780628-cover.jpg
 ids:
   goodreads: '3649780628'
 link: https://www.goodreads.com/book/show/41753650-the-beauty-of-everyday-things

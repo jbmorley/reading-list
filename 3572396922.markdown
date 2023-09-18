@@ -2,7 +2,7 @@
 authors:
 - Lewis Engel
 category: books
-cover: 3572396922.jpg
+thumbnail: 3572396922-cover.jpg
 ids:
   goodreads: '3572396922'
   isbn_10: 0671737139

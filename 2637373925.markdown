@@ -2,7 +2,7 @@
 authors:
 - Jacqueline Carey
 category: books
-cover: 2637373925.jpg
+thumbnail: 2637373925-cover.jpg
 date: 2019-01-09 21:43:06-08:00
 ids:
   goodreads: '2637373925'

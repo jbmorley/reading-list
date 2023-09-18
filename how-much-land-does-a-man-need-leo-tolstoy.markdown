@@ -2,7 +2,7 @@
 authors:
 - Leo Tolstoy
 category: books
-cover: how-much-land-does-a-man-need-leo-tolstoy.jpg
+thumbnail: how-much-land-does-a-man-need-leo-tolstoy-cover.jpg
 ids:
   google_books: 2J0eBgAAQBAJ
   isbn_10: 0141397756

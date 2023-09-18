@@ -2,7 +2,7 @@
 authors:
 - Douglas Adams
 category: books
-cover: 2043922823.jpg
+thumbnail: 2043922823-cover.jpg
 ids:
   goodreads: '2043922823'
 link: https://www.goodreads.com/book/show/6091075-so-long-and-thanks-for-all-the-fish

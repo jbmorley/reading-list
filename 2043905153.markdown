@@ -2,7 +2,7 @@
 authors:
 - Jeffrey Eugenides
 category: books
-cover: 2043905153.jpg
+thumbnail: 2043905153-cover.jpg
 format: paperback
 ids:
   goodreads: '2043905153'

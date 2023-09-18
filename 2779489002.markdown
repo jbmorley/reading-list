@@ -2,7 +2,7 @@
 authors:
 - H.G. Wells
 category: books
-cover: 2779489002.jpg
+thumbnail: 2779489002-cover.jpg
 ids:
   goodreads: '2779489002'
   isbn_10: '1600964249'

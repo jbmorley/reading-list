@@ -2,7 +2,7 @@
 authors:
 - Willard Price
 category: books
-cover: 2108214657.jpg
+thumbnail: 2108214657-cover.jpg
 format: paperback
 ids:
   goodreads: '2108214657'

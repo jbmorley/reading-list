@@ -2,7 +2,7 @@
 authors:
 - Ian Fleming
 category: books
-cover: 2447186446.jpg
+thumbnail: 2447186446-cover.jpg
 date: 2018-07-06 01:25:46-07:00
 end_date: 2018-12-30 00:00:00-08:00
 format: paperback

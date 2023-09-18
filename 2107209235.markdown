@@ -2,7 +2,7 @@
 authors:
 - Robert C. O'Brien
 category: books
-cover: 2107209235.jpg
+thumbnail: 2107209235-cover.jpg
 ids:
   goodreads: '2107209235'
 link: https://www.goodreads.com/book/show/1361602.Z_For_Zachariah

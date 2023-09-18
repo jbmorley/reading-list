@@ -2,7 +2,7 @@
 authors:
 - Sue Townsend
 category: books
-cover: 2106721860.jpg
+thumbnail: 2106721860-cover.jpg
 format: hardcover
 ids:
   goodreads: '2106721860'

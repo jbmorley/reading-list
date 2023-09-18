@@ -2,7 +2,7 @@
 authors:
 - Noelle Stevenson
 category: books
-cover: 3543385615.jpg
+thumbnail: 3543385615-cover.jpg
 date: 2020-09-10 00:00:00-07:00
 end_date: 2020-09-12 23:47:11-07:00
 format: paperback

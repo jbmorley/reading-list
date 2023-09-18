@@ -2,7 +2,7 @@
 authors:
 - Paolo Bacigalupi
 category: books
-cover: 2536153240.jpg
+thumbnail: 2536153240-cover.jpg
 date: 2018-09-19 22:10:11-07:00
 end_date: 2018-10-05 18:55:23-07:00
 format: hardcover

@@ -2,7 +2,7 @@
 authors:
 - William Gibson
 category: books
-cover: 3025567496.jpg
+thumbnail: 3025567496-cover.jpg
 date: 2019-10-26 00:15:34-07:00
 end_date: 2019-10-26 22:20:10-07:00
 ids:

@@ -2,7 +2,7 @@
 authors:
 - Roald Dahl
 category: books
-cover: the-magic-finger-roald-dahl.jpg
+thumbnail: the-magic-finger-roald-dahl-cover.jpg
 ids:
   google_books: rJiMEAAAQBAJ
   isbn_10: 0142413852

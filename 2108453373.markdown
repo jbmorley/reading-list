@@ -2,7 +2,7 @@
 authors:
 - Martin Oliver
 category: books
-cover: 2108453373.jpg
+thumbnail: 2108453373-cover.jpg
 format: paperback
 ids:
   goodreads: '2108453373'

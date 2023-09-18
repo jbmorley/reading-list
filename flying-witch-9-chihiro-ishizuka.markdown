@@ -2,7 +2,7 @@
 authors:
 - Chihiro Ishizuka
 category: books
-cover: flying-witch-9-chihiro-ishizuka.jpg
+thumbnail: flying-witch-9-chihiro-ishizuka-cover.jpg
 date: 2021-03-13
 end_date: '2021-03-17T14:12:23.138026-07:00'
 ids:

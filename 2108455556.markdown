@@ -2,7 +2,7 @@
 authors:
 - Karen Dolby
 category: books
-cover: 2108455556.jpg
+thumbnail: 2108455556-cover.jpg
 format: paperback
 ids:
   goodreads: '2108455556'

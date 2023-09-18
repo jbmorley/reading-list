@@ -2,7 +2,7 @@
 authors:
 - Charles Eisenstein
 category: books
-cover: the-more-beautiful-world-our-hearts-know-is-possible-charles-eisenstein.jpg
+thumbnail: the-more-beautiful-world-our-hearts-know-is-possible-charles-eisenstein-cover.jpg
 ids:
   google_books: 6cYxAQAAQBAJ
   isbn_10: '1583947248'

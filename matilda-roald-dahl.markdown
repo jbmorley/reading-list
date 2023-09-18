@@ -2,7 +2,7 @@
 authors:
 - Roald Dahl
 category: books
-cover: matilda-roald-dahl.jpg
+thumbnail: matilda-roald-dahl-cover.jpg
 ids:
   google_books: rDGTEAAAQBAJ
   isbn_10: 0670824399

@@ -2,7 +2,7 @@
 authors:
 - Paolo Bacigalupi
 category: books
-cover: 3504853009.jpg
+thumbnail: 3504853009-cover.jpg
 format: hardcover
 ids:
   goodreads: '3504853009'

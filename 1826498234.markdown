@@ -2,7 +2,7 @@
 authors:
 - Neil Gaiman
 category: books
-cover: 1826498234.jpg
+thumbnail: 1826498234-cover.jpg
 format: paperback
 ids:
   goodreads: '1826498234'

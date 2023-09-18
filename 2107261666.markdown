@@ -2,7 +2,7 @@
 authors:
 - Frederick P. Brooks Jr.
 category: books
-cover: 2107261666.jpg
+thumbnail: 2107261666-cover.jpg
 format: paperback
 ids:
   goodreads: '2107261666'

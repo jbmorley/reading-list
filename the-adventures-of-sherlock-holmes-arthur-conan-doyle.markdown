@@ -2,7 +2,7 @@
 authors:
 - Arthur Conan Doyle
 category: books
-cover: the-adventures-of-sherlock-holmes-arthur-conan-doyle.jpg
+thumbnail: the-adventures-of-sherlock-holmes-arthur-conan-doyle-cover.jpg
 ids:
   google_books: vb5IAwAAQBAJ
   isbn_10: 0486474917

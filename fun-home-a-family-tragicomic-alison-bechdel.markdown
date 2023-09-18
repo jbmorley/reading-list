@@ -2,7 +2,7 @@
 authors:
 - Alison Bechdel
 category: books
-cover: fun-home-a-family-tragicomic-alison-bechdel.jpg
+thumbnail: fun-home-a-family-tragicomic-alison-bechdel-cover.jpg
 ids:
   google_books: eq0n9Ck79ysC
   isbn_10: 0618871713

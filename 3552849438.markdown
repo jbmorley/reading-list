@@ -2,7 +2,7 @@
 authors:
 - Kieron Gillen
 category: books
-cover: 3552849438.jpg
+thumbnail: 3552849438-cover.jpg
 date: 2020-09-16 23:42:51-07:00
 end_date: 2020-09-20 12:47:44-07:00
 format: paperback

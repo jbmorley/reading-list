@@ -2,7 +2,7 @@
 authors:
 - John Wyndham
 category: books
-cover: 2043914204.jpg
+thumbnail: 2043914204-cover.jpg
 format: mass-market-paperback
 ids:
   goodreads: '2043914204'

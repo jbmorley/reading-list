@@ -2,7 +2,7 @@
 authors:
 - Dick King-Smith
 category: books
-cover: tumbleweed-dick-king-smith.jpg
+thumbnail: tumbleweed-dick-king-smith-cover.jpg
 ids:
   google_books: sLEsAAAACAAJ
   isbn_10: '0140325476'

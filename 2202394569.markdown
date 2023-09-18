@@ -2,7 +2,7 @@
 authors:
 - Margaret Atwood
 category: books
-cover: 2202394569.jpg
+thumbnail: 2202394569-cover.jpg
 date: 2017-12-02 22:01:40-08:00
 end_date: 2018-01-15 21:10:31-08:00
 format: hardcover

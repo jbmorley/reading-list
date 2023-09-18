@@ -2,7 +2,7 @@
 authors:
 - Harry Harrison
 category: books
-cover: a-transatlantic-tunnel-hurrah-harry-harrison.jpg
+thumbnail: a-transatlantic-tunnel-hurrah-harry-harrison-cover.jpg
 ids:
   google_books: 8cX4O0tWFW4C
   isbn_10: 0765327864

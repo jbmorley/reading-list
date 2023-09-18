@@ -2,7 +2,7 @@
 authors:
 - Jeanette Foster
 category: books
-cover: 2651566040.jpg
+thumbnail: 2651566040-cover.jpg
 ids:
   goodreads: '2651566040'
   isbn_10: '1118287592'
