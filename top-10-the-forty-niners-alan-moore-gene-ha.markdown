@@ -3,7 +3,6 @@ authors:
 - Alan Moore
 - Gene Ha
 category: books
-thumbnail: top-10-the-forty-niners-alan-moore-gene-ha-cover.jpg
 date: '2021-05-03T18:37:15.421840-07:00'
 end_date: '2021-05-03T18:37:15.837466-07:00'
 ids:

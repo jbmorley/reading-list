@@ -2,7 +2,6 @@
 authors:
 - Roger    Williams
 category: books
-thumbnail: 1823975989-cover.jpg
 ids:
   goodreads: '1823975989'
 link: https://www.goodreads.com/book/show/13095728-the-metamorphosis-of-prime-intellect
