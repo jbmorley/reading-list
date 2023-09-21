@@ -2,11 +2,12 @@
 authors:
 - Jacqueline Carey
 category: books
-thumbnail: 2637373925-cover.jpg
 date: 2019-01-09 21:43:06-08:00
+end_date: '2023-09-20T22:04:13.324454-10:00'
 ids:
   goodreads: '2637373925'
 link: https://www.goodreads.com/book/show/12155371-kushiel-s-dart
-status: currently-reading
+status: abandoned
+thumbnail: 2637373925-cover.jpg
 title: Kushiel's Dart
 ---
