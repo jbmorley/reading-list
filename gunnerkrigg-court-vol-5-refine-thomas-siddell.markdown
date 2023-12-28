@@ -11,5 +11,5 @@ ids:
 link: https://books.google.com/books/about/Gunnerkrigg_Court_Vol_5_Refine.html?hl=&id=dj_qoQEACAAJ
 status: read
 thumbnail: gunnerkrigg-court-vol-5-refine-thomas-siddell-cover.jpg
-title: Gunnerkrigg Court Vol. 5 Refine
+title: "Gunnerkrigg Court Vol. 5: Refine"
 ---

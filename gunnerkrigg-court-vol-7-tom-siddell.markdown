@@ -10,5 +10,5 @@ ids:
 link: https://books.google.com/books/about/Gunnerkrigg_Court_Vol_7.html?hl=&id=KJxEwAEACAAJ
 status: currently-reading
 thumbnail: gunnerkrigg-court-vol-7-tom-siddell-cover.jpg
-title: Gunnerkrigg Court Vol. 7
+title: "Gunnerkrigg Court Vol. 7: Synthesis"
 ---
