@@ -2,6 +2,7 @@
 authors:
 - Dick King-Smith
 category: books
+thumbnail: paddy-s-pot-of-gold-dick-king-smith-cover.jpg
 ids:
   google_books: C5Q2lDEb51UC
   isbn_10: 067082903X
