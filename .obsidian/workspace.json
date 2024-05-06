@@ -11,8 +11,10 @@
             "id": "e2404798b1cbaad8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "the-magicians-alice-s-story-original-graphic-novel-lev-grossman-lilah-sturges-cover.jpg"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "the-magicians-alice-s-story-original-graphic-novel-lev-grossman-lilah-sturges-cover.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "the-magicians-alice-s-story-original-graphic-novel-lev-grossman-lilah-sturges-cover.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "the-magicians-alice-s-story-original-graphic-novel-lev-grossman-lilah-sturges-cover.jpg"
+              }
             }
           }
         ]
@@ -139,5 +145,7 @@
     }
   },
   "active": "e2404798b1cbaad8",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "the-more-beautiful-world-our-hearts-know-is-possible-charles-eisenstein-cover.jpg"
+  ]
 }
