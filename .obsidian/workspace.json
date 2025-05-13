@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a5bb0cb7658790b1",
+        "id": "563b84f6d124abe8",
         "type": "tabs",
         "children": [
           {
-            "id": "e2404798b1cbaad8",
+            "id": "6afb665a4268eb72",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "the-magicians-alice-s-story-original-graphic-novel-lev-grossman-lilah-sturges-cover.jpg"
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -36,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -83,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the-magicians-alice-s-story-original-graphic-novel-lev-grossman-lilah-sturges-cover.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -100,10 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the-magicians-alice-s-story-original-graphic-novel-lev-grossman-lilah-sturges-cover.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -113,8 +122,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -123,8 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the-magicians-alice-s-story-original-graphic-novel-lev-grossman-lilah-sturges-cover.jpg"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -144,8 +161,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2404798b1cbaad8",
+  "active": "6afb665a4268eb72",
   "lastOpenFiles": [
+    "the-magicians-alice-s-story-original-graphic-novel-lev-grossman-lilah-sturges-cover.jpg",
     "the-more-beautiful-world-our-hearts-know-is-possible-charles-eisenstein-cover.jpg"
   ]
 }
